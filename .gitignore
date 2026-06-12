@@ -1,0 +1,10 @@
+# 数据文件不上传
+*.xlsx
+*.csv
+
+# 原始HTML（index.html 是发布用的副本）
+全品种季节性分析.html
+
+# Python 缓存
+__pycache__/
+*.pyc
