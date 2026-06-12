@@ -1,12 +1,13 @@
 $ErrorActionPreference = "Stop"
 $dir = $PSScriptRoot
 Set-Location $dir
+$python = "c:\VS CODE\project\.venv\Scripts\python.exe"
 
 Write-Host "Step 1/4  清洗数据..." -ForegroundColor Cyan
-python clean_data_策略对日度数据.py
+& $python clean_data_策略对日度数据.py
 
 Write-Host "Step 2/4  生成HTML..." -ForegroundColor Cyan
-python seasonal_all.py
+& $python seasonal_all.py
 
 Write-Host "Step 3/4  复制为 index.html..." -ForegroundColor Cyan
 Copy-Item "全品种季节性分析.html" "index.html" -Force
