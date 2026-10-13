@@ -405,6 +405,44 @@ button.hb-row:hover .hb-label{color:var(--copper)}
 .sr-type i{width:8px;height:8px;border-radius:2px;display:inline-block}
 .plant-chart{margin-top:.4rem}
 
+/* ---- 市场讯息 页 ---- */
+.feed-view{flex:1;min-height:0;display:flex;flex-direction:column;background:var(--bg)}
+.feed-tools{flex:none;padding:1rem 1.6rem .8rem;border-bottom:1px solid var(--line);background:var(--bg)}
+.feed-tools-inner{max-width:980px;margin:0 auto}
+.feed-filters{display:flex;gap:.6rem;flex-wrap:wrap}
+.feed-filters input,.feed-filters select{
+  padding:.5rem .65rem;border-radius:8px;border:1px solid var(--line);background:var(--surface);color:var(--text);
+  font-size:.85rem;font-family:inherit}
+.feed-filters input{flex:1;min-width:200px}
+.feed-cats{display:flex;gap:.4rem;flex-wrap:wrap;margin-top:.6rem}
+.feed-cat{border:1px solid var(--line);background:var(--surface);color:var(--text-dim);border-radius:999px;
+  padding:.25rem .7rem;font-size:.74rem;cursor:pointer;display:inline-flex;align-items:center;gap:.35rem}
+.feed-cat i{width:8px;height:8px;border-radius:50%;display:inline-block}
+.feed-cat b{font-family:'IBM Plex Mono',monospace;font-weight:400}
+.feed-cat.active{background:var(--accent-soft);border-color:var(--copper);color:var(--text)}
+.feed-count{margin:.55rem 0 0;font-size:.72rem;color:var(--text-dim)}
+.feed-scroll{flex:1;min-height:0;overflow-y:auto;padding:0 1.6rem 2.4rem}
+.feed-list{max-width:980px;margin:0 auto}
+.feed-month{position:sticky;top:0;z-index:2;background:var(--bg);padding:.9rem 0 .45rem;margin:0;
+  font-size:1rem;display:flex;align-items:baseline;gap:.6rem;border-bottom:1px solid var(--line)}
+.feed-month small{font-family:'IBM Plex Mono',monospace;font-size:.72rem;font-weight:400;color:var(--text-dim)}
+.feed-item{display:grid;grid-template-columns:5.2rem minmax(0,1fr);gap:.9rem;padding:.7rem 0;border-bottom:1px solid var(--line)}
+.feed-date{font-family:'IBM Plex Mono',monospace;font-size:.76rem;color:var(--patina);padding-top:.1rem;white-space:nowrap}
+.feed-date small{display:block;color:var(--text-dim);font-size:.66rem}
+.feed-head{display:flex;flex-wrap:wrap;align-items:center;gap:.3rem .5rem;margin-bottom:.2rem}
+.feed-tag{display:inline-flex;align-items:center;gap:.3rem;font-size:.7rem;color:var(--text-dim);
+  border:1px solid var(--line);border-radius:999px;padding:.05rem .5rem;background:var(--surface)}
+.feed-tag i{width:7px;height:7px;border-radius:50%;display:inline-block}
+.feed-mine{background:none;border:none;padding:0;font-family:inherit;font-size:.84rem;font-weight:600;color:var(--copper);cursor:pointer;text-align:left}
+.feed-mine:hover{text-decoration:underline}
+.feed-mine.plain{color:var(--text);cursor:default;text-decoration:none}
+.feed-country{font-size:.72rem;color:var(--text-dim)}
+.feed-body{margin:0;font-size:.86rem;line-height:1.6;max-width:70ch}
+.feed-src{margin:.2rem 0 0;font-size:.7rem;color:var(--text-dim)}
+.feed-more{display:block;margin:1.2rem auto 0;padding:.5rem 1.4rem;border-radius:999px;border:1px solid var(--line);
+  background:var(--surface);color:var(--text);font-size:.82rem;cursor:pointer}
+.feed-more:hover{border-color:var(--copper)}
+
 /* ---- 周期模型 页 ---- */
 .cy-view{flex:1;min-height:0;overflow-y:auto;background:var(--bg);padding:1.2rem 1.6rem 2.4rem}
 .cy-inner{max-width:1100px;margin:0 auto;display:flex;flex-direction:column;gap:1.1rem}
@@ -442,6 +480,10 @@ button.hb-row:hover .hb-label{color:var(--copper)}
 @media (max-width:1000px){ .sr-grid{grid-template-columns:minmax(0,1fr)} }
 @media (max-width:880px){
   .sr-view{padding:1rem 1rem 2rem}
+  .feed-tools{padding:.8rem 1rem .6rem}
+  .feed-scroll{padding:0 1rem 2rem}
+  .feed-item{grid-template-columns:minmax(0,1fr);gap:.2rem}
+  .feed-date small{display:inline;margin-left:.4rem}
   .sidebar{
     position:fixed;left:0;top:0;height:100%;width:86vw;max-width:340px;z-index:45;
     transform:translateX(-105%);transition:transform .25s ease;box-shadow:var(--shadow);
@@ -468,6 +510,7 @@ button.hb-row:hover .hb-label{color:var(--copper)}
     <div class="stats" id="statsBar"></div>
     <div class="view-tabs">
       <button class="view-tab active" id="tabMap" type="button" data-view="map">地图视图</button>
+      <button class="view-tab" id="tabFeed" type="button" data-view="feed">市场讯息</button>
       <button class="view-tab" id="tabCompanies" type="button" data-view="companies">公司排行</button>
       <button class="view-tab" id="tabTable" type="button" data-view="table">矿山数据表</button>
       <button class="view-tab" id="tabSR" type="button" data-view="sr">冶炼与精炼</button>
@@ -618,6 +661,19 @@ button.hb-row:hover .hb-label{color:var(--copper)}
       </section>
       <p class="sr-note" id="srFoot"></p>
     </div>
+  </div>
+
+  <div class="feed-view" id="viewFeed" hidden>
+    <div class="feed-tools"><div class="feed-tools-inner">
+      <div class="feed-filters">
+        <input type="search" id="feedSearch" placeholder="搜索矿山、公司、国家或关键词…" autocomplete="off">
+        <select id="feedYear"></select>
+        <select id="feedCountry"></select>
+      </div>
+      <div class="feed-cats" id="feedCats"></div>
+      <p class="feed-count" id="feedCount"></p>
+    </div></div>
+    <div class="feed-scroll" id="feedScroll"><div class="feed-list" id="feedList"></div></div>
   </div>
 
   <div class="cy-view" id="viewCycle" hidden>
@@ -1016,6 +1072,8 @@ function switchView(view){
   viewTable.hidden = view !== 'table';
   viewSR.hidden = view !== 'sr';
   viewCycle.hidden = view !== 'cycle';
+  viewFeed.hidden = view !== 'feed';
+  document.getElementById('tabFeed').classList.toggle('active', view==='feed');
   document.getElementById('tabCycle').classList.toggle('active', view==='cycle');
   document.getElementById('tabMap').classList.toggle('active', view==='map');
   document.getElementById('tabCompanies').classList.toggle('active', view==='companies');
@@ -1024,6 +1082,7 @@ function switchView(view){
 }
 const viewSR = document.getElementById('viewSR');
 const viewCycle = document.getElementById('viewCycle');
+const viewFeed = document.getElementById('viewFeed');
 document.getElementById('tabCycle').addEventListener('click', ()=>switchView('cycle'));
 document.getElementById('tabSR').addEventListener('click', ()=>switchView('sr'));
 document.getElementById('tabMap').addEventListener('click', ()=>switchView('map'));
@@ -1545,6 +1604,129 @@ renderMineTable();
   /* 顶栏统计补一项 */
   document.getElementById('statsBar').insertAdjacentHTML('beforeend',
     `<span class="dot">·</span><span class="tabnum"><b>${P.length}</b> 个冶炼/精炼厂</span>`);
+})();
+
+/* ==================== 市场讯息：按时间排序的铜矿市场事件 ==================== */
+/* 数据就是各矿山词条里的事件(MINES[].events)加上冶炼端的近期动态(SR.news)，这里合并、去重、按日期倒序。 */
+(function initFeed(){
+  const CATS = [
+    {k:'ma',    label:'并购与股权', color:'var(--c1)', re:/收购|出售|并购|合并|股权|增持|减持|入股|要约|合资|剥离|竞购|股份/},
+    {k:'halt',  label:'事故与停产', color:'var(--c8)', re:/事故|死亡|遇难|身亡|坍塌|塌方|冒落|停产|暂停|停工|关闭|罢工|抗议|封锁|火灾|洪水|地震|泄漏|袭击|不可抗力/},
+    {k:'policy',label:'政策与许可', color:'var(--c7)', re:/许可|批准|获批|环评|政府|法院|裁决|税|特许权|国有化|禁令|出口|法案|诉讼|仲裁|监管|审批|协议/},
+    {k:'prod',  label:'产量与业绩', color:'var(--c3)', re:/产量|指引|季度|年产|达产|投产|首批|爬产|成本|业绩|利润|营收/},
+    {k:'proj',  label:'项目与投资', color:'var(--c2)', re:/投资|建设|扩建|开工|动工|可行性|可研|融资|贷款|项目|开发|设计|合同/},
+    {k:'expl',  label:'勘探与资源', color:'var(--c4)', re:/勘探|钻探|钻孔|资源量|储量|发现|见矿|品位/},
+    {k:'smelt', label:'冶炼与加工费', color:'var(--c5)', re:null},
+    {k:'other', label:'其他', color:'var(--c-muted)', re:null},
+  ];
+  const CAT = {}; CATS.forEach(c=>{ CAT[c.k] = c; });
+  const classify = t => { for(const c of CATS){ if(c.re && c.re.test(t)) return c.k; } return 'other'; };
+
+  // 日期有 2025-11-06 / 2025-11 / 2025-Q3 / 2025 几种写法：sortKey 用于排序，month 用于分组
+  function parseDate(d){
+    d = String(d||'').trim();
+    let m;
+    if((m = d.match(/^(\d{4})-(\d{2})-(\d{2})/))) return {key:`${m[1]}-${m[2]}-${m[3]}`, month:`${m[1]}-${m[2]}`, show:`${m[2]}-${m[3]}`, year:m[1]};
+    if((m = d.match(/^(\d{4})-(\d{2})/)))         return {key:`${m[1]}-${m[2]}-00`, month:`${m[1]}-${m[2]}`, show:`${m[2]} 月`, year:m[1], vague:'当月'};
+    if((m = d.match(/^(\d{4})-Q([1-4])/i))){ const mm = String(+m[2]*3).padStart(2,'0');
+      return {key:`${m[1]}-${mm}-00`, month:`${m[1]}-${mm}`, show:`Q${m[2]}`, year:m[1], vague:'季度'}; }
+    if((m = d.match(/^(\d{4})/)))                 return {key:`${m[1]}-00-00`, month:`${m[1]}`, show:m[1], year:m[1], vague:'年内'};
+    return {key:'0000', month:'日期不详', show:'—', year:''};
+  }
+  const srcTitle = s => String(s||'').replace(/^\d{4}-\d{2}-\d{2}_/,'').replace(/\.txt$/,'');
+
+  const byKey = new Map();
+  MINES.forEach((m,idx)=>{
+    (m.events||[]).forEach(e=>{
+      const k = (e.date||'')+'|'+e.summary;
+      if(byKey.has(k)){ byKey.get(k).mines.push({name:m.mine_name, idx}); return; }   // 同一条事件挂在多座矿山下，只留一条
+      const d = parseDate(e.date);
+      byKey.set(k, {d, text:e.summary, cat:classify(e.summary), country:m.country, mines:[{name:m.mine_name, idx}],
+                    src:srcTitle(e.source), url:''});
+    });
+  });
+  const ITEMS = Array.from(byKey.values());
+  if(typeof SR !== 'undefined' && SR){
+    SR.news.forEach(n=>ITEMS.push({d:parseDate(n.date), text:n.title+'。'+n.body, cat:'smelt', country:n.tag,
+                                   mines:[], title:n.title, src:'公开报道', url:n.url}));
+  }
+  ITEMS.forEach(it=>{ it.hay = (it.text+' '+it.country+' '+it.mines.map(x=>x.name).join(' ')+' '+it.src).toLowerCase(); });
+  ITEMS.sort((a,b)=> a.d.key < b.d.key ? 1 : a.d.key > b.d.key ? -1 : 0);
+
+  const elSearch = document.getElementById('feedSearch'), elYear = document.getElementById('feedYear');
+  const elCountry = document.getElementById('feedCountry'), elCats = document.getElementById('feedCats');
+  const elList = document.getElementById('feedList'), elCount = document.getElementById('feedCount');
+  const count = (arr, f) => arr.reduce((o,it)=>{ const k = f(it); if(k) o[k] = (o[k]||0)+1; return o; }, {});
+  const yc = count(ITEMS, it=>it.d.year);
+  elYear.innerHTML = `<option value="">全部年份（${ITEMS.length}）</option>`+
+    Object.keys(yc).sort().reverse().map(y=>`<option value="${y}">${y} 年（${yc[y]}）</option>`).join('');
+  const cc = count(ITEMS.filter(it=>it.mines.length), it=>it.country);
+  elCountry.innerHTML = '<option value="">全部国家/地区</option>'+
+    Object.keys(cc).sort((a,b)=>cc[b]-cc[a]).map(c=>`<option value="${escapeHtml(c)}">${escapeHtml(c)}（${cc[c]}）</option>`).join('');
+  const catCount = count(ITEMS, it=>it.cat);
+  let activeCat = '';
+  elCats.innerHTML = `<button type="button" class="feed-cat active" data-k="">全部</button>`+
+    CATS.filter(c=>catCount[c.k]).map(c=>`<button type="button" class="feed-cat" data-k="${c.k}"><i style="background:${c.color}"></i>${c.label}<b>${catCount[c.k]}</b></button>`).join('');
+  elCats.addEventListener('click', e=>{
+    const b = e.target.closest('.feed-cat'); if(!b) return;
+    activeCat = b.dataset.k;
+    elCats.querySelectorAll('.feed-cat').forEach(x=>x.classList.toggle('active', x===b));
+    limit = PAGE; render();
+  });
+
+  const PAGE = 150;
+  let limit = PAGE;
+  function monthLabel(mk){
+    const m = mk.match(/^(\d{4})-(\d{2})$/);
+    return m ? `${m[1]} 年 ${+m[2]} 月` : (/^\d{4}$/.test(mk) ? `${mk} 年（月份不详）` : mk);
+  }
+  function render(){
+    const q = elSearch.value.trim().toLowerCase(), y = elYear.value, c = elCountry.value;
+    const rows = ITEMS.filter(it=> (!activeCat || it.cat===activeCat) && (!y || it.d.year===y) &&
+                                   (!c || it.country===c) && (!q || it.hay.includes(q)));
+    const shown = rows.slice(0, limit);
+    const perMonth = count(rows, it=>it.d.month);
+    let html = '', cur = null;
+    shown.forEach(it=>{
+      if(it.d.month !== cur){
+        cur = it.d.month;
+        html += `<h3 class="feed-month">${monthLabel(cur)}<small>${perMonth[cur]} 条</small></h3>`;
+      }
+      const cat = CAT[it.cat];
+      const who = it.mines.length
+        ? it.mines.map(x=>`<button type="button" class="feed-mine" data-idx="${x.idx}">${escapeHtml(x.name)}</button>`).join('<span class="feed-country">、</span>')
+        : `<span class="feed-mine plain">${escapeHtml(it.title||'')}</span>`;
+      const body = it.mines.length ? it.text : it.text.slice((it.title||'').length+1);
+      html += `<article class="feed-item">
+        <div class="feed-date">${it.d.show}${it.d.vague?`<small>${it.d.vague}</small>`:''}</div>
+        <div><div class="feed-head"><span class="feed-tag"><i style="background:${cat.color}"></i>${cat.label}</span>${who}
+          <span class="feed-country">${escapeHtml(it.country)}</span></div>
+          <p class="feed-body">${escapeHtml(body)}</p>
+          <p class="feed-src">${it.url ? `<a href="${escapeHtml(it.url)}" target="_blank" rel="noopener">来源 ↗</a>` : '出处：'+escapeHtml(it.src)}</p></div>
+      </article>`;
+    });
+    if(!rows.length) html = '<div class="empty-note">没有符合条件的讯息，换个关键词或放宽筛选条件。</div>';
+    if(rows.length > limit) html += `<button type="button" class="feed-more" id="feedMore">再显示 ${Math.min(PAGE, rows.length-limit)} 条（还有 ${rows.length-limit} 条）</button>`;
+    elList.innerHTML = html;
+    const span = rows.length ? `${rows[rows.length-1].d.year||'—'} 至 ${rows[0].d.year||'—'} 年` : '';
+    elCount.textContent = `共 ${rows.length} 条${span?' · '+span:''} · 最新的在最上面 · 点矿山名称跳到地图上的词条`;
+    const more = document.getElementById('feedMore');
+    if(more) more.addEventListener('click', ()=>{ limit += PAGE; render(); });
+  }
+  elList.addEventListener('click', e=>{
+    const b = e.target.closest('.feed-mine[data-idx]'); if(!b) return;
+    switchView('map'); openMine(+b.dataset.idx, true);
+  });
+  const reset = ()=>{ limit = PAGE; render(); document.getElementById('feedScroll').scrollTop = 0; };
+  elSearch.addEventListener('input', reset);
+  elYear.addEventListener('change', reset);
+  elCountry.addEventListener('change', reset);
+
+  let rendered = false;
+  document.getElementById('tabFeed').addEventListener('click', ()=>{
+    switchView('feed');
+    if(!rendered){ rendered = true; render(); }
+  });
 })();
 
 /* ---------- mobile sidebar toggle ---------- */
