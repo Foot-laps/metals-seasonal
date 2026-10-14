@@ -1,0 +1,428 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>铜矿绿地与棕地项目</title>
+<style>
+html,body{margin:0}
+[hidden]{display:none!important}
+/* 布局：单栏报告，先结论后图表，最后是可筛选的项目清单 */
+:root{
+  --bg:#f6f7f4; --surface:#fcfcfb; --ink:#1b2321; --ink-2:#4d5955; --ink-3:#7b8682; --line:#dfe3de; --grid:#e9ece7;
+  --green:#17a398; --brown:#9c4f1f; --chip:#eef1ec; --hover:#f0f3ee;
+  --display:"Noto Serif SC","Songti SC","SimSun",serif;
+  --body:"PingFang SC","Microsoft YaHei","Noto Sans SC",system-ui,sans-serif;
+  --mono:"IBM Plex Mono",Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#141917; --surface:#1a1a19; --ink:#e8ece9; --ink-2:#b3bcb8; --ink-3:#87918d; --line:#2d3532; --grid:#262d2a;
+  --green:#17a398; --brown:#c8742f; --chip:#232a27; --hover:#212826; color-scheme:dark } }
+:root[data-theme="dark"]{
+  --bg:#141917; --surface:#1a1a19; --ink:#e8ece9; --ink-2:#b3bcb8; --ink-3:#87918d; --line:#2d3532; --grid:#262d2a;
+  --green:#17a398; --brown:#c8742f; --chip:#232a27; --hover:#212826; color-scheme:dark }
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:15px/1.65 var(--body)}
+.wrap{max-width:1080px;margin:0 auto;padding-inline:20px;padding-block:32px 56px;display:flex;flex-direction:column;gap:28px}
+h1{font:600 1.9rem/1.25 var(--display);margin:0;text-wrap:balance}
+h2{font:600 1.2rem/1.3 var(--display);margin:0}
+.lede{margin:8px 0 0;color:var(--ink-2);max-width:66ch}
+.defs{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
+.def{border-left:4px solid var(--c);padding:2px 0 2px 12px;font-size:.88rem;color:var(--ink-2)}
+.def b{color:var(--ink);font-weight:600}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px}
+.kpi{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px 16px}
+.kpi .lab{font-size:.78rem;color:var(--ink-3)}
+.kpi .pair{display:flex;gap:18px;margin-top:6px;flex-wrap:wrap}
+.kpi .v{font:500 1.5rem/1.1 var(--mono);font-variant-numeric:tabular-nums}
+.kpi .v small{font:400 .72rem var(--body);color:var(--ink-3);margin-left:3px}
+.kpi .who{display:flex;align-items:center;gap:5px;font-size:.74rem;color:var(--ink-2);margin-top:3px}
+.sw{width:10px;height:10px;border-radius:2px;display:inline-block;flex:none}
+.sw.g{background:var(--green)} .sw.b{background:var(--brown)}
+.findings{margin:0;padding-left:1.2em;display:flex;flex-direction:column;gap:6px;max-width:74ch}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:18px 18px 14px;min-width:0}
+.card p.sub{margin:4px 0 10px;font-size:.84rem;color:var(--ink-2);max-width:74ch}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:16px}
+.legend{display:flex;gap:16px;flex-wrap:wrap;font-size:.8rem;color:var(--ink-2);margin-bottom:4px}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+svg{display:block;width:100%;height:auto;overflow:visible}
+svg text{font-family:var(--body);fill:var(--ink-2);font-size:12px}
+svg text.num{font-family:var(--mono);font-size:11.5px;fill:var(--ink)}
+svg text.dim{fill:var(--ink-3);font-size:11px}
+svg .gridl{stroke:var(--grid);stroke-width:1}
+svg .axis{stroke:var(--line);stroke-width:1}
+.hit{cursor:default}
+.tip{position:fixed;z-index:20;pointer-events:none;background:var(--surface);color:var(--ink);border:1px solid var(--line);border-radius:6px;
+  padding:8px 10px;font-size:.78rem;line-height:1.5;max-width:300px;box-shadow:0 6px 20px rgba(0,0,0,.18)}
+.tip b{font-weight:600}
+.tip .r{display:flex;align-items:center;gap:6px}
+.tools{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:10px 0}
+.tools button{font:inherit;font-size:.82rem;border:1px solid var(--line);background:var(--surface);color:var(--ink-2);border-radius:999px;padding:4px 14px;cursor:pointer}
+.tools button[aria-pressed="true"]{background:var(--chip);color:var(--ink);border-color:var(--ink-3)}
+.tools button:focus-visible,.tools input:focus-visible{outline:2px solid var(--green);outline-offset:2px}
+.tools input{font:inherit;font-size:.84rem;padding:5px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink);flex:1;min-width:160px}
+.tscroll{overflow-x:auto;border:1px solid var(--line);border-radius:8px}
+table{border-collapse:collapse;width:100%;font-size:.82rem;min-width:860px}
+th{position:sticky;top:0;text-align:left;font-weight:600;font-size:.74rem;color:var(--ink-3);padding:8px 10px;border-bottom:1px solid var(--line);background:var(--surface);white-space:nowrap}
+td{padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+tr:last-child td{border-bottom:none}
+tbody tr:hover{background:var(--hover)}
+td.n{font-family:var(--mono);font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap}
+th.n{text-align:right}
+td .nm{font-weight:600}
+td .op{display:block;color:var(--ink-3);font-size:.74rem}
+.tag{display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
+.stage{display:inline-block;background:var(--chip);border-radius:4px;padding:1px 7px;font-size:.74rem;color:var(--ink-2);white-space:nowrap}
+td.note{color:var(--ink-2);min-width:240px}
+.foot{font-size:.78rem;color:var(--ink-3);max-width:80ch}
+.count{font-size:.8rem;color:var(--ink-3)}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <h1>未来投产的铜矿绿地与棕地项目</h1>
+    <p class="lede">从铜矿图谱的 325 个矿山词条里，挑出写明了未来建设、扩建、延寿或重启计划的项目，按绿地和棕地分开整理。数字全部取自词条原文，截至 2026 年 10 月。</p>
+  </header>
+
+  <div class="defs">
+    <div class="def" style="--c:var(--green)"><b>绿地项目</b>：在从未建过矿的矿床上新建矿山，要从许可、基建、选厂一路做起。</div>
+    <div class="def" style="--c:var(--brown)"><b>棕地项目</b>：在已有矿山上扩建、延长服务年限，或者把停产的老矿重新开起来。</div>
+  </div>
+
+  <section class="kpis" id="kpis"></section>
+
+  <section>
+    <h2>主要发现</h2>
+    <ul class="findings" id="findings"></ul>
+  </section>
+
+  <section class="card">
+    <h2>按目标投产年份看新增铜产能</h2>
+    <p class="sub">只统计词条里同时写明了投产年份和新增铜产能的项目。单位：万吨铜/年。把鼠标移到柱子上看具体项目。</p>
+    <div class="legend"><span><i class="sw g"></i>绿地</span><span><i class="sw b"></i>棕地</span></div>
+    <div id="chYear"></div>
+  </section>
+
+  <div class="grid2">
+    <section class="card">
+      <h2>累计新增产能</h2>
+      <p class="sub">把上图逐年累加。单位：万吨铜/年。</p>
+      <div id="chCum"></div>
+    </section>
+    <section class="card">
+      <h2>项目走到了哪一步</h2>
+      <p class="sub">按推进阶段汇总已写明的新增铜产能，包含还没有定投产时间的项目。单位：万吨铜/年。</p>
+      <div class="legend"><span><i class="sw g"></i>绿地</span><span><i class="sw b"></i>棕地</span></div>
+      <div id="chStage"></div>
+    </section>
+  </div>
+
+  <div class="grid2">
+    <section class="card">
+      <h2>项目集中在哪些国家</h2>
+      <p class="sub">新增铜产能最多的 10 个国家。单位：万吨铜/年。</p>
+      <div class="legend"><span><i class="sw g"></i>绿地</span><span><i class="sw b"></i>棕地</span></div>
+      <div id="chCountry"></div>
+    </section>
+    <section class="card">
+      <h2>每吨年产能要花多少钱</h2>
+      <p class="sub">投资额除以新增年产能，只算两项数字都有的项目。单位：万美元/吨年产能。每个点是一个项目，竖线是中位数。</p>
+      <div id="chCapex"></div>
+    </section>
+  </div>
+
+  <section>
+    <h2>项目清单</h2>
+    <div class="tools">
+      <button type="button" data-k="" aria-pressed="true">全部</button>
+      <button type="button" data-k="g" aria-pressed="false">绿地</button>
+      <button type="button" data-k="b" aria-pressed="false">棕地</button>
+      <input type="search" id="q" placeholder="搜索项目、国家或公司" autocomplete="off">
+      <span class="count" id="count"></span>
+    </div>
+    <div class="tscroll"><table>
+      <thead><tr><th>项目</th><th>国家</th><th>类型</th><th>阶段</th><th class="n">目标投产</th><th class="n">新增铜产能<br>万吨/年</th><th class="n">投资<br>亿美元</th><th>说明</th></tr></thead>
+      <tbody id="tb"></tbody>
+    </table></div>
+  </section>
+
+  <p class="foot">口径说明：数据来自铜矿图谱的矿山词条（公众号文章整理），不是完整的全球项目库。带 ≈ 的数字是按词条里的其他数字推算的，推算方法写在说明栏。词条只给出铜当量、铜精矿量或没给产量的项目，新增铜产能留空，不进入图表汇总。延寿类项目多数是维持现有产量而不是增产，所以没有新增产能。已在 2025 年及以前投产的项目（如 Florence、Kansanshi S3、巨龙二期）不在此列。</p>
+</div>
+<div class="tip" id="tip" hidden></div>
+
+<script>
+/* k: g=绿地 b=棕地；sub: 细分；st: 1 在建 2 已获批/待开工 3 可研与许可 4 早期或受阻
+   y: 目标投产年；cap: 新增铜产能（千吨/年）；q=1 表示推算值；cx: 投资（亿美元） */
+const P = [
+ // ---------- 绿地 ----------
+ {n:'Josemaría（Vicuña 一期）',c:'阿根廷',o:'BHP / 伦丁矿业',k:'g',sub:'新建',st:2,y:2030,cap:131,cx:71,t:'Vicuña 矿区第一阶段，露天矿加选矿厂；伦丁已获 45 亿美元信贷额度。'},
+ {n:'Vicuña 后续期（Filo del Sol）',c:'智利/阿根廷',o:'BHP / 伦丁矿业',k:'g',sub:'新建',st:3,y:null,cap:269,q:1,cx:null,t:'二期氧化矿 SX/EW、三期硫化矿。矿区前 25 年年均约 40 万吨铜，减去一期 13.1 万吨推算。全周期投资约 180 亿美元。'},
+ {n:'MARA / Agua Rica',c:'阿根廷',o:'嘉能可',k:'g',sub:'新建',st:2,y:2031,cap:200,cx:40,t:'2026 年 10 月获 RIGI 批准。2027 年 11 月重启 Alumbrera 选厂，2031 年 10 月商业生产，投产前 10 年年均约 20 万吨。'},
+ {n:'Reko Diq 一期',c:'巴基斯坦',o:'巴里克',k:'g',sub:'新建',st:1,y:2028,cap:200,cx:55,t:'原文口径为"年产 20 万吨铜精矿"，二期再投 35 亿美元使产量翻倍。2026 年 3 月因安全局势放缓，审查期延长 12 个月。'},
+ {n:'Tía María',c:'秘鲁',o:'南方铜业',k:'g',sub:'新建',st:1,y:2027,cap:120,cx:18,t:'预计 2026 年底至 2027 年初投产。2026 年 4 月采矿许可被撤销两天后重新批准。'},
+ {n:'Santa Cruz',c:'美国',o:'艾芬豪电器',k:'g',sub:'新建',st:3,y:2029,cap:75,cx:14.3,t:'2026 年预可研：前 15 年年均约 7.5 万吨，首批阴极铜目标从 2028 年推迟到 2029 年。'},
+ {n:'Kitumba',c:'赞比亚',o:'中矿资源',k:'g',sub:'新建',st:1,y:2026,cap:60,cx:5.63,t:'2025 年 3 月采矿工程动工，计划 2026 年下半年投产，年产 6 万吨阴极铜。'},
+ {n:'Fishtie',c:'赞比亚',o:'第一量子',k:'g',sub:'新建',st:1,y:2026,cap:30,cx:null,t:'目标 2026 年实现年产 3 万吨。'},
+ {n:'Alacran',c:'哥伦比亚',o:'Cordoba / 金诚信',k:'g',sub:'新建',st:1,y:2027,yq:1,cap:29,cx:4.25,t:'2025 年三季度开工、建设期 2 年，投产年份据此推算。年产铜 2.8–3 万吨。'},
+ {n:'Marathon',c:'加拿大',o:'Generation Mining',k:'g',sub:'新建',st:1,y:2028,cap:19,cx:13,t:'铜钯项目，2026 年 10 月进入建设，2028 年开始采矿，年产铜约 1.9 万吨。'},
+ {n:'El Domo',c:'厄瓜多尔',o:'Silvercorp',k:'g',sub:'新建',st:1,y:2026,cap:10.5,cx:2.5,t:'预计 2026 年底投产，年均产铜约 1.05 万吨。'},
+ {n:'McIlvenna Bay',c:'加拿大',o:'Eldorado Gold',k:'g',sub:'新建',st:1,y:2026,cap:null,cx:null,t:'目标 2026 年中投产；词条只给铜当量（年均 6500 万磅，约 2.9 万吨）。'},
+ {n:'La Granja',c:'秘鲁',o:'第一量子 / 力拓',k:'g',sub:'新建',st:3,y:null,cap:500,cx:24,t:'未来年产铜可达 50 万吨，计划 2028 年完成可行性研究。'},
+ {n:'Taca Taca',c:'阿根廷',o:'第一量子',k:'g',sub:'新建',st:3,y:null,cap:291,cx:42,t:'扩产后前十年年均 29.1 万吨。原定 2025 年开工未实现，正引入合作伙伴。'},
+ {n:'NuevaUnión',c:'智利',o:'泰克 / 纽蒙特',k:'g',sub:'新建',st:3,y:null,cap:224,cx:null,t:'2018 年预可研：最初 5 年年均 22.4 万吨。仍在可行性研究阶段。'},
+ {n:'Los Azules',c:'阿根廷',o:'McEwen Copper',k:'g',sub:'新建',st:2,y:null,cap:175,cx:30,t:'环评与 RIGI 均已获批，最终投资决策进行中，正寻求约 40 亿美元融资。'},
+ {n:'Kingking',c:'菲律宾',o:'St. Augustine',k:'g',sub:'新建',st:3,y:null,cap:129,cx:23.7,t:'前 5 年年均约 12.9 万吨，2026 年 3 月启动最终可研。'},
+ {n:'Cascabel',c:'厄瓜多尔',o:'江西铜业（收购 SolGold）',k:'g',sub:'新建',st:3,y:null,cap:123,cx:null,t:'年均 12.3 万吨，峰值 21.6 万吨；拟先开 Tandayama 露天矿起步。'},
+ {n:'Cactus',c:'美国',o:'哈德贝矿业',k:'g',sub:'新建',st:3,y:null,cap:103,cx:null,t:'设计年产约 10.3 万吨，最终可研 2026 年中完成，年末敲定建设决策。'},
+ {n:'Copper World',c:'美国',o:'哈德贝矿业 / 三菱',k:'g',sub:'新建',st:2,y:null,cap:85,cx:17,t:'20 年开采期年均 8.5 万吨，最终投资决策预计 2026 年晚些时候。'},
+ {n:'Yellowhead',c:'加拿大',o:'Taseko',k:'g',sub:'新建',st:3,y:null,cap:81,q:1,cx:null,t:'长期年均 1.78 亿磅铜，换算约 8.1 万吨。初始投资约 20 亿加元。'},
+ {n:'Cristalino',c:'巴西',o:'淡水河谷',k:'g',sub:'新建',st:3,y:null,cap:80,cx:null,t:'年均产铜约 8 万吨。'},
+ {n:'Alemão',c:'巴西',o:'淡水河谷',k:'g',sub:'新建',st:3,y:null,cap:75,cx:null,t:'老金矿坑底下方的深部硫化铜矿体，年产铜 7–8 万吨。'},
+ {n:'Eva Copper',c:'澳大利亚',o:'Harmony Gold',k:'g',sub:'新建',st:2,y:null,cap:65,cx:16.5,t:'年产约 6.5 万吨，2025 年 12 月已签主要设备合同。投资 15.5–17.5 亿美元取中值。'},
+ {n:'Berg',c:'加拿大',o:'Surge Copper',k:'g',sub:'新建',st:3,y:null,cap:57,q:1,cx:null,t:'30 年总产 38 亿磅铜，折合年均约 5.7 万吨。预可研进行中。'},
+ {n:'Skouries',c:'希腊',o:'Eldorado Gold',k:'g',sub:'新建',st:1,y:null,cap:30,q:1,cx:null,t:'建设完成约 70%，达产后年产 6700 万磅铜，换算约 3 万吨。'},
+ {n:'Copperwood',c:'美国',o:'Highland Copper',k:'g',sub:'新建',st:2,y:null,cap:29,q:1,cx:3.91,t:'许可齐全、可研完成。年均 6460 万磅铜，换算约 2.9 万吨。'},
+ {n:'红泥坡',c:'中国',o:'云南铜业',k:'g',sub:'新建',st:1,y:null,cap:24,cx:null,t:'2022 年 2 月开工，投产后年增约 2.4 万吨。核准投资约 18.5 亿元人民币。'},
+ {n:'Warintza',c:'厄瓜多尔',o:'Solaris',k:'g',sub:'新建',st:3,y:null,cap:null,cx:37.3,t:'词条只给铜当量：年均 24 万吨。2025 年 11 月公布预可研。'},
+ {n:'Costa Fuego',c:'智利',o:'Hot Chili',k:'g',sub:'新建',st:3,y:null,cap:null,cx:null,t:'词条只给铜当量：初期目标 10–15 万吨。可行性研究进行中。'},
+ {n:'PSJ Cobre Mendocino',c:'阿根廷',o:'Zonda Metals / Alberdi',k:'g',sub:'新建',st:3,y:null,cap:null,cx:5.59,t:'年产 4 万吨铜精矿（不是金属量）。2025 年 12 月环评获批。'},
+ {n:'Los Cangrejos',c:'厄瓜多尔',o:'洛阳钼业',k:'g',sub:'新建',st:2,y:null,cap:null,cx:17,t:'金铜矿，2026 年 4 月签署矿业合同，词条未给铜产量。'},
+ {n:'Winu',c:'澳大利亚',o:'力拓 / 住友',k:'g',sub:'新建',st:3,y:null,cap:null,cx:null,t:'预可研完成，年加工 1000 万吨矿石；2026 年 9 月获原住民同意。'},
+ {n:'460 高地',c:'中国',o:'盛达金属资源',k:'g',sub:'新建',st:3,y:null,cap:null,cx:null,t:'2026 年 4 月签采选工程设计合同，铜金属量 154 万吨。'},
+ {n:'El Galeno',c:'秘鲁',o:'五矿资源 / 江铜',k:'g',sub:'新建',st:4,y:null,cap:null,cx:35,t:'预计投资 35 亿美元，暂无开发时间表。'},
+ {n:'Resolution',c:'美国',o:'力拓 / 必和必拓',k:'g',sub:'新建',st:4,y:null,cap:null,cx:null,t:'土地转让被法院暂停。投产后可满足美国约 25% 的铜需求。'},
+ {n:'Tampakan',c:'菲律宾',o:'SMI',k:'g',sub:'新建',st:4,y:null,cap:null,cx:null,t:'正在找新的战略合作伙伴；2026 年 6 月强震波及矿区。'},
+ {n:'Baimskaya',c:'俄罗斯',o:'KAZ Minerals',k:'g',sub:'新建',st:4,y:null,cap:null,cx:null,t:'俄国有开发银行宣布投资开发，投产后可使俄罗斯铜产量提升 25%。'},
+ {n:'Schaft Creek',c:'加拿大',o:'泰克 / Copper Fox',k:'g',sub:'新建',st:4,y:null,cap:null,cx:null,t:'推进预可研阶段工作。'},
+ // ---------- 棕地 ----------
+ {n:'Centinela 第二选矿厂',c:'智利',o:'安托法加斯塔',k:'b',sub:'扩建',st:1,y:2027,cap:144,cx:44,t:'2027 年投运，头十年年均增产铜 14.4 万吨；配套的 Encuentro 硫化矿剥离 2028 年完成。'},
+ {n:'KFM 二期',c:'刚果(金)',o:'洛阳钼业',k:'b',sub:'扩建',st:2,y:2027,cap:100,cx:10.8,t:'原文为"2027 年启动二期工程"，新增约 10 万吨铜。'},
+ {n:'Lumwana 超级矿坑',c:'赞比亚',o:'巴里克',k:'b',sub:'扩建',st:1,y:2028,cap:89,q:1,cx:20,t:'2028 年一季度末出首批铜，产量翻倍到 24 万吨；按 2025 年产量 15.1 万吨推算增量。'},
+ {n:'Khoemacau 扩建',c:'博茨瓦纳',o:'五矿资源',k:'b',sub:'扩建',st:1,y:2028,cap:70,cx:9,t:'2028 年上半年首产，年产量从约 6 万吨提到 13 万吨。'},
+ {n:'Sierra Gorda 第四条磨矿线',c:'智利',o:'KGHM / South32',k:'b',sub:'扩建',st:1,y:2030,cap:30,q:1,cx:7.25,t:'2026 年 10 月启动，2030 年下半年满负荷；年均约 19.5 万吨，对比 2025 年 16.5 万吨推算增量。'},
+ {n:'El Abra 扩建',c:'智利',o:'自由港 / Codelco',k:'b',sub:'扩建',st:3,y:2033,cap:300,cx:75,t:'新选矿厂加海水淡化厂，2026 年 3 月启动环评，若获批 2033 年投产，年增 30 万吨以上。'},
+ {n:'Olympic Dam 扩建',c:'澳大利亚',o:'必和必拓',k:'b',sub:'扩建',st:3,y:2032,yq:1,cap:178,q:1,cx:null,t:'2024 年产 32.2 万吨，目标 2030 年代初 50 万吨以上、中期 65 万吨；冶炼厂扩建决策约在 2027 年。年份取"2030 年代初"的近似。'},
+ {n:'Minto 重启',c:'加拿大',o:'Selkirk Copper',k:'b',sub:'重启',st:3,y:2028,cap:15,q:1,cx:null,t:'目标 2028 年下半年恢复生产；13 年产 4.34 亿磅铜，折合年均约 1.5 万吨。'},
+ {n:'巨龙三期',c:'中国',o:'紫金矿业',k:'b',sub:'扩建',st:3,y:null,cap:275,q:1,cx:null,t:'规划年采选 2 亿吨、产铜 60 万吨；二期达产为 30–35 万吨，取中值推算增量。'},
+ {n:'Mirador 二期',c:'厄瓜多尔',o:'铜陵有色 / 中国铁建',k:'b',sub:'扩建',st:1,y:null,cap:104,q:1,cx:null,t:'2023 年启动，年产铜从约 9.6 万吨提到 20 万吨。'},
+ {n:'Konkola 尾矿回收厂',c:'赞比亚',o:'韦丹塔 KCM',k:'b',sub:'扩建',st:2,y:null,cap:70,cx:4.98,t:'2026 年 9 月签 EPC 合同，预计年增 7 万吨铜。'},
+ {n:'Ministro Hales 扩建',c:'智利',o:'Codelco',k:'b',sub:'扩建',st:2,y:null,cap:30,cx:28,t:'2026 年 1 月获环境许可，开采延至 2054 年，年产量从 17 万吨增至 20 万吨。'},
+ {n:'Mount Lyell 重启',c:'澳大利亚',o:'Sibanye-Stillwater',k:'b',sub:'重启',st:2,y:null,cap:26,cx:3.4,t:'2014 年停产，2026 年 9 月董事会批准重启，稳产后年产约 2.6 万吨。'},
+ {n:'Prieska 重启',c:'南非',o:'Orion Minerals',k:'b',sub:'重启',st:3,y:null,cap:22,cx:null,t:'1991 年关闭的老矿，可研确认长期年产 2.2 万吨铜、6.5 万吨锌。'},
+ {n:'Mantoverde MV-O',c:'智利',o:'Capstone',k:'b',sub:'扩建',st:2,y:null,cap:20,cx:1.5,t:'2025 年 7 月获环境许可，选厂日处理量从 3.2 万吨增至 4.5 万吨，年增约 2 万吨铜。'},
+ {n:'Escondida 新选矿厂',c:'智利',o:'必和必拓',k:'b',sub:'扩建',st:3,y:2031,cap:null,cx:44,t:'替换 Los Colorados 选厂，2027 年初开工，2031–2032 年投产，投资 44–59 亿美元；主要用来对冲品位下滑，词条未给净增量。'},
+ {n:'Kamoa-Kakula 复产与三期',c:'刚果(金)',o:'艾芬豪 / 紫金',k:'b',sub:'扩建',st:1,y:2028,cap:null,cx:null,t:'矿震淹井后恢复：2026 年 29–33 万吨，2027 年 38–42 万吨，2028 年起 50 万吨以上。属于恢复而非净新增。'},
+ {n:'Las Bambas Chalcobamba',c:'秘鲁',o:'五矿资源',k:'b',sub:'扩建',st:1,y:null,cap:null,cx:null,t:'开发 Chalcobamba 矿坑，中短期年产量提到 38–40 万吨；词条未给基数。'},
+ {n:'Copper Mountain New Ingerbelle',c:'加拿大',o:'哈德贝矿业',k:'b',sub:'扩建',st:2,y:null,cap:null,cx:null,t:'2026 年 2 月获环境许可，分三期扩建，运营延至 2040 年，优化后目标年产 6 万吨。'},
+ {n:'Red Chris 自然崩落法',c:'加拿大',o:'纽蒙特 / Imperial',k:'b',sub:'延寿',st:2,y:null,cap:null,cx:null,t:'2026 年 6 月获关键监管批准，露天转地下，寿命延至 2040 年代中期；加拿大政府提供 5 亿加元支持。'},
+ {n:'Constancia 扩建',c:'秘鲁',o:'哈德贝矿业',k:'b',sub:'扩建',st:1,y:null,cap:null,cx:2.1,t:'第三台球磨机和 Pampacancha 卫星矿坑，2025 年四季度开工。'},
+ {n:'La Arena 扩建',c:'秘鲁',o:'紫金矿业',k:'b',sub:'延寿',st:3,y:null,cap:null,cx:15,t:'据非正式消息，拟投约 15 亿美元，服务年限延长 19 年并提高铜产量。'},
+ {n:'El Teniente 新中段',c:'智利',o:'Codelco',k:'b',sub:'延寿',st:1,y:null,cap:null,cx:30,t:'Andesita、Andes Norte 等项目，延长寿命约 50 年。2025 年矿震事故后，Andes Norte 于 2026 年 8 月暂停。'},
+ {n:'Highland Valley 延寿',c:'加拿大',o:'泰克资源',k:'b',sub:'延寿',st:2,y:null,cap:null,cx:24,t:'寿命延至 2040 年代，2025 年 12 月授出 EPCM 合同。'},
+ {n:'Antamina 延寿',c:'秘鲁',o:'必和必拓 / 嘉能可 / 泰克',k:'b',sub:'延寿',st:1,y:null,cap:null,cx:20,t:'2024 年 2 月获批，服务年限从 2028 年延至 2036 年，矿坑加深 150 米。'},
+ {n:'Collahuasi 延寿',c:'智利',o:'嘉能可 / 英美资源',k:'b',sub:'延寿',st:1,y:null,cap:null,cx:13,t:'维持产能至 2040 年；配套海水系统的环境授权 2026 年 5 月被法庭撤销。'},
+ {n:'Radomiro Tomic 延寿',c:'智利',o:'Codelco',k:'b',sub:'延寿',st:3,y:null,cap:null,cx:13,t:'2026 年 1 月提交环评，浸出作业延至 2058 年并扩大处理能力。'},
+ {n:'Zaldívar 延寿',c:'智利',o:'安托法加斯塔 / 巴里克',k:'b',sub:'延寿',st:2,y:null,cap:null,cx:12,t:'2025 年 5 月环评通过，服务年限延至 2051 年。'},
+ {n:'Palabora Lift II',c:'南非',o:'河钢资源',k:'b',sub:'延寿',st:1,y:null,cap:null,cx:7,t:'地下延伸至 2000 米，满产年产 7 万吨铜，接替现有采区，稳产 15 年。'},
+ {n:'Cerro Colorado 重启',c:'智利',o:'必和必拓',k:'b',sub:'重启',st:3,y:null,cap:null,cx:15,t:'2023 年 11 月停产，2026 年 7 月申请 15 亿美元重启并扩建。'},
+ {n:'Cobre Las Cruces 地下矿',c:'西班牙',o:'Global Panduro',k:'b',sub:'重启',st:3,y:null,cap:null,cx:8.46,t:'露天矿 2023 年停采，拟转地下开采多金属矿。'},
+ {n:'Panguna 重启',c:'巴布亚新几内亚',o:'Lloyds Metals / 布干维尔政府',k:'b',sub:'重启',st:4,y:null,cap:null,cx:55,t:'1989 年关闭，重启估计要 50–60 亿美元、7–8 年；2026 年 8 月获准开展预备工程和可研。'},
+ {n:'Kombat 重启',c:'纳米比亚',o:'New Horizon Copper',k:'b',sub:'重启',st:1,y:null,cap:null,cx:0.6,t:'2026 年 2 月破土，月处理能力从 3 万吨提到 9–12 万吨。'}
+];
+const STAGE = {1:'在建',2:'已获批，待开工',3:'可研与许可',4:'早期或受阻'};
+const KN = {g:'绿地',b:'棕地'};
+const css = n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const COL = {g:'var(--green)',b:'var(--brown)'};
+const esc = s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const wan = kt=>(kt/10).toFixed(kt%10===0?0:1);          // 千吨 -> 万吨
+const sum = (a,f)=>a.reduce((s,x)=>s+(f(x)||0),0);
+const by = k=>P.filter(p=>p.k===k);
+const median = a=>{ const s=a.slice().sort((x,y)=>x-y), m=s.length>>1; return s.length? (s.length%2? s[m] : (s[m-1]+s[m])/2) : 0; };
+
+/* ---------- tooltip ---------- */
+const tip = document.getElementById('tip');
+function showTip(e, html){ tip.innerHTML = html; tip.hidden = false; moveTip(e); }
+function moveTip(e){
+  const w = tip.offsetWidth, h = tip.offsetHeight;
+  let x = e.clientX + 14, y = e.clientY + 14;
+  if(x + w > innerWidth - 8) x = e.clientX - w - 14;
+  if(y + h > innerHeight - 8) y = e.clientY - h - 14;
+  tip.style.left = Math.max(8,x)+'px'; tip.style.top = Math.max(8,y)+'px';
+}
+function bindTips(root){
+  root.querySelectorAll('[data-tip]').forEach(el=>{
+    el.addEventListener('pointerenter', e=>showTip(e, el.dataset.tip));
+    el.addEventListener('pointermove', moveTip);
+    el.addEventListener('pointerleave', ()=>{ tip.hidden = true; });
+  });
+}
+const tipList = (title, items)=> `<b>${esc(title)}</b>`+items.map(p=>`<div class="r"><i class="sw ${p.k}"></i>${esc(p.n)}　${p.cap!=null?(p.q?'≈':'')+wan(p.cap)+' 万吨':''}</div>`).join('');
+const niceMax = v=>{ const p = Math.pow(10, Math.floor(Math.log10(v))); const m = v/p; return (m<=1?1:m<=2?2:m<=2.5?2.5:m<=5?5:10)*p; };
+
+/* ---------- 指标卡 ---------- */
+(function(){
+  const g = by('g'), b = by('b');
+  const capOf = a=>sum(a,p=>p.cap), dated = a=>a.filter(p=>p.y && p.cap!=null);
+  const cards = [
+    ['项目数量', g.length, b.length, '个'],
+    ['已写明的新增铜产能', wan(capOf(g)), wan(capOf(b)), '万吨/年'],
+    ['其中已定投产年份', wan(capOf(dated(g))), wan(capOf(dated(b))), '万吨/年'],
+    ['在建项目', g.filter(p=>p.st===1).length, b.filter(p=>p.st===1).length, '个']
+  ];
+  document.getElementById('kpis').innerHTML = cards.map(c=>`<div class="kpi"><div class="lab">${c[0]}</div><div class="pair">
+    <div><div class="v">${c[1]}<small>${c[3]}</small></div><div class="who"><i class="sw g"></i>绿地</div></div>
+    <div><div class="v">${c[2]}<small>${c[3]}</small></div><div class="who"><i class="sw b"></i>棕地</div></div></div></div>`).join('');
+
+  const capG = capOf(g), capB = capOf(b), dG = capOf(dated(g)), dB = capOf(dated(b));
+  const near = k=>sum(dated(by(k)).filter(p=>p.y<=2028), p=>p.cap);
+  const int = k=>median(by(k).filter(p=>p.cap && p.cx).map(p=>p.cx*1e8/(p.cap*1e3)/1e4));
+  const studyG = sum(g.filter(p=>p.st>=3), p=>p.cap);
+  const noCapB = b.filter(p=>p.cap==null).length;
+  document.getElementById('findings').innerHTML = [
+    `绿地项目写明的新增产能合计约 ${wan(capG)} 万吨/年，是棕地（约 ${wan(capB)} 万吨/年）的 ${(capG/capB).toFixed(1)} 倍，但其中只有 ${Math.round(dG/capG*100)}% 给出了投产年份；棕地这一比例是 ${Math.round(dB/capB*100)}%。`,
+    `2026–2028 年能落地的增量里，绿地约 ${wan(near('g'))} 万吨/年，棕地约 ${wan(near('b'))} 万吨/年。绿地这部分主要靠 Reko Diq 和 Tía María 两个项目，而这两个项目今年都出过波折。`,
+    `绿地产能的 ${Math.round(studyG/capG*100)}% 还停在可研、许可或更早的阶段，La Granja、Taca Taca、NuevaUnión 这些大项目都没有开工时间表。`,
+    `2030 年以后的增量主要来自大型项目：绿地有 Josemaría 和 MARA，棕地有 El Abra 和 Olympic Dam，这四个项目各自都在 13 万吨/年以上。`,
+    `按中位数算，绿地每吨年产能的投资约 ${int('g').toFixed(1)} 万美元，棕地约 ${int('b').toFixed(1)} 万美元。`,
+    `棕地 ${b.length} 个项目里有 ${noCapB} 个在词条里没有给出净增量，其中多数是延寿或重启，作用是让现有产量不掉下去。`
+  ].map(t=>`<li>${t}</li>`).join('');
+})();
+
+/* ---------- 图 1：按年份堆叠柱 ---------- */
+(function(){
+  const rows = P.filter(p=>p.y && p.cap!=null);
+  const years = []; for(let y=2026;y<=2033;y++) years.push(y);
+  const W=980,H=330,L=44,R=12,T=22,B=34, pw=W-L-R, ph=H-T-B;
+  const tot = y=>sum(rows.filter(p=>p.y===y),p=>p.cap)/10;
+  const max = niceMax(Math.max(...years.map(tot)));
+  const bw = Math.min(64, pw/years.length*0.6), y0 = T+ph, sy = v=>v/max*ph;
+  let s = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="按目标投产年份的新增铜产能">`;
+  for(let i=0;i<=4;i++){ const v=max*i/4, y=y0-sy(v);
+    s += `<line class="gridl" x1="${L}" x2="${W-R}" y1="${y}" y2="${y}"/><text class="dim" x="${L-8}" y="${y+4}" text-anchor="end">${+v.toFixed(1)}</text>`; }
+  years.forEach((yr,i)=>{
+    const cx = L + pw*(i+0.5)/years.length, x = cx-bw/2; let top = y0;
+    ['b','g'].forEach(k=>{
+      const items = rows.filter(p=>p.y===yr && p.k===k).sort((a,b)=>b.cap-a.cap), v = sum(items,p=>p.cap)/10;
+      if(!v) return;
+      const h = Math.max(sy(v)-2, 2);
+      s += `<rect class="hit" x="${x}" y="${top-h}" width="${bw}" height="${h}" rx="3" fill="${COL[k]}" data-tip="${esc(tipList(yr+' 年 · '+KN[k]+' '+(+v.toFixed(1))+' 万吨/年', items))}"/>`;
+      top -= h+2;
+    });
+    const t = tot(yr);
+    if(t) s += `<text class="num" x="${cx}" y="${top-5}" text-anchor="middle">${+t.toFixed(1)}</text>`;
+    s += `<text x="${cx}" y="${y0+20}" text-anchor="middle">${yr}</text>`;
+  });
+  s += `<line class="axis" x1="${L}" x2="${W-R}" y1="${y0}" y2="${y0}"/></svg>`;
+  const el = document.getElementById('chYear'); el.innerHTML = s; bindTips(el);
+})();
+
+/* ---------- 图 2：累计 ---------- */
+(function(){
+  const rows = P.filter(p=>p.y && p.cap!=null);
+  const years = []; for(let y=2025;y<=2033;y++) years.push(y);
+  const cum = k=>years.map(y=>sum(rows.filter(p=>p.k===k && p.y<=y),p=>p.cap)/10);
+  const S = {g:cum('g'), b:cum('b')};
+  const W=480,H=300,L=40,R=58,T=16,B=32, pw=W-L-R, ph=H-T-B, y0=T+ph;
+  const max = niceMax(Math.max(...S.g, ...S.b));
+  const sx = i=>L+pw*i/(years.length-1), sy = v=>y0-v/max*ph;
+  let s = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="累计新增铜产能">`;
+  for(let i=0;i<=4;i++){ const v=max*i/4;
+    s += `<line class="gridl" x1="${L}" x2="${W-R}" y1="${sy(v)}" y2="${sy(v)}"/><text class="dim" x="${L-8}" y="${sy(v)+4}" text-anchor="end">${+v.toFixed(0)}</text>`; }
+  years.forEach((y,i)=>{ if(i%2===1) s += `<text x="${sx(i)}" y="${y0+20}" text-anchor="middle">${y}</text>`; });
+  const last = years.length-1, gap = Math.abs(sy(S.g[last])-sy(S.b[last])) < 16;
+  ['g','b'].forEach(k=>{
+    s += `<path d="${S[k].map((v,i)=>(i?'L':'M')+sx(i)+' '+sy(v)).join(' ')}" fill="none" stroke="${COL[k]}" stroke-width="2" stroke-linejoin="round"/>`;
+    s += `<circle cx="${sx(last)}" cy="${sy(S[k][last])}" r="4.5" fill="${COL[k]}" stroke="var(--surface)" stroke-width="2"/>`;
+    const dy = gap ? (S[k][last] >= S[k==='g'?'b':'g'][last] ? -8 : 14) : 4;
+    s += `<text x="${sx(last)+9}" y="${sy(S[k][last])+dy}">${KN[k]}</text><text class="num" x="${sx(last)+9}" y="${sy(S[k][last])+dy+14}">${+S[k][last].toFixed(1)}</text>`;
+  });
+  years.forEach((y,i)=>{
+    const w = pw/(years.length-1);
+    s += `<rect class="hit" x="${sx(i)-w/2}" y="${T}" width="${w}" height="${ph}" fill="transparent" data-tip="${esc(`<b>截至 ${y} 年累计</b><div class="r"><i class="sw g"></i>绿地　${+S.g[i].toFixed(1)} 万吨/年</div><div class="r"><i class="sw b"></i>棕地　${+S.b[i].toFixed(1)} 万吨/年</div>`)}"/>`;
+  });
+  s += `<line class="axis" x1="${L}" x2="${W-R}" y1="${y0}" y2="${y0}"/></svg>`;
+  const el = document.getElementById('chCum'); el.innerHTML = s; bindTips(el);
+})();
+
+/* ---------- 分组横条（阶段、国家共用） ---------- */
+function hbars(id, cats, label){
+  const W=480, L=112, R=50, rowH=46, T=6, H=T+cats.length*rowH+4, pw=W-L-R;
+  const max = Math.max(...cats.map(c=>Math.max(c.g.v, c.b.v)), 1);
+  let s = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${label}">`;
+  cats.forEach((c,i)=>{
+    const y = T+i*rowH;
+    s += `<text x="${L-10}" y="${y+22}" text-anchor="end">${esc(c.name)}</text>`;
+    ['g','b'].forEach((k,j)=>{
+      const v = c[k].v, w = Math.max(v/max*pw, v?2:0), by = y+6+j*16;
+      if(v){
+        s += `<rect class="hit" x="${L}" y="${by}" width="${w}" height="14" rx="3" fill="${COL[k]}" data-tip="${esc(tipList(c.name+' · '+KN[k]+' '+(+v.toFixed(1))+' 万吨/年（'+c[k].items.length+' 个项目）', c[k].items))}"/>`;
+        s += `<text class="num" x="${L+w+6}" y="${by+11}">${+v.toFixed(1)}</text>`;
+      } else s += `<text class="dim" x="${L+4}" y="${by+11}">—</text>`;
+    });
+  });
+  s += `<line class="axis" x1="${L}" x2="${L}" y1="${T}" y2="${H-4}"/></svg>`;
+  const el = document.getElementById(id); el.innerHTML = s; bindTips(el);
+}
+const grp = (f,k)=>{ const items = P.filter(p=>p.k===k && p.cap!=null && f(p)).sort((a,b)=>b.cap-a.cap); return {v:sum(items,p=>p.cap)/10, items}; };
+hbars('chStage', [1,2,3].map(st=>({name:STAGE[st], g:grp(p=>p.st===st,'g'), b:grp(p=>p.st===st,'b')})), '各阶段新增铜产能');
+(function(){
+  const cs = {}; P.filter(p=>p.cap!=null).forEach(p=>{ cs[p.c] = (cs[p.c]||0)+p.cap; });
+  const top = Object.keys(cs).sort((a,b)=>cs[b]-cs[a]).slice(0,10);
+  hbars('chCountry', top.map(c=>({name:c, g:grp(p=>p.c===c,'g'), b:grp(p=>p.c===c,'b')})), '各国新增铜产能');
+})();
+
+/* ---------- 图：投资强度点图 ---------- */
+(function(){
+  const rows = P.filter(p=>p.cap && p.cx).map(p=>Object.assign({i:p.cx*1e8/(p.cap*1e3)/1e4}, p));
+  const W=480,H=230,L=52,R=20,T=16,B=36, pw=W-L-R, ph=H-T-B;
+  const max = niceMax(Math.max(...rows.map(r=>r.i)));
+  const sx = v=>L+v/max*pw, rowY = {g:T+ph*0.28, b:T+ph*0.74};
+  let s = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="每吨年产能投资">`;
+  for(let i=0;i<=4;i++){ const v=max*i/4;
+    s += `<line class="gridl" x1="${sx(v)}" x2="${sx(v)}" y1="${T}" y2="${T+ph}"/><text class="dim" x="${sx(v)}" y="${T+ph+18}" text-anchor="middle">${+v.toFixed(1)}</text>`; }
+  ['g','b'].forEach(k=>{
+    const rs = rows.filter(r=>r.k===k), m = median(rs.map(r=>r.i)), y = rowY[k];
+    s += `<text x="${L-10}" y="${y+4}" text-anchor="end">${KN[k]}</text>`;
+    s += `<line x1="${sx(m)}" x2="${sx(m)}" y1="${y-22}" y2="${y+22}" stroke="var(--ink)" stroke-width="2"/>`;
+    s += `<text class="num" x="${sx(m)+6}" y="${y-14}">中位数 ${m.toFixed(1)}</text>`;
+    rs.forEach(r=>{
+      s += `<circle class="hit" cx="${sx(r.i)}" cy="${y}" r="6" fill="${COL[k]}" fill-opacity=".85" stroke="var(--surface)" stroke-width="2" data-tip="${esc(`<b>${r.n}</b><div>${r.c} · ${KN[k]}</div><div>投资 ${r.cx} 亿美元 / 新增 ${(r.q?'≈':'')+wan(r.cap)} 万吨/年</div><div>每吨年产能 ${r.i.toFixed(1)} 万美元</div>`)}"/>`;
+    });
+  });
+  s += `<line class="axis" x1="${L}" x2="${W-R}" y1="${T+ph}" y2="${T+ph}"/></svg>`;
+  const el = document.getElementById('chCapex'); el.innerHTML = s; bindTips(el);
+})();
+
+/* ---------- 清单 ---------- */
+(function(){
+  let kind = '';
+  const tb = document.getElementById('tb'), q = document.getElementById('q'), count = document.getElementById('count');
+  const order = p=>(p.y||9999)*1e4 - (p.cap||0);
+  function render(){
+    const s = q.value.trim().toLowerCase();
+    const rows = P.filter(p=>(!kind || p.k===kind) && (!s || (p.n+p.c+p.o+p.t).toLowerCase().includes(s))).sort((a,b)=>order(a)-order(b));
+    count.textContent = `显示 ${rows.length} / ${P.length} 个`;
+    tb.innerHTML = rows.map(p=>`<tr>
+      <td><span class="nm">${esc(p.n)}</span><span class="op">${esc(p.o)}</span></td>
+      <td>${esc(p.c)}</td>
+      <td><span class="tag"><i class="sw ${p.k}"></i>${KN[p.k]} · ${p.sub}</span></td>
+      <td><span class="stage">${STAGE[p.st]}</span></td>
+      <td class="n">${p.y ? (p.yq?'≈':'')+p.y : '未定'}</td>
+      <td class="n">${p.cap!=null ? (p.q?'≈':'')+wan(p.cap) : '—'}</td>
+      <td class="n">${p.cx!=null ? p.cx : '—'}</td>
+      <td class="note">${esc(p.t)}</td></tr>`).join('') || '<tr><td colspan="8">没有符合条件的项目。</td></tr>';
+  }
+  document.querySelectorAll('.tools button').forEach(b=>b.addEventListener('click', ()=>{
+    kind = b.dataset.k;
+    document.querySelectorAll('.tools button').forEach(x=>x.setAttribute('aria-pressed', x===b));
+    render();
+  }));
+  q.addEventListener('input', render);
+  render();
+})();
+</script>
+
+</body>
+</html>
