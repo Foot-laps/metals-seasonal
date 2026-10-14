@@ -169,6 +169,225 @@
   "fetched": "2026-10-14"
  },
  {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/gold-slumps-as-faster-us-inflation-stokes-fed-rate-hike-wagers/",
+  "title": "Gold slumps as faster US inflation stokes Fed rate hike wagers",
+  "desc": "Bullion slumped as much as 1.9% below $4,090 an ounce as worries about inflation and higher borrowing costs rise.",
+  "date": "2026-10-14",
+  "id": "1fdacec75578",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-14"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/copper-price-forecasts-lifted-for-2026-but-tariff-collapse-still-on-the-table/",
+  "title": "Copper price forecasts lifted for 2026 but tariff “collapse” still on the table",
+  "desc": "Macquarie’s collapse scenario needs Washington to rule tariffs out, which it rates least likely. More likely is limbo past January 1, with 1.5 million tonnes of US copper staying exactly where it is.",
+  "date": "2026-10-14",
+  "id": "bfaf22de1c5c",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-14"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/russian-aluminiums-share-of-available-lme-stocks-almost-100-in-september/",
+  "title": "Russian aluminium’s share of available LME stocks almost 100% in September",
+  "desc": "Aluminium made in Russia after April 13, 2024 was barred from the LME warehousing system to comply with Western sanctions.",
+  "date": "2026-10-14",
+  "id": "2f735a135914",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-10-14"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/aurubis-raises-2027-european-copper-premium-to-record-347-a-ton-sources-say/",
+  "title": "Aurubis raises 2027 European copper premium to record $347 a ton, sources say",
+  "desc": "Copper supply in Europe is set to remain tight next year, with large volumes shipped to the US ahead of possible tariffs.",
+  "date": "2026-10-14",
+  "id": "5e9c5491243d",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-14"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/glencore-shares-trade-higher-on-asx-debut-as-investors-eye-copper/",
+  "title": "Glencore shares trade higher on ASX debut as investors eye copper",
+  "desc": "Glencore shares already trade in London with another secondary listing in Johannesburg.",
+  "date": "2026-10-14",
+  "id": "23b87b3497d6",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-14"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/global-copper-surplus-to-more-than-triple-by-2027-icsg/",
+  "title": "Global copper surplus to more than triple by 2027: ICSG",
+  "desc": "Refined metal output is set to rebound next year as new smelting capacity comes online, outpacing consumption growth.",
+  "date": "2026-10-14",
+  "id": "67a2e976f6fe",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-14"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/bhp-averts-strike-at-worlds-biggest-copper-mine-2/",
+  "title": "BHP averts strike at world’s biggest copper mine",
+  "desc": "A tentative labour agreement reached at the Chilean operation eases immediate supply concerns as mining disruptions mount nationwide.",
+  "date": "2026-10-14",
+  "id": "532d4d896e45",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-14"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/deaths-prompt-south-african-miners-safety-review-minerals-council-ceo-says/",
+  "title": "Deaths prompt South African miners’ safety review, minerals council CEO says",
+  "desc": "There is concern amongst mining companies over the current safety performance especially in gold and platinum operations.",
+  "date": "2026-10-14",
+  "id": "6bfc9c051bc0",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-14"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/gold-miners-earnings-surge-but-valuations-lag-sprott/",
+  "title": "Gold miners’ earnings surge but valuations lag: Sprott",
+  "desc": "Miners need to decide if stronger earnings and balance sheets will survive bullion-price volatility and production costs.",
+  "date": "2026-10-14",
+  "id": "7c0969dba280",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-14"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/idaho-copper-update-boosts-cumos-value-lowers-costs/1003895716/",
+  "title": "Idaho Copper update boosts CuMo’s value, lowers costs",
+  "desc": "An updated preliminary economic assessment (PEA) for Idaho Copper’s (NYSE-A: COPR) CuMo copper-molybdenum-silver project gives it a 46-year life and improves some economics from a previous study but it still...",
+  "date": "2026-10-14",
+  "id": "d0131050f85b",
+  "metals": [
+   "铜",
+   "银"
+  ],
+  "fetched": "2026-10-14"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/gold-miners-earnings-surge-but-valuations-lag-sprott/1003895710/",
+  "title": "Gold miners’ earnings surge but valuations lag: Sprott",
+  "desc": "Gold producers aren’t getting full credit from investors for stronger profits and tighter spending discipline, Sprott Asset Management says. The NYSE Arca Gold Miners Index traded at 5.7 times expected...",
+  "date": "2026-10-14",
+  "id": "7fb235fd5a23",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-14"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/icsg-sees-global-refined-copper-surplus-widening-in-2027-2026-10-14",
+  "title": "ICSG sees global refined copper surplus widening in 2027",
+  "desc": "The International Copper Study Group forecast on Wednesday that the global refined copper market would remain in surplus through 2027, with it widening from about 104 000 metric tons in 2026 to 368 000 metric tons in 2027. The ICSG said world refined copper production is forecast to rise by about 0.4% in 2026 and 3.4% in 2027. The group said an increase in refined copper output next year would be ",
+  "date": "2026-10-14",
+  "id": "a46b7816d06e",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-14"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/irh-zccm-ih-reaffirm-commitment-to-zambian-project-2026-10-14",
+  "title": "IRH, ZCCM-IH reaffirm commitment to Zambian project",
+  "desc": "Abu Dhabi-based natural resources investment platform International Resources Holding (IRH) and Zambian mining and energy investment holding company ZCCM Investments Holdings (ZCCM-IH) have reaffirmed their long-term partnership and shared ambition to advance the development of Mopani Copper Mines (MCM), strengthen its operational performance and deliver lasting benefits for its employees, host co",
+  "date": "2026-10-14",
+  "id": "305a4b59c516",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-14"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-14/us-treasurys-gold-revaluation-could-restart-debasement-trade-yield",
+  "title": "U.S. Treasury’s gold revaluation could restart the ‘debasement trade’ as yield pressures fade – UBP’s Kinsella",
+  "desc": "(Kitco News) – Gold has likely seen the worst of its Treasury-yield-driven losses, and once the Iran situation improves and Fed rate hike expectations ease, the Treasury department itself could provide a new tailwind for bullion prices between now and year-end, according to Peter Kinsella, Head of Investment Services for the UK at Swiss private bank UBP.Kinsella noted that gold has traded lower si",
+  "date": "2026-10-14",
+  "id": "d279c3668a6e",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-14"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-14/gold-silver-drop-hotter-cpi-revives-fed-rate-pressure-kitco-am-report",
+  "title": "Gold, silver drop as hotter CPI revives Fed-rate pressure - Kitco AM Report",
+  "desc": "(Kitco NewsWire) – Spot gold and silver prices are sharply lower in early U.S. trading Wednesday, after hotter-than-expected U.S. inflation data revived concerns that energy-driven price pressure will keep the Federal Reserve’s year-end tightening path in place. At the time of writing, spot gold was trading near $4,110.90 an ounce, down 1.18% on the session, while spot silver was trading near $57.",
+  "date": "2026-10-14",
+  "id": "da25f88cbf1d",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-14"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-14/gold-price-drops-session-lows-us-cpi-heats-september",
+  "title": "Gold price drops to session lows as U.S. CPI heats up in September",
+  "desc": "(Kitco News) - Gold prices have fallen to session lows, testing critical support as hotter-than-expected U.S. inflation data reinforces expectations that the Federal Reserve will have to raise interest rates by year-end, increasing the opportunity cost of holding the non-yielding precious metal.At the same time, higher energy prices are becoming embedded in the broader economy, which some economis",
+  "date": "2026-10-14",
+  "id": "87b5d0b6eff5",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-14"
+ },
+ {
+  "site": "BullionVault",
+  "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-inflation-bond-yields-101420261",
+  "title": "Gold Hits 10-Week Low as Bond Yields Soar Above Rising Inflation | Gold News",
+  "desc": "Gold and silver sank Wednesday as surprise strength in US inflation data was further overtaken by bond yields and interest rate forecasts >>",
+  "date": "2026-10-14",
+  "id": "96fd904023bc",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-14"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/alumar-fatality",
+  "title": "Alumar fatality",
+  "desc": "An employee has died at Alcoa's Alumar smelter, in São Luís, Maranhão, Brazil.",
+  "date": "2026-10-14",
+  "id": "134a256f808c",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-10-14"
+ },
+ {
   "site": "MetalMiner",
   "url": "https://agmetalminer.com/2026/10/13/supply-chain-risk/",
   "title": "Adding Metals Forecasts and Disruption Scenarios to Your Company’s AI Assistant",
