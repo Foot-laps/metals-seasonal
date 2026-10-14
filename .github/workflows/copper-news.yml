@@ -1,0 +1,40 @@
+# 铜矿图谱"外部综合资讯"：抓取 10 个外部网站上 铜/金/银/铝 的新闻标题、摘要和链接。
+# 触发方式：网页上的"更新资讯"按钮（workflow_dispatch），以及每 6 小时自动跑一次。
+# 抓取结果只提交到 copper-news 分支，不会往 main 分支提交，所以不影响平时往 main 发布网页。
+name: copper-news
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: copper-news
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 取出数据分支
+        run: |
+          git fetch --depth=1 origin copper-news:copper-news
+          git worktree add data copper-news
+
+      - name: 抓取
+        run: python3 -X utf8 copper/news/fetch_external_news.py --data-dir data --page-json data/ext_news.json
+
+      - name: 提交数据
+        working-directory: data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "copper news $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push origin copper-news
