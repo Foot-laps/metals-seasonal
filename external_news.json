@@ -1,5 +1,17 @@
 [
  {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/gleich-aluminium-benefits-from-ima-schelling-technology",
+  "title": "Gleich Aluminium benefits from IMA Schelling technology",
+  "desc": "Gleich Aluminium has replaced an existing panel cutting saw at its Kaltenkirchen, Germany site with an fm 8 from IMA Schelling.",
+  "date": "2026-10-15",
+  "id": "76f0c4173e87",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-10-15"
+ },
+ {
   "site": "AlCircle",
   "url": "https://www.alcircle.com/news/as-angul-smelter-expands-to-0-96m-tpa-nalco-turns-to-aluminium-fluoride-supply-security-121541",
   "title": "As Angul smelter expands to 0.96m tpa, NALCO turns to aluminium fluoride supply security",
@@ -507,6 +519,42 @@
    "金"
   ],
   "fetched": "2026-10-14"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/codelco-calls-shareholders-meeting-to-discuss-over-inflated-output/",
+  "title": "Codelco calls shareholders’ meeting to discuss over-inflated output",
+  "desc": "Chile's state-run copper miner called the meeting for November 5.",
+  "date": "2026-10-14",
+  "id": "61d1e726071c",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-15"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/op-ed-aluminums-calm-belies-lingering-supply-chain-stress/",
+  "title": "Op-Ed: Aluminum’s calm belies lingering supply-chain stress",
+  "desc": "The aluminum market has proved highly resilient to the sudden loss of so much production, but the stress lines are still there beneath the calm surface, writes Andy Home.",
+  "date": "2026-10-14",
+  "id": "c300e736391f",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-10-15"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-10-14/glencore-shares-trade-higher-asx-debut-investors-eye-copper",
+  "title": "Glencore shares trade higher on ASX debut as investors eye copper",
+  "desc": "Glencore’s (LON: GLEN), (ASX: GLC) shares traded heavily in their debut on Wednesday on the Australian Securities Exchange, where the miner and trader hopes to secure a better valuation from investors seeking greater copper exposure.Glencore CEO Gary Nagle expects strong demand from Australian investors betting on copper’s role in electrification, he said on Friday, as demand rises for the metal’s",
+  "date": "2026-10-14",
+  "id": "265ea2ac565c",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-15"
  },
  {
   "site": "MetalMiner",
