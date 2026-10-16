@@ -1,5 +1,17 @@
 [
  {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/bullabulling-gold-project-australia-2026-10-16",
+  "title": "Bullabulling gold project, Australia",
+  "desc": "Minerals 260 is developing the Bullabulling gold project – one of Australia’s largest undeveloped gold projects.",
+  "date": "2026-10-16",
+  "id": "5b2a5de73a72",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-16"
+ },
+ {
   "site": "Aluminium International Today",
   "url": "https://aluminiumtoday.com/news/gleich-aluminium-benefits-from-ima-schelling-technology",
   "title": "Gleich Aluminium benefits from IMA Schelling technology",
@@ -481,6 +493,42 @@
    "金"
   ],
   "fetched": "2026-10-15"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/minnova-maps-53m-restart-for-manitoba-gold-mine/",
+  "title": "Minnova maps $53M restart for Manitoba gold mine",
+  "desc": "The site, formerly known as Puffy Lake, operated from 1987 to 1989.",
+  "date": "2026-10-15",
+  "id": "0273f030ca33",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-16"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/bolivia-loosens-gold-export-controls-while-ending-purchases/",
+  "title": "Bolivia loosens gold export controls while ending purchases",
+  "desc": "Under new rules backed by President Rodrigo Paz, exporters will no longer need central bank certificates to ship gold overseas.",
+  "date": "2026-10-15",
+  "id": "48adeb3d2f68",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-16"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/gold-price-rallies-as-lower-yields-ai-stock-selloff-fuel-haven-demand/",
+  "title": "Gold price rallies as lower yields, AI stock selloff fuel haven demand",
+  "desc": "Gold has dropped by more than a fifth since the start of the US-Iran war in late February.",
+  "date": "2026-10-15",
+  "id": "3ae97ac1bf8c",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-16"
  },
  {
   "site": "AlCircle",
