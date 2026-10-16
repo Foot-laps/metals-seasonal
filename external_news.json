@@ -120,6 +120,141 @@
   "fetched": "2026-10-16"
  },
  {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/antofagasta-nets-its-highest-ever-copper-treatment-charges-in-auction-sources-say/",
+  "title": "Antofagasta nets its highest ever copper treatment charges in auction, sources say",
+  "desc": "Chile’s Antofagasta (LON: ANTO) was paid more than $300 a metric ton to have its copper concentrate turned into metal in recent",
+  "date": "2026-10-16",
+  "id": "b78434cb97cf",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-16"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/afc-eyes-iron-ore-and-uranium-investments-in-africa/",
+  "title": "AFC eyes iron ore and uranium investments in Africa",
+  "desc": "AFC already has interests in gold, bauxite, copper and manganese across Africa, and now wants to add iron ore and uranium.",
+  "date": "2026-10-16",
+  "id": "82f4e6eae613",
+  "metals": [
+   "铜",
+   "金",
+   "铝"
+  ],
+  "fetched": "2026-10-16"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/austrian-investor-rushes-to-boost-copper-production-at-old-chile-mine/",
+  "title": "Austrian investor rushes to boost copper production at old Chile mine",
+  "desc": "Tres Valles is close to other small and medium-sized miners in the Coquimbo region of Chile.",
+  "date": "2026-10-16",
+  "id": "69bba95e1a44",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-16"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/india-gold-swings-to-premium-as-lower-prices-lift-jewellery-demand/",
+  "title": "India gold swings to premium as lower prices lift jewellery demand",
+  "desc": "Although gold imports typically increase ahead of the festival season, inflows have been lower than usual this year.",
+  "date": "2026-10-16",
+  "id": "870fbe712328",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-16"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/aluminum-heads-for-surplus-in-2027-as-supply-shock-fades/",
+  "title": "Aluminum heads for surplus in 2027 as supply shock fades",
+  "desc": "CRU sees a 1.4 million-ton surplus next year, compared to a deficit of 711,000 tons this year.",
+  "date": "2026-10-16",
+  "id": "7645ab08a38f",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-10-16"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/freegolds-213m-at-1-2g-t-gold-outlines-faster-alaska-plan/1003895816/",
+  "title": "Freegold’s 213m at 1.2g outlines faster Alaska plan",
+  "desc": "Freegold (TSX: FVL; US-OTC: FGOVF) cut a 213-metre interval grading 1.24 grams gold per tonne at its Golden Summit project in Alaska, where drilling is helping define a smaller initial...",
+  "date": "2026-10-16",
+  "id": "ae34e81c0932",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-16"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/china-steps-up-gold-buying-as-jewellery-demand-fades/1003895806/",
+  "title": "China steps up gold buying as jewellery demand fades",
+  "desc": "China’s central bank bought more gold in September than in any month for almost three years, accelerating its bullion accumulation as the country’s jewellery market struggled. The People’s Bank of...",
+  "date": "2026-10-16",
+  "id": "2ca3e3ea4b36",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-16"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/copper-surplus-to-widen-as-refined-output-rebounds/1003895769/",
+  "title": "Copper surplus to widen as refined output rebounds",
+  "desc": "The global refined copper surplus is expected to more than triple next year as production growth outpaces consumption, despite demand from electrification, artificial intelligence and data centres, the International Copper...",
+  "date": "2026-10-16",
+  "id": "ad1de7d134cb",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-16"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-16/blackrocks-hambro-blasts-gold-miners-reckless-capital-allocation-towards",
+  "title": "BlackRock’s Hambro blasts gold miners’ ‘reckless capital allocation towards share buybacks… without any real process’",
+  "desc": "(Kitco News) – BlackRock, the world’s largest asset manager, sees the recent spate of share buybacks by gold miners as reckless and undisciplined, and believes that with gold prices likely to rise higher, the miners and their shareholders would be far better served by investing in new production.Evy Hambro, global head of thematic and sector investing at BlackRock, said at the FT Mining Summit thi",
+  "date": "2026-10-16",
+  "id": "abbed7f99e8c",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-16"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-16/gold-holds-near-4170-inflation-keeps-december-fed-tightening-play-kitco-am",
+  "title": "Gold holds near $4,170 as inflation keeps December Fed tightening in play - Kitco AM Report",
+  "desc": "(Kitco NewsWire) – Spot gold prices were near steady and spot silver prices were modestly higher in early U.S. trading Friday, as a softer dollar and lower Treasury yields on the week continued to support precious metals following Thursday's rebound. Federal Reserve Chair Kevin Warsh refrained from signaling an October rate increase during overnight remarks at the International Monetary Fund meeti",
+  "date": "2026-10-16",
+  "id": "4acdc534d635",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-16"
+ },
+ {
+  "site": "BullionVault",
+  "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-price-falls-longest-30-years-101620261",
+  "title": "Gold Makes Longest Losing Streak in 3 Decades | Gold News",
+  "desc": "Gold prices rallied Friday as bond yields retreated hard and tech stocks rallied, but fell for the 7th week in a row, the longest stretch in 30 years >>",
+  "date": "2026-10-16",
+  "id": "f6e91ea33afd",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-16"
+ },
+ {
   "site": "Aluminium International Today",
   "url": "https://aluminiumtoday.com/news/gleich-aluminium-benefits-from-ima-schelling-technology",
   "title": "Gleich Aluminium benefits from IMA Schelling technology",
@@ -2077,6 +2212,18 @@
    "铝"
   ],
   "fetched": "2026-10-14"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/op-ed-us-has-built-a-strategic-copper-reserve-now-can-it-keep-it/",
+  "title": "Op-Ed: US has built a strategic copper reserve. Now can it keep it?",
+  "desc": "The US has achieved in the space of 18 months what it took years to do in the Cold War, now the trick will be to keep it.",
+  "date": "2026-10-12",
+  "id": "4bbbaa913562",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-16"
  },
  {
   "site": "Mining.com",
