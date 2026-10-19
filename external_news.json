@@ -145,6 +145,289 @@
   "fetched": "2026-10-19"
  },
  {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/copper-price-falls-as-lme-stocks-edge-higher-and-mine-supply-concerns-ease/",
+  "title": "Copper price falls as LME stocks edge higher and mine supply concerns ease",
+  "desc": "Copper inventories outside the US have declined in as traders diverted shipments to the country ahead of potential tariffs.",
+  "date": "2026-10-19",
+  "id": "e4fa36077090",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/ls-considers-cut-to-copper-processing-capacity/",
+  "title": "LS considers cut to copper processing capacity",
+  "desc": "The company said it was considering \"flexible adjustments\" to copper concentrate purchases.",
+  "date": "2026-10-19",
+  "id": "ee2bc63c1a49",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/americas-golds-record-silver-output-misses-forecasts/",
+  "title": "Americas Gold’s record silver output misses forecasts",
+  "desc": "Silver production in the three months ended Sept. 30 hit a record 800,458 oz., a 4.6% increase from the same quarter in 2025.",
+  "date": "2026-10-19",
+  "id": "efe45e631eff",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/copper-hungry-us-buyers-circle-ivanhoe-electric-mine/",
+  "title": "Copper-hungry US buyers circle Ivanhoe Electric mine",
+  "desc": "Advanced offtake talks could help finance the $1.4-billion Santa Cruz copper project in Arizona as AI and power grid demand accelerates.",
+  "date": "2026-10-19",
+  "id": "45afef7ced68",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/ghana-plans-to-ban-raw-mineral-exports-by-2030-president-says/",
+  "title": "Ghana plans to ban raw mineral exports by 2030, president says",
+  "desc": "Ghana has already banned exports of iron scrap and non-ferrous metals, as well as raw gold produced by artisanal and small-scale miners.",
+  "date": "2026-10-19",
+  "id": "11d2e65bef41",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/digital-gold-could-triple-by-2031-wgc-estimates/",
+  "title": "Digital gold could triple by 2031, WGC estimates",
+  "desc": "The gold industry’s opportunity is reaching buyers beyond its existing bullion and exchange-traded fund customers.",
+  "date": "2026-10-19",
+  "id": "259529172079",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/sudan-gold-rush-leaves-toxic-legacy-as-war-drives-mining/",
+  "title": "Sudan gold rush leaves toxic legacy as war drives mining",
+  "desc": "Displaced civilians turn to informal prospecting as mercury and cyanide threaten farmland, drinking water and public health.",
+  "date": "2026-10-19",
+  "id": "34e1beb8439c",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/copper-hungry-us-buyers-circle-ivanhoe-electric-mine/1003895861/",
+  "title": "Copper-hungry US buyers circle Ivanhoe Electric mine",
+  "desc": "Ivanhoe Electric (NYSE-A, TSX: IE) is in advanced negotiations to sell copper from its $1.4-billion Santa Cruz project in Arizona as surging demand from artificial intelligence infrastructure and power grids...",
+  "date": "2026-10-19",
+  "id": "6b3cf9ba77ca",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/americas-golds-record-silver-output-misses-forecasts/1003895857/",
+  "title": "Americas Gold’s record silver output misses forecasts",
+  "desc": "Americas Gold and Silver (TSX: USA; NYSE-A: USAS) reported weaker-than-expected silver production in the third quarter amid ongoing infrastructure work at its main Galena complex in Idaho. Silver production in...",
+  "date": "2026-10-19",
+  "id": "284a96a6a1df",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/military-metals-wins-four-year-slovak-licence-lifeline/1003895882/",
+  "title": "Military Metals wins four-year Slovak licence lifeline",
+  "desc": "Military Metals (CSE: MILI; US-OTC: MILIF) secured four more years to explore its Trojárová antimony-gold project in Slovakia after authorities reversed a decision to cancel its licence. Shares rose. The...",
+  "date": "2026-10-19",
+  "id": "46423b75a244",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/cambrias-silver-coin-assays-back-premier-feed-plan/1003895880/",
+  "title": "Cambria’s Silver Coin assays back Premier feed plan",
+  "desc": "High-grade drill results at Cambria Gold Mines’ (TSXV: CAMB; US-OTC: CAMVF) Silver Coin bolster its plans to secure ore for the restart next year of the idled Premier mill in...",
+  "date": "2026-10-19",
+  "id": "0d18a4da3e09",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/africas-minerals-value-add-drive-interests-investors-but-faces-energy-hurdle-2026-10-19",
+  "title": "Africa's minerals value-add drive interests investors but faces energy hurdle",
+  "desc": "As African nations push miners to build refineries and smelters at home, government and industry officials say a major obstacle risks crimping investment: a shortage of cheap, reliable electricity. From Guinea's bauxite to Zimbabwe's lithium, governments are using export curbs, tax incentives and access to deposits to encourage local processing and capture more value from their mineral wealth.",
+  "date": "2026-10-19",
+  "id": "18f061d549e5",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/momentum-for-digital-gold-builds-addressing-barriers-could-help-unlock-700bn-opportunity-2026-10-19",
+  "title": "Momentum for digital gold builds, addressing barriers could help unlock $700bn opportunity",
+  "desc": "The digital gold market, valued at an estimated $45-billion to $55-billion today, could unlock up to $700-billion in latent demand, according to new research from the World Gold Council (WGC) and Boston Consulting Group (BCG). A report published by the WGC and BCG points to substantial untapped appetite among retail investors, with nearly nine in ten surveyed saying they would consider digital gol",
+  "date": "2026-10-19",
+  "id": "9a5508e4e737",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-10-19/ls-considers-cut-copper-processing-capacity",
+  "title": "LS considers cut to copper processing capacity",
+  "desc": "South Korean copper smelter LS MnM is reviewing a potential reduction in output as shrinking refining margins and intensifying competition for copper concentrate pressure profitability, it said on Monday.The company, which operates a refinery with annual capacity of 680,000 metric tons, said it was considering “flexible adjustments” to copper concentrate purchases depending on market conditions an",
+  "date": "2026-10-19",
+  "id": "56956346d805",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-10-19/copper-price-falls-lme-stocks-edge-higher-and-mine-supply-concerns",
+  "title": "Copper price falls as LME stocks edge higher and mine supply concerns ease",
+  "desc": "Copper prices fell on Monday as rising inventories and the end of a strike at a major Chilean mine eased supply concerns.Benchmark three-month copper on the London Metal Exchange was down 0.4% at $14,342 a metric ton by 1600 GMT.Available copper stocks in LME-registered warehouses rose to a two-month high of 147,450 tons after 8,225 tons of inflows into US warehouses, daily exchange data showed.Co",
+  "date": "2026-10-19",
+  "id": "2d4d0dbfc2df",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-19/gold-falls-dollar-treasury-yields-rise-silver-holds-modest-gains-kitco-pm",
+  "title": "Gold falls as dollar, Treasury yields rise; silver holds modest gains - Kitco PM Report",
+  "desc": "(Kitco NewsWire) - Spot gold prices were lower and spot silver prices were slightly higher in late U.S. trading Monday, as a firmer U.S. dollar and rising Treasury yields pressured bullion while traders weighed persistent inflation risks against expectations for a Federal Reserve pause later this month. A rebound in technology stocks reduced some defensive demand for gold, while continued uncertai",
+  "date": "2026-10-19",
+  "id": "d5b536f01e3a",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-19/i-got-out-my-bank-stocks-why-former-fed-insider-chris-whalen-betting-gold",
+  "title": "‘I got out of my bank stocks’: Why former Fed insider Chris Whalen is betting on gold",
+  "desc": "(Kitco News) - Christopher Whalen has spent more than four decades picking apart bank balance sheets, starting at the Federal Reserve Bank of New York. So it says something that, at the end of September, he sold every bank stock he owned.“I did a major rebalance at the end of the third quarter. I got out of my bank stocks,” Whalen told Kitco News anchor Jeremy Szafron. “I actually put a couple of ",
+  "date": "2026-10-19",
+  "id": "f5c9a9d4dfe6",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-19/short-dollar-and-hold-gold-or-bitcoin-inflation-erodes-wealth-ledns-leeds",
+  "title": "‘Short the dollar’ and hold gold or Bitcoin as inflation erodes wealth – Ledn’s Leeds",
+  "desc": "(Kitco News) – Inflation and jurisdictional risks are serving as powerful examples of the value of alternative assets like gold and Bitcoin, and the ability to borrow against these non-yielding assets could make them even more attractive in the coming years, according to Adam Leeds, CEO of digital-asset-backed lending platform Ledn – which is launching Tether Gold-backed loans in the coming weeks.",
+  "date": "2026-10-19",
+  "id": "541bcfe1d714",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-19/golds-path-6000-and-silvers-return-above-90-depend-renewed-investor",
+  "title": "Gold's path to $6,000 and silver's return above $90 depend on renewed investor confidence – Metals Focus",
+  "desc": "(Kitco News) - Gold prices continue to struggle as persistent inflation and rising interest rates drive investors toward higher-yielding assets; however, one precious metals analyst says the market is consolidating rather than entering a bear market, with the structural drivers that supported last year's historic rally remaining firmly intact.In an interview with Kitco News, Matthew Piggott, Direc",
+  "date": "2026-10-19",
+  "id": "d8ff9f5cf6dc",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-19/gold-and-silver-prices-pressured-hot-inflation-gold-etf-holdings-buck-trend",
+  "title": "Gold and silver prices pressured by hot inflation, but gold ETF holdings buck trend to hit 2026 highs – Heraeus",
+  "desc": "(Kitco News) – Gold and silver both came under renewed pressure following last week’s elevated CPI and PPI prints. Still, gold ETF demand has bucked the earlier trend to rise to annual highs despite the oil and rate headwinds. At the same time, India’s evolving import tax rules continue to impact precious metals demand, according to precious metals analysts at Heraeus.In their latest update, the a",
+  "date": "2026-10-19",
+  "id": "ef277dc1c3f4",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-19/gold-slips-silver-gains-oil-retreats-and-fed-pause-expectations-hold-kitco",
+  "title": "Gold slips, silver gains as oil retreats and Fed-pause expectations hold - Kitco AM Report",
+  "desc": "(Kitco NewsWire) – Spot gold prices were slightly lower and spot silver prices were higher in early U.S. trading Monday, as declining oil prices and lower Treasury yields provided support for precious metals while persistent inflation and expectations for additional Federal Reserve tightening limited buying interest. At the time of writing, spot gold was trading near $4,159.70 an ounce, down $4.40",
+  "date": "2026-10-19",
+  "id": "802d03e0888a",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "BullionVault",
+  "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-ai-tech-101920261",
+  "title": "Gold Slips as Tech Stocks Rally from AI Sell-Off | Gold News",
+  "desc": "Gold prices fell back Monday as bond yields starting rising again and AI and semiconductor stocks rallied from last week's sell off >>",
+  "date": "2026-10-19",
+  "id": "bb2560ac868c",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/hydro-achieves-zero-emission-aluminium-milestone",
+  "title": "Hydro achieves zero-emission aluminium milestone",
+  "desc": "Hydro has produced aluminium using its HalZero electrolysis technology for the first time.",
+  "date": "2026-10-19",
+  "id": "35d6c74e94dc",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
   "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/bullabulling-gold-project-australia-2026-10-16",
   "title": "Bullabulling gold project, Australia",
