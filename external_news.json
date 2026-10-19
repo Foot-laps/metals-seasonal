@@ -1,5 +1,150 @@
 [
  {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/freeport-bets-on-chemical-solution-to-reach-copper-leaching-target/",
+  "title": "Freeport bets on chemical solution to reach copper leaching target",
+  "desc": "New leaching reagent to be tested later this year, the company said.",
+  "date": "2026-10-19",
+  "id": "39ed1385e6d5",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/digital-gold-could-triple-by-2031-wgc-estimates/1003895839/",
+  "title": "Digital gold could triple by 2031, WGC estimates",
+  "desc": "Digital gold could bring $95 billion (C$135 billion) in new money into bullion by 2031 if providers can win investors’ trust, the World Gold Council and Boston Consulting Group estimate....",
+  "date": "2026-10-19",
+  "id": "b35a9c71c5b3",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/australias-south32s-first-quarter-copper-output-rise-slightly-misses-estimates-2026-10-19",
+  "title": "Australia's South32's first-quarter copper output rise, slightly misses estimates",
+  "desc": "Diversified miner South32 on Monday posted a 2% rise in first-quarter copper production helped by mining ore with a higher copper content as it had planned,but the output was slightly below market expectations. Excluding its aluminium portfolio, copper accounted for more than half of South32's fiscal 2026 earnings and was the miner's primary cash generator.",
+  "date": "2026-10-19",
+  "id": "885f491e1a31",
+  "metals": [
+   "铜",
+   "铝"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/fortescue-demonstrates-effectiveness-of-worlds-first-arsenic-removal-tech-for-copper-2026-10-19",
+  "title": "Fortescue demonstrates effectiveness of world's first arsenic removal tech for copper",
+  "desc": "Iron-ore major Fortescue has sold more than 40 t of copper concentrate cleaned using its new world-first arsenic removal technology, creating a solution for a complex problem facing the global copper industry. The patented Toowong Process uses a low-temperature, low-pressure hydrometallurgical method to separate arsenic from copper concentrate.",
+  "date": "2026-10-19",
+  "id": "3ffaa927e734",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/startups-are-extracting-more-copper-using-microbes-2026-10-19",
+  "title": "Startups are extracting more copper using microbes",
+  "desc": "The world has a copper problem. The average ore quality is plummeting, more resources are being plowed into obtaining the same amount of metal and new mines take years to open because of the cost and regulatory hurdles. Yet companies need more of the commodity to power the accelerating electrical revolution. “It is essentially the metal that is underpinning this transition,” said Kwasi Ampofo, hea",
+  "date": "2026-10-19",
+  "id": "b51e4bce9a9e",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/freeport-bets-on-chemical-solution-to-reach-copper-leaching-target-2026-10-19",
+  "title": "Freeport bets on chemical solution to reach copper leaching target",
+  "desc": "Freeport-McMoRan is betting a new chemical compound can help it reach an ambitious target of extracting 800-million pounds of copper from waste rock each year and expand production beyond traditional mines to meet surging global demand. Working with a fleet of chemists, the world's largest publicly traded copper producer has spent the past three years testing dozens of chemical cocktails in the ho",
+  "date": "2026-10-19",
+  "id": "df1238494ebf",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/antofagastas-centinela-strike-ends-after-deal-with-unions-2026-10-19",
+  "title": "Antofagasta's Centinela strike ends after deal with unions",
+  "desc": "Workers from two unions at Chile's Centinela copper mine have ratified an agreement reached with Antofagasta Minerals on a new collective bargaining contract, ending a strike of more than a week, the unions and the company said on Sunday. More than 700 members of the Distrito Centinela and Minera Esperanza unions began the strike on October 7 after contract talks broke down. They had sought equal ",
+  "date": "2026-10-19",
+  "id": "45dcb7e3a7bd",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/sale-of-south-african-aluminium-assets-to-alcoa-of-us-on-track-south32-reports-2026-10-19",
+  "title": "Sale of South African aluminium assets to Alcoa of US on track, South32 reports",
+  "desc": "The sale of South Africa’s aluminium value chain assets to Alcoa Corporation of the US remains on track for completion in the June 2027 half-year, Johannesburg-, Sydney- and London-listed South32 reported in its September quarterly on Monday, October 19. In the three months to September 30, aluminium production was largely unchanged as South Africa’s Hillside Aluminium in KwaZulu-Natal continued t",
+  "date": "2026-10-19",
+  "id": "4a7214571310",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/china-aluminium-output-hits-record-quarterly-high-despite-capacity-cap-2026-10-19",
+  "title": "China aluminium output hits record quarterly high despite capacity cap",
+  "desc": "China's primary aluminium production hit a record quarterly high in July to September, official data showed on Monday, as smelters maintained high operating rates despite a longstanding government-imposed capacity ceiling. The world's top aluminium producer churned out 11.84-million metric tons of the metal in the third quarter, up 2.2% from a year earlier and 0.5% from the previous quarter, accor",
+  "date": "2026-10-19",
+  "id": "985ec291db34",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/40m-for-prieska-copper-zinc-mine-development-in-south-africas-northern-cape-2026-10-19",
+  "title": "$40m for Prieska Copper Zinc Mine development in South Africa’s Northern Cape",
+  "desc": "The first copper and zinc production from Uppers at the reviving Prieska Copper Zinc Mine in South Africa’s well-endowed Northern Cape is targeted for the end of next year, Orion Minerals reported on Monday, October 19, following the way for this being cleared by financing and offtake agreement finalisation. The $40-million tranche A financing from Glencore is now unconditional and gthe first draw",
+  "date": "2026-10-19",
+  "id": "5ef1c4cc429a",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "世界黄金协会",
+  "url": "https://www.gold.org/goldhub/gold-focus/2026/10/weekly-markets-monitor-bonds-back-room",
+  "title": "Weekly Markets Monitor - Bonds back in the room",
+  "desc": "Last week, Middle East tensions intensified amid attacks and continued disruptions in the Strait of Hormuz, pushing oil prices higher. President Trump also waived additional tariffs of up to 100% on major buyers of Russian energy. On the macro front, US consumer and producer inflation picked up in September, reviving expectations of further Fed tightening. Inflation also firmed in the euro area, I",
+  "date": "2026-10-19",
+  "id": "d0f06f8a5b91",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/alcoa-to-sell-part-of-massena-east-site",
+  "title": "Alcoa to sell part of Massena East site",
+  "desc": "Alcoa has entered into definitive agreements to sell portions of its Massena East site in New York, USA, for up to $315 million.",
+  "date": "2026-10-19",
+  "id": "0d3f994d2def",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-10-19"
+ },
+ {
   "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/bullabulling-gold-project-australia-2026-10-16",
   "title": "Bullabulling gold project, Australia",
@@ -2830,6 +2975,18 @@
    "铝"
   ],
   "fetched": "2026-10-14"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/mining-convention-awarded-on-eve-of-first-year-anniversary-2026-10-09",
+  "title": "Mining convention awarded on eve of first year anniversary",
+  "desc": "On August 3, Guinea-focused and 100% Guinean-owned mining enterprise Nimba Mining Company (NMC) signed its mining convention at the Presidency of the Republic, which was subsequently approved by decree. One year to the day after its creation, the company reports that it now has a clear and stable legal framework to conduct its entire chain of activities, from the extraction of bauxite at Tinguilin",
+  "date": "2026-10-09",
+  "id": "668c251b5306",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-10-19"
  },
  {
   "site": "Mining.com",
