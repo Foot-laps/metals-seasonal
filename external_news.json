@@ -145,6 +145,152 @@
  },
  {
   "site": "Mining.com",
+  "url": "https://www.mining.com/web/codelco-sets-2027-europe-copper-premium-at-record-350-a-metric-ton-sources-say/",
+  "title": "Codelco sets 2027 Europe copper premium at record $350 a metric ton, sources say",
+  "desc": "The record premium points to an emerging trend of higher copper premiums due to expectations of shortages in Europe.",
+  "date": "2026-10-20",
+  "id": "9a7d66750905",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-20"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/copper-surplus-masks-looming-332b-mine-shortfall/",
+  "title": "Copper surplus masks looming $332B mine shortfall",
+  "desc": "BNEF predicts enough refined metal until 2027, but lengthy mine development may cause a shortage by 2050.",
+  "date": "2026-10-20",
+  "id": "58175b8f27ff",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-20"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/anglo-american-weathers-chiles-storms-while-de-beers-struggles/",
+  "title": "Anglo American weathers Chile’s storms while De Beers struggles",
+  "desc": "Extreme weather has hit Chilean copper output while weaker diamond prices complicate the miner's divestment plans for De Beers.",
+  "date": "2026-10-20",
+  "id": "74540f8472a4",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-20"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/heliostar-drilling-strengthens-ana-paula-growth-case/1003895893/",
+  "title": "Heliostar drilling strengthens Ana Paula growth case",
+  "desc": "Heliostar Metals (TSX: HSTR; US-OTC: HSTXF) has intersected gold below the planned workings of its Ana Paula project in Mexico, pointing to expansion potential as it prepares a feasibility study...",
+  "date": "2026-10-20",
+  "id": "37c7b8094d3a",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-20"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/sulphuric-acid-prices-due-to-extend-decline-in-2027-cru-says-2026-10-20",
+  "title": "Sulphuric acid prices due to extend decline in 2027, CRU says",
+  "desc": "Prices of sulphuric acid used to process metals such as copper and nickel are expected to extend their decline next year, consultancy CRU said on Tuesday. Sulphuric acid delivered to top copper producer Chile is forecast to fall to $215 a metric ton in the fourth quarter of 2027 from a record of $451 earlier this year, CRU said",
+  "date": "2026-10-20",
+  "id": "7eaac59f5b0a",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-20"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-20/cibc-slashes-gold-price-forecasts-sees-recovery-5200-2027-central-bank",
+  "title": "CIBC slashes gold price forecasts but sees recovery to $5,200 in 2027 as central bank demand offsets Fed headwinds",
+  "desc": "(Kitco News) - Gold prices remain stuck in neutral, clinging to support around $4,100 an ounce as inflation pressures drive bond yields and the U.S. dollar higher; however, one Canadian bank remains bullish on the precious metal over the longer term, even as it significantly lowers its price forecasts through the end of the decade.In its latest precious metals outlook, commodity analysts at CIBC C",
+  "date": "2026-10-20",
+  "id": "7693bf255a56",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-20"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-20/gold-struggling-catch-bid-even-us-pending-home-sales-drop-73",
+  "title": "Gold struggling to catch a bid even as U.S. pending home sales drop 7.3%",
+  "desc": "(Kitco News) - The gold market continues to struggle to attract any safe-haven demand, even as the U.S. housing market continues to lose significant momentum, with the number of Americans planning to buy a home dropping sharply in September.The U.S. pending home sales index dropped 7.3 in last month, the NAR announced on Tuesday. The data was significantly worse than forecasts, as economists expec",
+  "date": "2026-10-20",
+  "id": "65386dd9f6e8",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-20"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-20/gold-weaker-silver-mixed-weak-housing-data-offsets-rising-oil-prices-kitco",
+  "title": "Gold weaker, silver mixed as weak housing data offsets rising oil prices - Kitco AM Report",
+  "desc": "(Kitco NewsWire) – Spot gold prices were lower and spot silver prices were volatile in early U.S. trading Tuesday, as weaker-than-expected housing activity highlighted the impact of elevated borrowing costs on the U.S. economy, while rising crude oil prices and persistent inflation continued to support expectations for additional Federal Reserve tightening. The latest housing figures provided some",
+  "date": "2026-10-20",
+  "id": "eeac0826d7b2",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-20"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-20/spot-gold-price-near-low-after-us-housing-starts-fall-52-building-permits",
+  "title": "Spot gold price near low after U.S. housing starts fall 5.2%, building permits fall 0.2% in September",
+  "desc": "(Kitco News) - Gold prices are trading near session lows this morning after the latest data showed the U.S. housing market delivering a weaker-than-expected performance last month.Housing starts fell 5.2% in September to a seasonally adjusted annual rate of 1.221 million units, the Commerce Department announced on Tuesday. The data was worse than expected as economists looked for a print of 1.300 ",
+  "date": "2026-10-20",
+  "id": "6d64da5a421b",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-20"
+ },
+ {
+  "site": "BullionVault",
+  "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-india-china-etfs-102020261",
+  "title": "Gold Rallies as China and India Prices Signal Stronger Demand | Gold News",
+  "desc": "Gold rallied and silver jumped Tuesday as US AI stocks shrugged off another Asian crash while bullion prices in China and India showed growing demand >>",
+  "date": "2026-10-20",
+  "id": "d5eab95b4b22",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-20"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/aluminium-outlook-returns",
+  "title": "Aluminium Outlook returns",
+  "desc": "Aluminium Outlook 2027 will take place on 23–24 February in partnership with the Aluminium Federation (ALFED).",
+  "date": "2026-10-20",
+  "id": "71cb4cdfe4ad",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-10-20"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/alcoa-revenue-rises-23-year-over-year",
+  "title": "Alcoa revenue rises 23% year-over-year",
+  "desc": "Alcoa reported $3.7 billion in revenue for Q3 2026, a 23% year-over-year increase, despite a 7% sequential decline.",
+  "date": "2026-10-20",
+  "id": "16b9646d645e",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-10-20"
+ },
+ {
+  "site": "Mining.com",
   "url": "https://www.mining.com/web/freeport-bets-on-chemical-solution-to-reach-copper-leaching-target/",
   "title": "Freeport bets on chemical solution to reach copper leaching target",
   "desc": "New leaching reagent to be tested later this year, the company said.",
@@ -580,6 +726,18 @@
   "id": "a0b07b3d185b",
   "metals": [
    "铜"
+  ],
+  "fetched": "2026-10-20"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-19/short-dollar-and-hold-gold-or-bitcoin-inflation-erodes-wealth-ledns-reeds",
+  "title": "‘Short the dollar’ and hold gold or Bitcoin as inflation erodes wealth – Ledn’s Reeds",
+  "desc": "(Kitco News) – Inflation and jurisdictional risks are serving as powerful examples of the value of alternative assets like gold and Bitcoin, and the ability to borrow against these non-yielding assets could make them even more attractive in the coming years, according to Adam Reeds, CEO of digital-asset-backed lending platform Ledn – which is launching Tether Gold-backed loans in the coming weeks.",
+  "date": "2026-10-19",
+  "id": "3682fdf89f26",
+  "metals": [
+   "金"
   ],
   "fetched": "2026-10-20"
  },
