@@ -1,6 +1,18 @@
 [
  {
   "site": "Mining.com",
+  "url": "https://www.mining.com/web/copper-boom-belies-a-deepening-mining-recession-in-top-producer/",
+  "title": "Copper boom belies a deepening ‘mining recession’ in top producer",
+  "desc": "Chile’s aging copper mines have been battered by deadly accidents, extreme weather and operational missteps.",
+  "date": "2026-10-20",
+  "id": "99d12419ad50",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-20"
+ },
+ {
+  "site": "Mining.com",
   "url": "https://www.mining.com/web/freeport-bets-on-chemical-solution-to-reach-copper-leaching-target/",
   "title": "Freeport bets on chemical solution to reach copper leaching target",
   "desc": "New leaching reagent to be tested later this year, the company said.",
@@ -426,6 +438,18 @@
    "铝"
   ],
   "fetched": "2026-10-19"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/bhp-misses-quarterly-copper-output-estimates-on-chile-disruptions/",
+  "title": "BHP misses quarterly copper output estimates on Chile disruptions",
+  "desc": "Output from BHP's Escondida, the world's largest copper mine, slipped 23%.",
+  "date": "2026-10-19",
+  "id": "a0b07b3d185b",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-20"
  },
  {
   "site": "Mining Weekly",
