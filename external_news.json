@@ -134,6 +134,128 @@
  },
  {
   "site": "Mining.com",
+  "url": "https://www.mining.com/first-quantums-kansanshi-expansion-beats-design-capacity/",
+  "title": "First Quantum’s Kansanshi expansion beats design capacity",
+  "desc": "Zambian copper operation targets 27 million tonnes of ore throughput in 2026 as new processing facilities lift output.",
+  "date": "2026-10-21",
+  "id": "a3f9a96b7d3c",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/endurance-gold-expands-zones-at-reliance-as-pea-work-ongoing/",
+  "title": "Endurance Gold expands zones at Reliance as PEA work ongoing",
+  "desc": "The latest drilling could help Endurance expand Reliance's initial gold resource as it advances a PEA for the project.",
+  "date": "2026-10-21",
+  "id": "6612d6e8a48d",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/endurance-gold-expands-reliance-zones-amid-pea-work/1003895936/",
+  "title": "Endurance Gold expands Reliance zones amid PEA work",
+  "desc": "Endurance Gold (TSXV: EDG; US-OTC: ENDGF) intersected fresh gold-antimony areas at its Reliance brownfield project in British Columbia, as the company works to build on an initial 1.45-million oz. gold...",
+  "date": "2026-10-21",
+  "id": "7d9d04ed180b",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/hudbay-mitsubishi-ok-2-1b-copper-world-project/1003895931/",
+  "title": "Hudbay, Mitsubishi OK $2.1B Copper World project",
+  "desc": "Hudbay Minerals (TSX, NYSE: HBM) and Japan’s Mitsubishi have approved construction of the $2.1-billion (C$2.9 billion) Copper World project in southern Arizona despite a 59% surge in construction costs. Scope...",
+  "date": "2026-10-21",
+  "id": "61ac471adb97",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-10-21/grupo-mexico-reports-higher-quarterly-profit-cuts-copper-guidance",
+  "title": "Grupo Mexico reports higher quarterly profit, cuts copper guidance",
+  "desc": "Mining and transportation conglomerate Grupo Mexico reported a 56% profit bump in the third quarter compared to the same period a year earlier, helped mainly by higher metal prices, even as it noted a drop in copper production.The group, a leading global copper producer, lowered its 2026 copper production guidance to 1.026 million metric tons from a previous forecast of 1.034 million tons.Net prof",
+  "date": "2026-10-21",
+  "id": "69447001e4d7",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-21/royal-mint-sees-record-silver-and-platinum-sales-renewed-gold-demand",
+  "title": "Royal Mint sees record silver and platinum sales, renewed gold demand despite higher prices and rising bond yields",
+  "desc": "(Kitco News) - Gold and silver faced significant headwinds through the summer as persistent inflation and higher bond yields raised the opportunity cost of holding non-yielding assets. However, some investors continued to see value in the precious metals, according to the latest sales figures from the British Royal Mint.On Wednesday, the Royal Mint announced record year-to-date silver and platinum",
+  "date": "2026-10-21",
+  "id": "6ff2ea4ad824",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-21/russia-sells-62-tonnes-gold-september-bullion-reserves-fall-lowest-level",
+  "title": "Russia sells 6.2 tonnes of gold in September as bullion reserves fall to lowest level since 2019",
+  "desc": "(Kitco News) – Russia sold 200,000 troy ounces of gold in September, equivalent to 6.2 tonnes, according to the latest figures released by the Bank of Russia.Last month’s bullion sales lowered Russia’s sovereign gold holdings to 72.8 million troy ounces, or 2,264 tonnes, their lowest level since the end of 2019.Russia is in the midst of its largest sustained drawdown in gold reserves since the fin",
+  "date": "2026-10-21",
+  "id": "e512e9ab16ef",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-21/im-selling-my-main-house-harry-dent-warns-home-prices-may-not-recover",
+  "title": "'I'm selling my main house': Harry Dent warns home prices may not recover for decades",
+  "desc": "(Kitco News) - Harry Dent has spent decades warning about bubbles. Now he's acting on one. He's selling his own house, and he doesn't own any gold.\"I'm selling my main house, 'cause that's the one that's gonna get hit the most,\" Dent told Kitco News anchor Jeremy Szafron. \"I sold my vacation home years ago.\".embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;",
+  "date": "2026-10-21",
+  "id": "6edeee669eb7",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-21/gold-gains-silver-slips-oil-prices-rise-fed-rate-hike-expectations-persist",
+  "title": "Gold gains, silver slips as oil prices rise, Fed rate hike expectations persist - Kitco AM Report",
+  "desc": "(Kitco NewsWire) – Spot gold prices were slightly higher and spot silver prices were lower in early U.S. trading Wednesday, as renewed concerns about energy supplies through the Strait of Hormuz and persistent expectations for additional Federal Reserve tightening weighed on precious metals. Gold found some support from lower Treasury yields and defensive demand, while silver struggled to sustain ",
+  "date": "2026-10-21",
+  "id": "8c9b05f11fec",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "BullionVault",
+  "url": "https://www.bullionvault.com/gold-news/gold-price-news/russia-gold-crisis-war-102120261",
+  "title": "Gold Struggles to Rally as Russia's Central Bank Bullion Drops to 2019 Level | Gold News",
+  "desc": "Gold prices struggled to rally with AI tech shares on Wednesday as new data said Russia is selling gold at the fastest pace since its 1998 debt crisis >>",
+  "date": "2026-10-21",
+  "id": "fe110167b5d6",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "Mining.com",
   "url": "https://www.mining.com/web/copper-boom-belies-a-deepening-mining-recession-in-top-producer/",
   "title": "Copper boom belies a deepening ‘mining recession’ in top producer",
   "desc": "Chile’s aging copper mines have been battered by deadly accidents, extreme weather and operational missteps.",
