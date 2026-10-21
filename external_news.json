@@ -256,6 +256,139 @@
  },
  {
   "site": "Mining.com",
+  "url": "https://www.mining.com/web/teck-receives-strike-notice-at-highland-valley-copper-operation/",
+  "title": "Teck receives strike notice at Highland Valley Copper operation",
+  "desc": "The collective agreement at Highland Valley Copper expired on September 30.",
+  "date": "2026-10-21",
+  "id": "c9d6d5f28561",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/copper-price-falls-as-inventories-rise-supply-worries-ease-nickel-climbs/",
+  "title": "Copper price falls as inventories rise, supply worries ease; nickel climbs",
+  "desc": "LME inventories climbed by 11,475 tons, data showed on Wednesday, having gained 8% in a week.",
+  "date": "2026-10-21",
+  "id": "e351ee0d0c72",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/hudbay-mitsubishi-approve-copper-world-construction/",
+  "title": "Hudbay, Mitsubishi approve Copper World construction",
+  "desc": "The move clears the way for one of the largest new copper mines in the US to start producing in the second half of 2029.",
+  "date": "2026-10-21",
+  "id": "476404b0fc80",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/mining-forum-video-stoferle-spots-gold-bargains-but-keeps-cash-ready/",
+  "title": "Mining Forum video: Stöferle spots gold bargains but keeps cash ready",
+  "desc": "Liechtenstein-based Incrementum gold fund manager Ronald-Peter Stöferle sees bargains in mining shares after gold’s pullback.",
+  "date": "2026-10-21",
+  "id": "a48d51bb7934",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/brazil-court-halts-belo-suns-300m-gold-project/",
+  "title": "Brazil court halts Belo Sun’s $300M gold project",
+  "desc": "Canadian miner awaits court approval of an Indigenous agreement as a temporary licence suspension stalls construction in Pará.",
+  "date": "2026-10-21",
+  "id": "bc2d3847005c",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/gold-price-steadies-near-one-week-low-as-oil-driven-inflation-fears-grow/",
+  "title": "Gold price steadies near one-week low as oil-driven inflation fears grow",
+  "desc": "“The likelihood of an October rate hike has dropped pretty significantly,\" senior metals strategist told Reuters.",
+  "date": "2026-10-21",
+  "id": "3adc3c771a3a",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/fortuna-targets-deeper-lindero-pit-after-gold-hits/1003895960/",
+  "title": "Fortuna targets deeper Lindero pit after gold hits",
+  "desc": "Fortuna Mining (TSX: FVI; NYSE: FSM) has drilled gold beneath the planned bottom of its Lindero open pit in Argentina’s high-Andes, strengthening its case for adding reserves at the operating...",
+  "date": "2026-10-21",
+  "id": "1cfb30061207",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/mining-forum-video-stoferle-spots-gold-bargains-but-keeps-cash-ready/1003895945/",
+  "title": "Mining Forum video: Stöferle spots gold bargains but keeps cash ready",
+  "desc": "Liechtenstein-based Incrementum gold fund manager Ronald-Peter Stöferle sees bargains in mining shares after gold’s pullback, even as his active gold strategy holds almost 40% cash. The strategy’s investment signal turned...",
+  "date": "2026-10-21",
+  "id": "6c1a9a6ff349",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/summit-video-kodiak-tests-how-much-bigger-mpd-resource-can-get/1003895947/",
+  "title": "Summit video: Kodiak tests how much bigger MPD resource can get",
+  "desc": "Kodiak Copper (TSXV: KDK; US-OTC: KDKCF) is targeting a larger resource at its MPD copper-gold project in southern B.C. by March, CEO Claudia Tornquist says. Recent drilling at the Ketchan...",
+  "date": "2026-10-21",
+  "id": "0e97f661f1e7",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-10-21/incoming-northern-star-ceo-flags-possibility-asset-sales",
+  "title": "Incoming Northern Star CEO flags possibility of asset sales",
+  "desc": "Australia’s Northern Star Resources (ASX: NST) on Wednesday flagged the potential for asset sales as the miner focuses on delivering its turnaround plan under a new CEO, amid pressure from both activist investor Elliott and suitor Gold Fields.Northern Star reported a 7.2% rise in first-quarter revenue from gold sales, helped by higher average gold sale prices that offset lower volumes from planned",
+  "date": "2026-10-21",
+  "id": "2b4017fe4cdc",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-21/price-gold-will-reflect-pain-elsewhere-and-gold-equities-are-working",
+  "title": "‘The price of gold will reflect the pain elsewhere’ and gold equities are working as a leveraged play – BlackRock’s Hambro",
+  "desc": "(Kitco News) – Gold will continue to appreciate as the systemic problems of ballooning debt, runaway deficits, and currency depreciation worsen, and the mining equities are once again providing multiples of leverage to the gold price, according to Evy Hambro, global head of thematic and sector investing at BlackRock.Hambro was asked in a recent interview with MoneyWeek whether he expects the mild ",
+  "date": "2026-10-21",
+  "id": "2ac2e4a115da",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "Mining.com",
   "url": "https://www.mining.com/web/copper-boom-belies-a-deepening-mining-recession-in-top-producer/",
   "title": "Copper boom belies a deepening ‘mining recession’ in top producer",
   "desc": "Chile’s aging copper mines have been battered by deadly accidents, extreme weather and operational missteps.",
