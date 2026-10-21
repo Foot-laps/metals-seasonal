@@ -1,6 +1,19 @@
 [
  {
   "site": "Mining.com",
+  "url": "https://www.mining.com/web/trader-known-for-big-aluminum-bets-is-back-with-wager-on-copper/",
+  "title": "Trader known for big aluminum bets is back with wager on copper",
+  "desc": "Sharp swings and large positions have been a key topic of conversation as the industry gathers in London for the annual LME Week marathon of contract negotiations, seminars and cocktail parties.",
+  "date": "2026-10-21",
+  "id": "b9d9f05f0487",
+  "metals": [
+   "铜",
+   "铝"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "Mining.com",
   "url": "https://www.mining.com/web/copper-boom-belies-a-deepening-mining-recession-in-top-producer/",
   "title": "Copper boom belies a deepening ‘mining recession’ in top producer",
   "desc": "Chile’s aging copper mines have been battered by deadly accidents, extreme weather and operational missteps.",
@@ -372,6 +385,43 @@
    "金"
   ],
   "fetched": "2026-10-20"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/grupo-mexico-reports-higher-quarterly-profit-cuts-copper-guidance/",
+  "title": "Grupo Mexico reports higher quarterly profit, cuts copper guidance",
+  "desc": "Mining and transportation conglomerate reported a 56% profit bump in the third quarter compared to the same period a year earlier.",
+  "date": "2026-10-20",
+  "id": "ec65b61a47f2",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/startups-are-extracting-more-copper-using-microbes/",
+  "title": "Startups are extracting more copper using microbes",
+  "desc": "Copper bottleneck is yielding innovative solutions.",
+  "date": "2026-10-20",
+  "id": "f54edb01487a",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-21"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-20/gold-pressured-despite-falling-yields-hormuz-diplomacy-sparks-oil-price",
+  "title": "Gold pressured despite falling yields as Hormuz diplomacy sparks oil price reversal - Kitco PM Report",
+  "desc": "(Kitco NewsWire) - Spot gold prices were lower and spot silver prices were higher in late U.S. trading Tuesday, as weakening housing activity and lower Treasury yields failed to overcome persistent inflation concerns and expectations for additional Federal Reserve tightening. Crude oil prices reversed sharply from their morning highs amid conflicting reports about possible renewed U.S.-Iran negoti",
+  "date": "2026-10-20",
+  "id": "5ec85fc924b3",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-21"
  },
  {
   "site": "Mining.com",
