@@ -97,6 +97,166 @@
  },
  {
   "site": "Mining.com",
+  "url": "https://www.mining.com/southern-copper-weighs-680m-cuajone-mine-expansion/",
+  "title": "Southern Copper weighs $680M Cuajone mine expansion",
+  "desc": "A proposed milling upgrade could boost copper and molybdenum output at the Peruvian operation.",
+  "date": "2026-10-22",
+  "id": "c67cd0ca064d",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-22"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/lme-copper-stocks-in-us-climb-to-12-year-high/",
+  "title": "LME copper stocks in US climb to 12-year high",
+  "desc": "Stocks in US LME warehouses now stand at 169,475 metric tons, the most since April 2014.",
+  "date": "2026-10-22",
+  "id": "971b7a969749",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-22"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/liberty-gold-stretches-black-pines-reach-in-idaho/",
+  "title": "Liberty Gold stretches Black Pine’s reach in Idaho",
+  "desc": "Drilling results come as Liberty advances Black Pine towards a potential 2028 construction decision.",
+  "date": "2026-10-22",
+  "id": "9e9ca0c92e0a",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-22"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/india-permits-large-silver-imports-despite-weak-domestic-demand/",
+  "title": "India permits large silver imports despite weak domestic demand",
+  "desc": "New Delhi has greenlighted import of 6,500 tons of silver in six months to meet festive-season demand.",
+  "date": "2026-10-22",
+  "id": "ced94982ef84",
+  "metals": [
+   "银"
+  ],
+  "fetched": "2026-10-22"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/liberty-gold-stretches-black-pines-reach-in-idaho/1003895972/",
+  "title": "Liberty Gold stretches Black Pine’s reach in Idaho",
+  "desc": "Liberty Gold (TSX: LGD; US-OTC: LGDTF) has drilled gold beyond the resource boundary at its Black Pine project in Idaho, outlining an extension that could increase the site’s resources. Drill...",
+  "date": "2026-10-22",
+  "id": "c4191594a4b6",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-22"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/serabi-cuts-gold-outlook-as-coringa-permits-stall-growth/1003895969/",
+  "title": "Serabi cuts gold outlook as Coringa permits stall growth",
+  "desc": "Serabi Gold (TSX: SBI; AIM: SRB) cut its annual production outlook about 17% after permit delays blocked a planned increase in gold output from its Coringa mine in Brazil. The...",
+  "date": "2026-10-22",
+  "id": "dfece006c937",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-22"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-10-22/india-permits-large-silver-imports-despite-weak-domestic-demand",
+  "title": "India permits large silver imports despite weak domestic demand",
+  "desc": "India has issued permits to import around 6,500 metric tons of silver over the next six months as the world’s biggest consumer of the precious metal seeks to meet festive-season demand, four bullion dealers who received the permits told Reuters.Higher imports by India, which relies on overseas purchases to meet more than 80% of its silver demand, could support global prices XAG= while easing hefty",
+  "date": "2026-10-22",
+  "id": "cad4b11daef1",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-22"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-22/gold-and-silver-are-not-best-inflation-hedges-investors-should-diversify",
+  "title": "Gold and silver are not the best inflation hedges; investors should diversify into the commodity supercycle – Auspice Capital",
+  "desc": "(Kitco News) - Gold’s disappointing performance in recent months is further proof that it is not a reliable inflation hedge, and while it remains an important diversification tool, one fund manager says investors should be looking at broad-based exposure to commodities as the global economy enters what could be a generational supercycle.In an interview with Kitco News, Tim Pickering, President and",
+  "date": "2026-10-22",
+  "id": "6d0a1e7d8561",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-22"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-22/gold-no-silver-bullet-and-isnt-hedging-against-equity-drawdowns-debasement",
+  "title": "‘Gold is no silver bullet’ and isn’t hedging against equity drawdowns, but ‘debasement trade’ should continue – HSBC",
+  "desc": "(Kitco News) – Gold will continue to benefit from the debasement trade despite its recent weakness, but precious metals investors would do well to diversify, as the yellow metal hasn’t provided effective protection against recent stock market pullbacks, according to market strategists at HSBC Asset Management.“Gold’s spectacular bull run, which saw prices climb to well above USD5,000 per ounce ear",
+  "date": "2026-10-22",
+  "id": "2d0fd951d24d",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-22"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-22/gold-silver-pressured-despite-lower-yields-hormuz-attacks-send-crude-higher",
+  "title": "Gold, silver pressured despite lower yields as Hormuz attacks send crude higher - Kitco AM Report",
+  "desc": "(Kitco NewsWire) – Spot gold and silver prices were sharply lower in early U.S. trading Thursday, as renewed attacks on commercial shipping in the Strait of Hormuz and rising Middle East tensions pushed crude oil prices higher, reinforcing inflation concerns and expectations for additional Federal Reserve tightening. Precious metals failed to benefit from lower Treasury yields and defensive demand",
+  "date": "2026-10-22",
+  "id": "cb6429c97631",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-22"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-22/gold-prices-struggling-us-weekly-jobless-claims-fall-three-month-low",
+  "title": "Gold prices struggling as U.S. weekly jobless claims fall to three-month low",
+  "desc": "(Kitco News) - The gold market is struggling below $4,100 an ounce and could face further selling pressure as the U.S. labor market remains relatively healthy, with fewer American workers applying for unemployment benefits than expected.Initial claims for state unemployment benefits came in at a seasonally adjusted 194,000 for the week ending October 17, the Labor Department announced Thursday. Th",
+  "date": "2026-10-22",
+  "id": "7c7e4ec9d1e6",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-22"
+ },
+ {
+  "site": "BullionVault",
+  "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-lows-asian-stocks-102220261",
+  "title": "Gold Hits 3-Month Low as Asian Tech Stocks Sink Again | Gold News",
+  "desc": "Precious metals fell Thursday, taking gold and platinum to 3-month lows as tech stocks slumped again in Asia and crude oil rose >>",
+  "date": "2026-10-22",
+  "id": "2a406e135cfa",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-22"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/digital-product-passports-trace-aluminium-to-bauxite",
+  "title": "Digital product passports trace aluminium to bauxite",
+  "desc": "International Responsible Business Conduct (IRBC) has conducted a renewable energy project to examine aluminium and bauxite supply chains.",
+  "date": "2026-10-22",
+  "id": "7ffbf127e97d",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-10-22"
+ },
+ {
+  "site": "Mining.com",
   "url": "https://www.mining.com/web/trader-known-for-big-aluminum-bets-is-back-with-wager-on-copper/",
   "title": "Trader known for big aluminum bets is back with wager on copper",
   "desc": "Sharp swings and large positions have been a key topic of conversation as the industry gathers in London for the annual LME Week marathon of contract negotiations, seminars and cocktail parties.",
