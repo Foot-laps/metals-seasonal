@@ -389,6 +389,31 @@
  },
  {
   "site": "Mining.com",
+  "url": "https://www.mining.com/fortuna-targets-deeper-lindero-pit-after-gold-hits/",
+  "title": "Fortuna targets deeper Lindero pit after gold hits",
+  "desc": "“Broad intersections strengthen the case for including below-pit material in a revised pit and reserve estimate,” National Bank analyst said.",
+  "date": "2026-10-21",
+  "id": "8da0990bd815",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-22"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-21/gold-gains-treasury-yields-stabilize-nasdaq-surges-despite-fed-tightening",
+  "title": "Gold gains as Treasury yields stabilize, Nasdaq surges despite Fed tightening concerns - Kitco PM Report",
+  "desc": "(Kitco NewsWire) - Spot gold prices were higher in late U.S. trading Wednesday, while spot silver recovered from earlier losses, as a softer U.S. dollar and easing crude oil prices provided some support for precious metals despite persistent inflation concerns and expectations for additional Federal Reserve tightening. Strong corporate earnings lifted major U.S. stock indexes, while unresolved ten",
+  "date": "2026-10-21",
+  "id": "358121e5054a",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-22"
+ },
+ {
+  "site": "Mining.com",
   "url": "https://www.mining.com/web/copper-boom-belies-a-deepening-mining-recession-in-top-producer/",
   "title": "Copper boom belies a deepening ‘mining recession’ in top producer",
   "desc": "Chile’s aging copper mines have been battered by deadly accidents, extreme weather and operational missteps.",
@@ -1249,6 +1274,18 @@
    "金"
   ],
   "fetched": "2026-10-20"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/14-dead-7-injured-in-colombia-illegal-gold-mine-collapse/",
+  "title": "14 dead, 7 injured in Colombia illegal gold mine collapse",
+  "desc": "The governor called on the National Mining Agency, and ​the Ministry of Mines and Energy to ‌accelerate ⁠the formalization process for illegal and small-scale miners to improve working conditions and safety standards.",
+  "date": "2026-10-19",
+  "id": "7e347952caab",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-22"
  },
  {
   "site": "Mining Weekly",
