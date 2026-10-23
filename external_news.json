@@ -1,5 +1,17 @@
 [
  {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/dokwe-gold-project-zimbabwe-2026-10-23",
+  "title": "Dokwe gold project, Zimbabwe",
+  "desc": "The project proposes the construction of an openpit mining operation, with mining from two separate deposits.",
+  "date": "2026-10-23",
+  "id": "b01761018ff4",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-23"
+ },
+ {
   "site": "The Northern Miner",
   "url": "https://www.northernminer.com/news/spain-pan-global-eyes-copper-riches-in-ancient-belt/1003895963/",
   "title": "Spain: Pan Global eyes copper riches in ancient belt",
@@ -363,6 +375,30 @@
    "金"
   ],
   "fetched": "2026-10-22"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/boroo-signs-100m-deal-for-yukon-eagle-gold-mine/",
+  "title": "Boroo signs $100M deal for Yukon Eagle gold mine",
+  "desc": "Private entity has agreed to acquire Victoria Gold, advancing plans to potentially rehabilitate and restart its Eagle gold mine.",
+  "date": "2026-10-22",
+  "id": "1697529f63ed",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-23"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/newmont-beats-quarterly-profit-estimates-on-higher-gold-prices/",
+  "title": "Newmont beats quarterly profit estimates on higher gold prices",
+  "desc": "Quarterly gold production fell to 1.30 million ounces from 1.42 million ounces a year earlier.",
+  "date": "2026-10-22",
+  "id": "318c9c4968fa",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-23"
  },
  {
   "site": "Mining.com",
