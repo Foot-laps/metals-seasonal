@@ -391,6 +391,67 @@
   "fetched": "2026-10-23"
  },
  {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/copper-price-rebounds-as-inventories-stock-markets-stabilize/",
+  "title": "Copper price rebounds as inventories, stock markets stabilize",
+  "desc": "Metals markets were supported as a rout in global tech shares eased after concerns over the enormous funding needs of AI had hammered Wall Street.",
+  "date": "2026-10-23",
+  "id": "5b2278d7e638",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-24"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-10-23/rio-tinto-invest-19-billion-queensland-bauxite-project",
+  "title": "Rio Tinto to invest $1.9 billion in Queensland bauxite project",
+  "desc": "Rio Tinto (ASX: RIO) said on Friday it will invest $1.9 billion to develop the Kangwinan bauxite project in Queensland, Australia, replacing output from its ageing Andoom mine and lifting annual production capacity at its Weipa bauxite operations.The miner said the investment would add 20 million tonnes of annual bauxite production in Weipa, with first output targeted in 2029 and full production e",
+  "date": "2026-10-23",
+  "id": "05eaa9014aa8",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-10-24"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-23/golds-next-evolution",
+  "title": "Gold's next evolution",
+  "desc": "(Kitco News) - Gold has been a store of wealth for thousands of years, but what will the next thousand years look like as investors continue to embrace digital assets?The financial system has become increasingly digital, and the precious metal has an opportunity to reinvent itself – and potentially play a greater role in the future of money.The potential is significant.According to the World Gold ",
+  "date": "2026-10-23",
+  "id": "272366854f11",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-24"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-23/wall-street-doubts-golds-near-term-strength-main-street-maintains-bullish",
+  "title": "Wall Street doubts gold’s near-term strength, Main Street maintains bullish minority as central banks take center stage",
+  "desc": "(Kitco News) – Gold prices suffered another sharp weekly decline as rising oil prices, persistent inflation fears, and expectations for further Federal Reserve tightening overwhelmed safe-haven demand, while Thursday's technology-led equity selloff triggered another wave of liquidations that pushed the precious metal back below $4,000 per ounce.Spot gold kicked off the week trading at $4,164.69 pe",
+  "date": "2026-10-23",
+  "id": "4c6b62abdfd0",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-24"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-23/gold-silver-extend-weekly-losses-hormuz-tensions-push-crude-above-116-kitco",
+  "title": "Gold, silver extend weekly losses as Hormuz tensions push crude above $116 - Kitco PM Report",
+  "desc": "(Kitco NewsWire) - Spot gold and silver prices were lower in late U.S. trading Friday, extending a week of heavy selling as renewed concerns about military escalation involving Iran pushed crude oil prices to multiyear highs and reinforced expectations for restrictive Federal Reserve monetary policy. Strong U.S. business activity and rising consumer inflation expectations added to the pressure on ",
+  "date": "2026-10-23",
+  "id": "0052a2ca484f",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-24"
+ },
+ {
   "site": "The Northern Miner",
   "url": "https://www.northernminer.com/news/spain-pan-global-eyes-copper-riches-in-ancient-belt/1003895963/",
   "title": "Spain: Pan Global eyes copper riches in ancient belt",
