@@ -1,5 +1,31 @@
 [
  {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/teck-says-strike-begins-at-highland-valley-copper-mine-in-british-columbia/",
+  "title": "Teck says strike begins at Highland Valley Copper mine in British Columbia",
+  "desc": "The union said it is seeking better wages and pensions, arguing the mine faces challenges attracting skilled workers.",
+  "date": "2026-10-25",
+  "id": "a3dcd1b3d6bf",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-25"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/metals-traders-reap-bonanza-with-another-year-of-record-profits/",
+  "title": "Metals traders reap bonanza with another year of record profits",
+  "desc": "Metals including copper, gold and silver have soared to record highs, while the market for copper concentrate has been tight.",
+  "date": "2026-10-25",
+  "id": "d54c63aa4d1a",
+  "metals": [
+   "铜",
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-25"
+ },
+ {
   "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/dokwe-gold-project-zimbabwe-2026-10-23",
   "title": "Dokwe gold project, Zimbabwe",
