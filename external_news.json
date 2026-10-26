@@ -1,5 +1,79 @@
 [
  {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/canadian-fed-grants-193m-to-modernise-two-aluminium-smelters-2026-10-26",
+  "title": "Canadian fed grants $193m to modernise two aluminium smelters",
+  "desc": "With Canada's Industry Minister Mélanie Joly having announced a $193-million investment for the aluminium sector under the Strategic Response Fund last week, federal department Innovation, Science and Economic Development Canada (ISED) says the two targeted projects for funding will help maintain about 6 000 full-time jobs in Québec and across Canada, support 65 co-op student placements and streng",
+  "date": "2026-10-26",
+  "id": "ddd0b5635ee6",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/teck-says-strike-begins-at-highland-valley-copper-mine-in-british-columbia-2026-10-26",
+  "title": "Teck says strike begins at Highland Valley Copper mine in British Columbia",
+  "desc": "Teck Resources said on Saturday workers had started a strike at its Highland Valley Copper mine in British Columbia, with operations continuing at reduced capacity. The impact on overall production remains dependent on the duration of the strike, Teck said.",
+  "date": "2026-10-26",
+  "id": "da778af656f2",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/lcl-resources-secures-second-farm-in-agreement-with-rio-tinto-in-papua-new-guinea-2026-10-26",
+  "title": "LCL Resources secures second farm-in agreement with Rio Tinto in Papua New Guinea",
+  "desc": "ASX-listed LCL Resources' subsidiary has signed a binding farm-in and joint venture (JV) term sheet with Rio Tinto Exploration under which Rio may earn up to an 80% interest in the Liamu project in Papua New Guinea. The Liamu project hosts the Dada gold/copper porphyry discovery and the high-grade Ubei epithermal gold/copper prospect.",
+  "date": "2026-10-26",
+  "id": "5bdecaaf383c",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/firebird-meaningfully-reduces-sulphur-content-improves-tap-density-of-battery-precursor-material-2026-10-26",
+  "title": "Firebird meaningfully reduces sulphur content, improves tap density of battery precursor material",
+  "desc": "ASX-listed Firebird Metals has managed to reduce the sulphur content of its manganese-rich and nickel-manganese hydroxide materials by 46% to 610 parts per million, which strengthens the material's precursor quality for lithium-manganese-rich (LMR) cathode materials. Firebird has reached a tap density of 1.36 g/cm3 which is 35% above its previously reported results and 11% above a commercial refer",
+  "date": "2026-10-26",
+  "id": "fcfa89da1264",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-26/gold-rebounds-above-4000-lower-oil-prices-ease-fed-tightening-concerns",
+  "title": "Gold rebounds above $4,000 as lower oil prices ease Fed tightening concerns - Kitco AM Report",
+  "desc": "(Kitco NewsWire) – Spot gold and silver prices were higher in early U.S. trading Monday, as declining crude oil prices eased some inflation concerns and reduced pressure on precious metals ahead of this week's Federal Reserve monetary policy meeting. Spot gold was trading near $4,014.49 an ounce, up 0.50%, while spot silver was trading near $53.990, up 0.20%. Gold recovered above the psychological",
+  "date": "2026-10-26",
+  "id": "5a3d8f141b72",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
+  "site": "世界黄金协会",
+  "url": "https://www.gold.org/goldhub/gold-focus/2026/10/weekly-markets-monitor-chill-and-boom",
+  "title": "Weekly Markets Monitor - Chill and boom",
+  "desc": "Geopolitical and market risks remained elevated last week, as Middle East tensions pushed oil prices higher and concerns over AI spending weighed on technology stocks. Meanwhile, US economic activity remained resilient and China’s Q3 growth exceeded expectations, while euro-area business activity softened amid social unrest, and Japan saw higher inflation. Post by Weekly Markets Monitor",
+  "date": "2026-10-26",
+  "id": "c1e181e76482",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
   "site": "Mining.com",
   "url": "https://www.mining.com/web/teck-says-strike-begins-at-highland-valley-copper-mine-in-british-columbia/",
   "title": "Teck says strike begins at Highland Valley Copper mine in British Columbia",
