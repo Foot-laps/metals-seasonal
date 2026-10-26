@@ -75,6 +75,202 @@
  },
  {
   "site": "Mining.com",
+  "url": "https://www.mining.com/web/chinese-copper-titan-he-jinbi-jailed-for-life-over-maike-fraud/",
+  "title": "Chinese copper titan He Jinbi jailed for life over Maike fraud",
+  "desc": "The ruling found Maike’s conduct had exposed several Chinese banks to more than $1 billion of potential losses.",
+  "date": "2026-10-26",
+  "id": "edf229df3c81",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/local-miner-outbids-freeport-for-colombia-exploration/",
+  "title": "Local miner outbids Freeport for Colombia exploration",
+  "desc": "Colombia's OP Gold Capital outbid Freeport-McMoRan for a 60-sq.-km exploration block in Cesar.",
+  "date": "2026-10-26",
+  "id": "551a7e20dd1e",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/codelco-bhp-launch-40m-copper-hunt-in-northern-chile/",
+  "title": "Codelco, BHP launch $40M copper hunt in northern Chile",
+  "desc": "The companies have partnered to further explore the Anillo copper project as the rush for the critical mineral accelerates.",
+  "date": "2026-10-26",
+  "id": "5ec8395a359c",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/strike-curbs-output-at-canadas-largest-copper-mine/",
+  "title": "Strike curbs output at Canada’s largest copper mine",
+  "desc": "The impact on overall production remains dependent on the duration of the strike, Teck said.",
+  "date": "2026-10-26",
+  "id": "7c5b681d9a9e",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/nornickel-says-furnace-overhaul-may-cut-2027-28-metals-output-keeps-2026-forecast/",
+  "title": "Nornickel says furnace overhaul may cut 2027-28 metals output, keeps 2026 forecast",
+  "desc": "\"We expect copper and palladium output to be at the upper end of the annual forecast range,\" the company said.",
+  "date": "2026-10-26",
+  "id": "69dbbc28ed11",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/gold-price-rises-as-lower-oil-prices-ease-inflation-fears-ahead-of-fed-meeting/",
+  "title": "Gold price rises as lower oil prices ease inflation fears ahead of Fed meeting",
+  "desc": "The pullback in oil has offered some relief to inflation concerns, though markets remain wary of renewed supply disruptions.",
+  "date": "2026-10-26",
+  "id": "5c6f76744c7b",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/buried-sediments-prove-romans-mined-gold-in-pyrenees/",
+  "title": "Buried sediments prove Romans mined gold in Pyrenees",
+  "desc": "Researchers have dated a vast hydraulic mining complex in Catalonia, revealing how ancient Romans extracted precious metals.",
+  "date": "2026-10-26",
+  "id": "21fe976285ee",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/strike-curbs-output-at-canadas-largest-copper-mine/1003896047/",
+  "title": "Strike curbs output at Canada’s largest copper mine",
+  "desc": "Teck Resources (TSX: TECK.B; NYSE: TECK) is operating its Highland Valley Copper mine in British Columbia, Canada’s biggest, at reduced capacity after workers went on strike Saturday, the company said....",
+  "date": "2026-10-26",
+  "id": "29ce5076531e",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/local-miner-outbids-freeport-for-colombia-exploration/1003896051/",
+  "title": "Local miner outbids Freeport for Colombia exploration",
+  "desc": "Colombia’s OP Gold Capital outbid U.S. copper giant Freeport-McMoRan (NYSE: FCX) for exploration rights in the country’s north, raising its offer to retain a 60-sq.-km block in Cesar. OP Gold...",
+  "date": "2026-10-26",
+  "id": "272b28838266",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/sediments-date-pyrenees-gold-mine-to-roman-era/1003896057/",
+  "title": "Sediments date Pyrenees gold mine to Roman era",
+  "desc": "Researchers have strengthened evidence that Roman miners used water to extract gold from Spain’s eastern Pyrenees, dating a long-suspected mining complex where an estimated 2 million cubic metres of earth...",
+  "date": "2026-10-26",
+  "id": "998bd0b53f92",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/platinum-and-palladium-receive-yet-another-futures-trading-boost-2026-10-26",
+  "title": "Platinum and palladium receive yet another futures trading boost",
+  "desc": "Platinum and palladium are among four precious metals included in new futures contracts launched in London, World Platinum Investment Council (WPIC) reports, amid New York-listed Intercontinental Exchange's commencement of trading precious metals derivatives in London. Intercontinental Exchange's contracts, which also cover gold and silver, are linked to London's established daily benchmark price ",
+  "date": "2026-10-26",
+  "id": "535af4ff8ba7",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-26/gold-holds-above-4000-hormuz-diplomacy-cools-crude-ahead-fed-decision-kitco",
+  "title": "Gold holds above $4,000 as Hormuz diplomacy cools crude ahead of Fed decision - Kitco PM Report",
+  "desc": "(Kitco NewsWire) - Spot gold and silver prices were higher in late U.S. trading Monday, recovering some of last week's steep losses as declining crude oil prices eased inflation concerns and encouraged renewed buying interest in precious metals ahead of this week's Federal Reserve monetary policy decision. Diplomatic efforts involving Iran and several regional powers helped reduce some of the imme",
+  "date": "2026-10-26",
+  "id": "aa9b5eaebc5b",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-26/iran-war-needs-end-gold-have-chance-rally-ubwms-haworth",
+  "title": "The Iran war needs to end for gold to have a chance to rally - UBWM’s Haworth",
+  "desc": "(Kitco News) - Gold became a major investment theme at the start of the year as central bank demand helped drive prices to record highs above $5,600 an ounce; however, sentiment has turned significantly more cautious in the second half of 2026 as the conflict in the Middle East remains far from over.In an interview with Kitco News, Rob Haworth, senior investment strategist at U.S. Bank Wealth Mana",
+  "date": "2026-10-26",
+  "id": "a3eb627b2c2b",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-26/gold-prices-are-oversold-below-4000-potential-rally-could-still-be-out",
+  "title": "Gold prices are oversold below $4,000, but a potential rally could still be out of reach in the near term - BCA’s Ibrahim",
+  "desc": "(Kitco News) - Gold is struggling to hold support at $4,000 an ounce, which has become a critical pivot point for the precious metal. The disappointing price action comes as U.S. 10-year Treasury yields start the week below 5.0%, providing little relief for the beleaguered market.Although gold continues to face significant macroeconomic headwinds, one market strategist says the recent selling pres",
+  "date": "2026-10-26",
+  "id": "af2bbafafcb6",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-26/gold-prices-squeezed-between-rising-oil-and-falling-yields-fresnillo-silver",
+  "title": "Gold prices squeezed between rising oil and falling yields, Fresnillo silver output declines in 2026 – Heraeus",
+  "desc": "(Kitco News) – Gold prices are being stymied by rising oil prices even as they gain support from falling real yields, while the world’s largest primary silver producer saw output slide over the first three quarters of 2026, according to precious metals analysts at Heraeus.In their latest update, the analysts noted that gold prices are trapped between rising oil prices and falling Treasury yields.“",
+  "date": "2026-10-26",
+  "id": "87b1428b82fb",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
+  "site": "BullionVault",
+  "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-reclaims-4000-modest-speculative-selling-102620262",
+  "title": "Gold Reclaims $4000 as Data Show Modest Speculative Retreat Before Latest Sell-Off | Gold News",
+  "desc": "Gold prices reclaim $4,000 as CFTC data show eight weeks of speculative selling, with net-long positions falling less sharply than in previous downturns >>",
+  "date": "2026-10-26",
+  "id": "3ffba63db3bc",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-26"
+ },
+ {
+  "site": "Mining.com",
   "url": "https://www.mining.com/web/teck-says-strike-begins-at-highland-valley-copper-mine-in-british-columbia/",
   "title": "Teck says strike begins at Highland Valley Copper mine in British Columbia",
   "desc": "The union said it is seeking better wages and pensions, arguing the mine faces challenges attracting skilled workers.",
