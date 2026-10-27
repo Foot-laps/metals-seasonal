@@ -1,6 +1,67 @@
 [
  {
   "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/canadas-capstone-copper-announces-3bn-investment-plan-in-chile-2026-10-27",
+  "title": "Canada's Capstone Copper announces $3bn investment plan in Chile",
+  "desc": "Canadian miner Capstone Copper on Monday announced a $3-billion investment plan in Chile's Atacama region, according to Chile's mining ministry. The investment plan, which will allocate $2.3-billion to the Santo Domingo project and a further $220-million to two short-term projects at Mantoverde, is expected to double Capstone's copper production in the country by 2031.",
+  "date": "2026-10-27",
+  "id": "245bbc5f5f2a",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-27"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/central-asia-metals-completes-acquisition-of-cygnus-adds-former-cygnus-md-to-board-2026-10-27",
+  "title": "Central Asia Metals completes acquisition of Cygnus, adds former Cygnus MD to board",
+  "desc": "Aim- and now TSX-listed Central Asia Metals has concluded its acquisition of Cygnus Metals, which adds the Chibougamau copper/gold project to the enlarged Central Asia Metals group. Cygnus shareholders were entitled to receive 0.06 new Central Asia Metals shares for each Cygnus share held.",
+  "date": "2026-10-27",
+  "id": "fdb99fbab7b5",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-10-27"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/perseus-on-track-to-meet-full-year-guidance-following-strong-first-quarter-performance-2026-10-27",
+  "title": "Perseus on track to meet full-year guidance following strong first-quarter performance",
+  "desc": "ASX-listed gold mining company Perseus Mining recorded a strong quarter ended September 30, which CEO and MD Craig Jones described as “a solid start to full-year 2027”. He noted that all three of the company’s operations performed well and that the company remains on track to meet its full-year guidance.",
+  "date": "2026-10-27",
+  "id": "2353d7a61e1b",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-27"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/webuild-odebrecht-in-line-to-build-key-african-copper-rail-line-2026-10-27",
+  "title": "Webuild, Odebrecht in line to build key African copper rail line",
+  "desc": "Italy’s Webuild and Brazil’s Odebrecht Engenharia & Construção are key members of groups that have been selected as preferred bidders to build an 830 km section of the Lobito Corridor rail connecting central Africa’s copper and cobalt fields with a port on Angola’s Atlantic coast. Africa Finance Corporation (AFC), the lead developer of the so-called Zambia section of the project, chose the groups,",
+  "date": "2026-10-27",
+  "id": "7e75aa974844",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-27"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/kaiser-aluminum-sales-increase-42-in-q3",
+  "title": "Kaiser Aluminum sales increase 42% in Q3",
+  "desc": "Kaiser Aluminum achieved net sales of $1.2 billion in the third quarter of 2026.",
+  "date": "2026-10-27",
+  "id": "7220edc69542",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-10-27"
+ },
+ {
+  "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/canadian-fed-grants-193m-to-modernise-two-aluminium-smelters-2026-10-26",
   "title": "Canadian fed grants $193m to modernise two aluminium smelters",
   "desc": "With Canada's Industry Minister Mélanie Joly having announced a $193-million investment for the aluminium sector under the Strategic Response Fund last week, federal department Innovation, Science and Economic Development Canada (ISED) says the two targeted projects for funding will help maintain about 6 000 full-time jobs in Québec and across Canada, support 65 co-op student placements and streng",
@@ -268,6 +329,18 @@
    "金"
   ],
   "fetched": "2026-10-26"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/unicorn-mineral-resources-strengthens-board-ahead-of-klein-aub-development-2026-10-26",
+  "title": "Unicorn Mineral Resources strengthens board ahead of Klein Aub development",
+  "desc": "Unicorn Mineral Resources has appointed Patrick Doherty as the company’s executive chairperson and Graeme Fawcett and Kevin Warrington as nonexecutive directors. The appointments follow the company's acquisition of a controlling interest in the Klein Aub copper mine, in Namibia, and form part of efforts to strengthen its leadership and operational capabilities ahead of the next phase of developmen",
+  "date": "2026-10-26",
+  "id": "9d6654ab1d0e",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-27"
  },
  {
   "site": "Mining.com",
