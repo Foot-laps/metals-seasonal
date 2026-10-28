@@ -440,6 +440,30 @@
   "fetched": "2026-10-27"
  },
  {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/webuild-odebrecht-in-line-to-build-key-african-copper-rail-line/",
+  "title": "Webuild, Odebrecht in line to build key African copper rail line",
+  "desc": "Lobito Corridor rail will connect central Africa’s copper and cobalt fields with a port on Angola’s Atlantic coast.",
+  "date": "2026-10-27",
+  "id": "1f657b439b42",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-28"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/congo-suspends-artisanal-mining-agency-head-for-failing-to-prevent-illegal-activities/",
+  "title": "Congo suspends artisanal mining agency head for failing to prevent illegal activities",
+  "desc": "Congo, the world's largest cobalt producer and second-largest copper producer, is grappling with a resurgence in artisanal mining as higher metal prices draw thousands of informal miners into licensed areas.",
+  "date": "2026-10-27",
+  "id": "88e433b47dc7",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-28"
+ },
+ {
   "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/canadian-fed-grants-193m-to-modernise-two-aluminium-smelters-2026-10-26",
   "title": "Canadian fed grants $193m to modernise two aluminium smelters",
