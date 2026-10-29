@@ -1,5 +1,17 @@
 [
  {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/alba-marks-a-decade-of-summer-safety-excellence",
+  "title": "Alba marks a decade of summer safety excellence",
+  "desc": "Aluminium Bahrain (Alba) has successfully completed its 10 th consecutive summer without a heat-related injury or illness.",
+  "date": "2026-10-29",
+  "id": "b740a79151f5",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-10-29"
+ },
+ {
   "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/centaurus-secures-100-jaguar-nickel-production-offtake-with-glencore-cngr-2026-10-28",
   "title": "Centaurus secures 100% Jaguar nickel production offtake with Glencore, CNGR",
@@ -397,6 +409,18 @@
    "银"
   ],
   "fetched": "2026-10-28"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-28/agnico-eagle-beats-earnings-expectations-higher-gold-prices-offset-rising",
+  "title": "Agnico Eagle beats earnings expectations as higher gold prices offset rising mining costs",
+  "desc": "(Kitco News) - The precious metals mining sector continues to defy expectations as Canada’s largest gold producer reports better-than-expected earnings Wednesday, with higher gold prices helping to offset rising production costs and lower output.Wednesday, after North American equity markets closed, Agnico Eagle Mines (NYSE: AEM, TSX: AEM) reported adjusted net income of $1.324 billion, or $2.62 p",
+  "date": "2026-10-28",
+  "id": "dacb85cfc9b2",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-29"
  },
  {
   "site": "Mining Weekly",
