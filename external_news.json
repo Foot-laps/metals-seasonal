@@ -73,6 +73,277 @@
   "fetched": "2026-10-30"
  },
  {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/copper-price-set-for-first-monthly-loss-since-june-as-ai-spending-worries-weigh/",
+  "title": "Copper price set for first monthly loss since June as AI spending worries weigh",
+  "desc": "The metal, used in power and construction, was set to post a 1.8% decline in October as higher oil prices and a slump in tech shares prompted a flight to bonds.",
+  "date": "2026-10-30",
+  "id": "6b911bdc441a",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/chile-signals-slow-copper-recovery-from-historic-output-slump/",
+  "title": "Chile signals slow copper recovery from historic output slump",
+  "desc": "Chile’s output sank to its lowest quarterly level in at least two decades in the three months through September.",
+  "date": "2026-10-30",
+  "id": "70229cef1373",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/rio-tinto-begins-restarting-oyu-tolgoi-underground-operations-after-seismic-event/",
+  "title": "Rio Tinto begins restarting Oyu Tolgoi underground operations after seismic event",
+  "desc": "Oyu Tolgoi is one of the world's largest known copper and gold deposits and is central to Rio Tinto's copper growth strategy.",
+  "date": "2026-10-30",
+  "id": "b56e1a07b2a9",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/codelco-accounting-scandal-claims-eight-more-employees/",
+  "title": "Codelco accounting scandal claims eight more employees",
+  "desc": "Chile’s state miner faces mounting scrutiny over disputed output records as fresh evidence raises concerns about internal controls.",
+  "date": "2026-10-30",
+  "id": "bce442568165",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/gold-price-slumps-to-one-year-low-silver-price-breaks-50-as-mining-stocks-tank/",
+  "title": "Gold price slumps to one-year low, silver price breaks $50 as mining stocks tank",
+  "desc": "Bullion is headed for its worst October since 2008, dragging down gold and silver producers as much as 8% on Friday.",
+  "date": "2026-10-30",
+  "id": "929b4d9959df",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/perseus-mining-secures-backup-power-for-nyanzaga-gold-project/",
+  "title": "Perseus Mining secures backup power for Nyanzaga gold project",
+  "desc": "A 28-generator system aims to keep operations running safely as the Tanzanian project targets first production in 2027.",
+  "date": "2026-10-30",
+  "id": "30f5f3ffd3bd",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/rio-begins-oyu-tolgoi-copper-restart-after-rockfall/1003896401/",
+  "title": "Rio begins Oyu Tolgoi copper restart after rockfall",
+  "desc": "Rio Tinto (ASX, LSE, NYSE: RIO) said it’s progressively restarting underground operations at Mongolia’s Oyu Tolgoi mine a day after a seismic event triggered a rockfall, stopping production at a...",
+  "date": "2026-10-30",
+  "id": "31d7c8f419fa",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/financing/abenojar-raises-e170m-for-spanish-tungsten-project/1003896419/",
+  "title": "Abenojar raises €170M for Spanish tungsten project",
+  "desc": "Spain’s Abenojar Tungsten (LSE: ABT) has raised €170 million ($189.6 million) to help build its El Moto tungsten and gold project, joining London’s main market Friday as Europe seeks new...",
+  "date": "2026-10-30",
+  "id": "bea74aedc684",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/sylvania-reports-record-quarterly-pgm-output-improved-chrome-production-2026-10-30",
+  "title": "Sylvania reports record quarterly PGM output, improved chrome production",
+  "desc": "Aim-listed Sylvania Platinum’s Sylvania Dump Operations (SDO) and Thaba Joint Venture (JV) delivered combined record production of 25 971 oz of platinum, palladium, rhodium and gold (4E) platinum group metals (PGMs) in the first quarter of the company’s 2027 financial year. At the Thaba JV, ongoing mining performance and run-of-mine (RoM) feed quality issues were offset by the sourcing of third-pa",
+  "date": "2026-10-30",
+  "id": "fe250f7d470a",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-10-30/copper-price-set-first-monthly-loss-june-ai-spending-worries-weigh",
+  "title": "Copper price set for first monthly loss since June as AI spending worries weigh",
+  "desc": "Copper prices fell on Friday and were on track to snap a three-month winning streak in October as concerns that heavy spending on AI may not generate sufficient returns weighed on risk appetite.Benchmark three-month copper on the London Metal Exchange (LME) was down 1.5% at $14,140 a metric ton by 1720 GMT, after touching a one-week low of $14,133 earlier in the session.The metal, used in power an",
+  "date": "2026-10-30",
+  "id": "d719f2709465",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-10-30/rio-tinto-begins-restarting-oyu-tolgoi-underground-operations-after",
+  "title": "Rio Tinto begins restarting Oyu Tolgoi underground operations after seismic event",
+  "desc": "Rio Tinto (ASX: RIO), (LON: RIO) on Friday said it had begun “progressively” restarting underground operations at its Oyu Tolgoi copper mine in Mongolia after completing safety reviews following a seismic event that temporarily halted mining activities.The miner said a seismic event on October 29 triggered a localised rockfall in a temporary storage area adjacent to the production zone, causing gr",
+  "date": "2026-10-30",
+  "id": "f3a5f9f86c62",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-30/golds-frustrating-paradox-falling-yields-and-weaker-dollar-cant-stop",
+  "title": "Gold's frustrating paradox: Falling yields and a weaker dollar can't stop the selloff",
+  "desc": "(Kitco news) - This week’s price action reminds me of a popular adage about the gold market: Gold’s greatest power is its ability to frustrate investors.This should have been an amazing week for the precious metal as the Federal Reserve left interest rates unchanged, bond yields fell sharply, and the U.S. dollar retreated from its recent highs. However, gold prices are looking to end the week with",
+  "date": "2026-10-30",
+  "id": "f4eaaa3642bb",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-30/wall-street-abandons-ship-after-gold-sinks-below-3900oz-main-street",
+  "title": "Wall Street abandons ship after gold sinks below $3,900/oz, Main Street maintains bullish majority bias as midterms, payrolls loom",
+  "desc": "(Kitco News) – Gold prices suffered another sharp weekly decline, as an early recovery gave way to heavy selling after the Federal Reserve maintained its hawkish stance, stronger U.S. economic data reinforced expectations for further tightening, and Friday's technology-led equity rout triggered widespread liquidation across precious metals.Spot gold kicked off the week trading at $3,994.95 per oun",
+  "date": "2026-10-30",
+  "id": "671bd8bbb51d",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-30/gold-falls-below-3900-silver-tumbles-wall-street-selloff-triggers",
+  "title": "Gold falls below $3,900, silver tumbles as Wall Street selloff triggers liquidation - Kitco PM Report",
+  "desc": "(Kitco NewsWire) - Spot gold and silver prices were sharply lower in late U.S. trading Friday, as a technology-led equity market selloff intensified liquidation pressure across precious metals, offsetting the support normally provided by falling Treasury yields and heightened geopolitical uncertainty. Crude oil prices climbed more than 2% following another tanker attack in the Strait of Hormuz, ad",
+  "date": "2026-10-30",
+  "id": "5414610ed84a",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-30/gold-and-silver-prices-coming-dangerously-close-capitulation-levels-jesse",
+  "title": "Gold and silver prices coming dangerously close to capitulation levels – Jesse Colombo",
+  "desc": "(Kitco News) – Gold and silver are testing key support zones which, if definitively breached, could result in a broad capitulation in precious metals, according to Jesse Colombo, independent precious metals analyst and founder of the BubbleBubble Report.Colombo said Friday’s price action is somewhat unusual, because it's not driven by a clear surge in the dollar.“You also have Treasury yields fall",
+  "date": "2026-10-30",
+  "id": "6820ebf1351d",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-30/gold-wants-rally-threat-higher-interest-rates-holding-it-back-catalyst",
+  "title": "Gold wants to rally, but the threat of higher interest rates is holding it back - Catalyst Funds’ Miller",
+  "desc": "(Kitco News) - Gold prices have fallen below $3,900 an ounce, extending a sharp selloff as persistent inflation and elevated interest rates continue to weigh on the precious metal. However, according to one fund manager, the recent weakness represents more of a correction than a fundamental shift in gold's long-term bullish outlook.In a recent interview with Kitco News just ahead of the Federal Re",
+  "date": "2026-10-30",
+  "id": "6797ba3a36e2",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-30/gold-prices-plunge-one-year-low-below-3900-higher-oil-prices-fuel-fears",
+  "title": "Gold prices plunge to one-year low below $3,900 as higher oil prices fuel fears of more pain ahead",
+  "desc": "(Kitco News) - The gold market has taken a big hit heading into the weekend, with prices breaking convincingly below $4,000 an ounce and falling to their lowest levels in more than a year.Gold's sharp selloff Friday pushed prices to their lowest level since October 6, 2025, when the precious metal touched an intraday low of $3,884.61 an ounce. The latest decline comes as investors brace for anothe",
+  "date": "2026-10-30",
+  "id": "315eac11e21a",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-30/i-could-see-silver-getting-low-high-30s-gold-getting-low-3000-stonex-groups",
+  "title": "‘I could see silver getting as low as the high $30s… gold getting as low as $3,000’ – StoneX Group’s Pavilonis",
+  "desc": "(Kitco News) – Now that gold and silver have broken near-term critical support, the precious metals may be in for a longer and deeper correction lasting into 2027 before the tide turns, according to Daniel Pavilonis, senior commodities broker at StoneX Group.Pavilonis told Kitco News that he thinks gold will need some indication of easing monetary policy to resume the upward trajectory of the last",
+  "date": "2026-10-30",
+  "id": "39490feb83a6",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-10-30/gold-drops-below-4000-silver-tumbles-hormuz-attack-lifts-oil-prices-kitco",
+  "title": "Gold drops below $4,000, silver tumbles as Hormuz attack lifts oil prices - Kitco AM Report",
+  "desc": "(Kitco NewsWire) – Spot gold and silver prices were sharply lower in early U.S. trading Friday, as renewed attacks on commercial shipping in the Strait of Hormuz pushed crude oil prices higher and reinforced inflation concerns despite fresh evidence of moderating U.S. wage growth. Precious metals remained under selling pressure following Thursday's declines, with gold slipping below $4,000.00 an o",
+  "date": "2026-10-30",
+  "id": "b411c35b69be",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
+  "site": "BullionVault",
+  "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-50-1980-2011-103020261",
+  "title": "Silver Falls Thru' 1980 and 2011 Peak at $50 as Gold Sinks | Gold News",
+  "desc": "Silver fell through $50 per ounce on Friday, dropping below what was its all-time highs of 1980 and 2011 prior to this New Year's $121 top >>",
+  "date": "2026-10-30",
+  "id": "991d2dab3736",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/hydro-breaks-ground-on-53-5-million-us-extrusion-press",
+  "title": "Hydro breaks ground on $53.5 million US extrusion press",
+  "desc": "Hydro has started construction on a 5,900-tonne indirect extrusion press line at its facility in Cressona, Pennsylvania, USA.",
+  "date": "2026-10-30",
+  "id": "8c4b27a76a1a",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/trimet-decarbonises-aluminium-recycling-plant",
+  "title": "Trimet decarbonises aluminium recycling plant",
+  "desc": "Trimet has reduced the CO 2 emissions at its aluminium recycling plant in Gelsenkirchen, Germany, by 25%.",
+  "date": "2026-10-30",
+  "id": "d41b3a285375",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-10-30"
+ },
+ {
   "site": "Aluminium International Today",
   "url": "https://aluminiumtoday.com/news/alba-marks-a-decade-of-summer-safety-excellence",
   "title": "Alba marks a decade of summer safety excellence",
