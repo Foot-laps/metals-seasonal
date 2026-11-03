@@ -184,6 +184,214 @@
  },
  {
   "site": "Mining.com",
+  "url": "https://www.mining.com/chile-copper-outlook-worsens-as-price-forecast-rises/",
+  "title": "Chile copper outlook worsens as price forecast rises",
+  "desc": "The projected surplus of refined metal leaves little room for further supply disruptions.",
+  "date": "2026-11-02",
+  "id": "d8e1c93e62d3",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-03"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/712-billion-wiped-off-worlds-biggest-mining-companies-since-the-start-of-the-iran-war/",
+  "title": "$712 billion wiped off world’s biggest mining companies since start of Iran war",
+  "desc": "Gold's worst October since 2008 and a turn in copper sentiment drop world's 50 most valuable mining stocks near one-year lows after losing 26% since the February peak.",
+  "date": "2026-11-02",
+  "id": "53d2bb3f0612",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-11-03"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/hudbay-leads-49-8m-investment-in-pecoy-copper/",
+  "title": "Hudbay leads $49.8M investment in Pecoy Copper",
+  "desc": "The investment provides funding for drilling and studies needed to better define the deposit and assess how to recover its metals.",
+  "date": "2026-11-02",
+  "id": "e2dbaf10fcc5",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-03"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/golds-lost-haven-allure-to-swing-back-into-view-on-deficit-woes/",
+  "title": "Gold’s lost haven allure to swing back into view on deficit woes",
+  "desc": "Higher real yields and renewed dollar strength have weighed on the non-interest-bearing metal.",
+  "date": "2026-11-02",
+  "id": "2ed0134e7d78",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-03"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/gold-price-rises-over-2-from-one-year-low-on-softer-oil-prices-us-midterms-in-focus/",
+  "title": "Gold price rises over 2% from one-year low on softer oil prices; US midterms in focus",
+  "desc": "Attention is shifting to the US midterm elections to assess the potential impact on broader market sentiment.",
+  "date": "2026-11-02",
+  "id": "86d31f10c826",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-03"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/st-barbara-to-restart-touquoy-amid-federal-review-hurdle/",
+  "title": "St Barbara to restart Touquoy amid federal review hurdle",
+  "desc": "Gold operations in Nova Scotia, Canada, are set to resume this week, but a new environmental assessment clouds the miner's expansion plans.",
+  "date": "2026-11-02",
+  "id": "69fa2f2aa2c6",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-03"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/endeavour-halts-burkina-gold-underground-as-ramp-sinks/",
+  "title": "Endeavour halts Burkina gold underground as ramp sinks",
+  "desc": "The Oct. 28 incident is another setback for an operation set to miss its annual production target.",
+  "date": "2026-11-02",
+  "id": "d9176e8c0bed",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-03"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/ontario-fast-tracks-mayfairs-fenn-gib-gold-project/",
+  "title": "Ontario fast-tracks Mayfair’s Fenn-Gib gold project",
+  "desc": "The Fenn-Gib gold project is the fourth chosen under the province's One Project, One Process framework.",
+  "date": "2026-11-02",
+  "id": "0dce3dc9ebdf",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-03"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/chile-copper-outlook-worsens-as-price-forecast-rises/1003897135/",
+  "title": "Chile copper outlook worsens as price forecast rises",
+  "desc": "Chile’s copper commission has cut its production forecasts for the world’s largest producer and raised its 2027 price outlook by 17% as mines struggle to recover lost output. Cochilco raised...",
+  "date": "2026-11-02",
+  "id": "05a94f62aba9",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-03"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/west-red-lake-seeks-cheaper-95m-debt-following-output-cut/1003897116/",
+  "title": "West Red Lake seeks cheaper $95M debt following output cut",
+  "desc": "West Red Lake Gold Mines (TSXV: WRLG; US-OTC: WRLGF) has agreed terms for a loan of up to $95 million (C$132.8 million) to lower borrowing costs and support its Ontario...",
+  "date": "2026-11-02",
+  "id": "9e1f61d4824f",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-03"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/hudbay-leads-49-8m-investment-in-pecoy-copper/1003897094/",
+  "title": "Hudbay leads $49.8M investment in Pecoy Copper",
+  "desc": "Canadian explorer Pecoy Copper (TSXV: PCU; US-OTC: PCUUF) agreed to raise $49.8 million (US$35.7 million) from Hudbay Minerals (TSX, NYSE: HBM) and another investor to fund drilling and technical studies...",
+  "date": "2026-11-02",
+  "id": "72e8ae293c03",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-03"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/kavango-commissions-zimbabwe-gold-processing-plant-2026-11-02",
+  "title": "Kavango commissions Zimbabwe gold processing plant",
+  "desc": "Southern Africa-focused metals exploration and gold development company Kavango Resources has successfully commissioned its concept phase 50 t a day gold processing plant at the Hillside gold project, in Zimbabwe. The Hillside pilot processing plant was developed as a proof-of-concept project to validate the company's processing flowsheet and confirm expected metallurgical performance. The operati",
+  "date": "2026-11-02",
+  "id": "9697cbf391aa",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-03"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-02/tether-gold-holdings-backing-usdt-fell-34-tons-third-quarter",
+  "title": "Tether gold holdings backing USDT fell by 3.4 tons in the third quarter",
+  "desc": "Tether, issuer of the world’s largest stablecoin, reduced the amount of gold in its reserves to back Tether USDT in the third quarter by 3.4 metric tons to 142.8 tons at the end of September, according to calculations based on its reserve disclosures.The reduction is the first since the crypto company emerged as a significant buyer of gold last year for reserves backing USDT, which has about $180 ",
+  "date": "2026-11-02",
+  "id": "8172cb8aaec7",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-03"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-02/gold-silver-recover-october-rout-oil-drops-fed-tightening-bets-persist",
+  "title": "Gold, silver recover from October rout as oil drops, Fed tightening bets persist - Kitco PM Report",
+  "desc": "(Kitco NewsWire) - Spot gold and silver prices were higher in U.S. trading Monday, recovering from Friday's steep losses as a sharp decline in crude oil prices eased energy-driven inflation concerns and encouraged renewed buying interest in precious metals. Reports of progress toward renewed negotiations between Washington and Tehran sent oil prices down more than 7%, while a technology-led equity",
+  "date": "2026-11-02",
+  "id": "550e7898512b",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-03"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-02/gold-prices-push-above-3900-still-face-significant-headwinds-pepperstones",
+  "title": "Gold prices push above $3,900 but still face significant headwinds - Pepperstone’s Wu",
+  "desc": "(Kitco News) - The gold market has managed to attract some important bargain hunting after falling to a one-year low last week below $3,900 an ounce. While the precious metal has managed to clear one near-term resistance level, according to one market strategist, it still faces an uphill battle ahead.In her latest precious metals note, Dilin Wu, market strategist at Pepperstone, said that gold nee",
+  "date": "2026-11-02",
+  "id": "6a07aa359590",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-03"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-02/gold-and-silver-selloff-buying-opportunity-lifetime-bawden-capital",
+  "title": "Gold and silver selloff is the buying opportunity of a lifetime - Bawden Capital",
+  "desc": "(Kitco News) - Gold and silver are seeing a modest recovery after Friday’s market rout, which capped their worst October performance since 2008.Some investors have grown frustrated with the precious metals as prices have struggled in recent weeks, facing rising opportunity costs as central banks around the world attempt to bring inflation under control. Most recently, gold and silver have also bee",
+  "date": "2026-11-02",
+  "id": "e3d34d7e6c7b",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-03"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-02/gold-and-silver-prices-surge-after-sharp-selloff-india-set-ramp-silver",
+  "title": "Gold and silver prices surge after sharp selloff, India set to ramp up silver imports into 2027 – Heraeus",
+  "desc": "(Kitco News) – Gold is seeing renewed buying interest after prices fell below $4,000 per ounce last week, but the prospect of further Fed hikes still looms over the yellow metal, while India’s easing import regime is set to boost silver consumption for the next six months, according to precious metals analysts at Heraeus.In their latest update, the analysts noted that while the Federal Reserve lef",
+  "date": "2026-11-02",
+  "id": "e9aa6fe2fef9",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-03"
+ },
+ {
+  "site": "Mining.com",
   "url": "https://www.mining.com/web/tether-gold-holdings-backing-usdt-fell-by-3-4-tons-in-the-third-quarter/",
   "title": "Tether gold holdings backing USDT fell by 3.4 tons in the third quarter",
   "desc": "The reduction is the first since the crypto company emerged as a significant buyer of gold last year for reserves backing USDT.",
