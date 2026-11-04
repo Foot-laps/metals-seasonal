@@ -1,5 +1,17 @@
 [
  {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-04/gold-prices-hit-4000-democrats-see-electoral-sweep-gain-control-congress",
+  "title": "Gold prices hit $4,000 as Democrats see electoral Sweep to gain control of Congress",
+  "desc": "(Kitco News) - The gold market is seeing a healthy rally as the Democratic Party appears poised to take control of Congress following significant electoral gains in both the House and Senate.Spot gold is testing initial resistance at $4,000 an ounce, up nearly 2% on the session, as political pundits begin making their final calls on the 2026 midterm elections. As results continue to come in, analy",
+  "date": "2026-11-04",
+  "id": "247b9569f17f",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
   "site": "Mining.com",
   "url": "https://www.mining.com/acgs-220-million-blue-moon-deal-creates-european-copper-giant/",
   "title": "ACG’s $220 million Blue Moon deal creates European copper giant",
@@ -397,6 +409,18 @@
    "银"
   ],
   "fetched": "2026-11-03"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-03/tether-trims-gold-reserves-3-tons-analysts-remain-bullish-long-term-demand",
+  "title": "Tether trims gold reserves by 3 tons, but analysts remain bullish on long-term demand",
+  "desc": "(Kitco News) - In just a few short years, digital gold has helped transform the physical marketplace; however, even this new segment hasn’t been immune to recent price volatility, as one of the world’s leading stablecoin issuers reported a decline in its holdings.Tether announced last week that its physical gold reserves declined in the third quarter. Despite the reduction, some analysts have said",
+  "date": "2026-11-03",
+  "id": "12ff0da2d7cc",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-04"
  },
  {
   "site": "Mining Weekly",
