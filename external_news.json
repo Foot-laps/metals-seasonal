@@ -13,6 +13,332 @@
  },
  {
   "site": "Mining.com",
+  "url": "https://www.mining.com/coppers-biggest-new-mine-stumbles-again-as-costs-soar/",
+  "title": "Copper’s biggest new mine stumbles again as costs soar",
+  "desc": "A second production downgrade at Ivanhoe Mines’ Kamoa-Kakula delays its recovery as a rival US expansion advances toward 2030 output.",
+  "date": "2026-11-04",
+  "id": "fc13ee5e5038",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/freeport-approves-4-5-billion-bagdad-copper-expansion/",
+  "title": "Freeport approves $4.5 billion Bagdad copper expansion",
+  "desc": "By greenlighting the Arizona mine expansion Freeport-McMoRan aims to double copper production amid rising demand.",
+  "date": "2026-11-04",
+  "id": "4a6e7231dbf6",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/gold-heads-for-biggest-daily-gain-since-august-as-dollar-weakens/",
+  "title": "Gold price heads for biggest daily gain since August as dollar weakens",
+  "desc": "The weaker dollar boosted gold's appeal by making dollar-priced bullion less expensive for overseas buyers.",
+  "date": "2026-11-04",
+  "id": "446ec3860e2b",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/b2golds-740-million-gramalote-faces-key-permit-test/",
+  "title": "B2Gold’s $740 million Gramalote faces key permit test",
+  "desc": "Regulators will weigh proposed design changes as the Canadian miner targets construction in 2027 and first gold in 2029.",
+  "date": "2026-11-04",
+  "id": "b432291acbfa",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/freeport-approves-4-5b-bagdad-copper-expansion/1003897395/",
+  "title": "Freeport approves $4.5B Bagdad copper expansion",
+  "desc": "Freeport-McMoRan (NYSE: FCX) has approved a $4.5-billion (C$6.3 billion) expansion of its Bagdad mine in Arizona that would more than double copper output, bolstering domestic...",
+  "date": "2026-11-04",
+  "id": "dbd7a85bf183",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/friedlands-ivanhoe-slashes-copper-outlook-again/1003897389/",
+  "title": "Friedland’s Ivanhoe slashes copper outlook again",
+  "desc": "Robert Friedland’s Ivanhoe Mines (TSX: IVN; US-OTC: IVPAF) has cut next year’s copper production outlook at Kamoa-Kakula by 19% as recovery work at the flood-hit...",
+  "date": "2026-11-04",
+  "id": "12460d208048",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/michigan-mining-push-tests-lake-superior-safeguards/1003897375/",
+  "title": "Michigan mining push tests Lake Superior safeguards",
+  "desc": "Michigan is backing a new copper and nickel push near Lake Superior even as it continues cleaning up pollution left by the last mining boom....",
+  "date": "2026-11-04",
+  "id": "c547a742683f",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-04/golds-recovery-above-4000-enough-fix-broken-market-asks-michele-schneider",
+  "title": "Is gold's recovery above $4,000 enough to fix a broken market? asks Michele Schneider",
+  "desc": "(Kitco News) - After last week’s sharp selloff, the gold market has managed to reclaim the $4,000 level. While this is an important hurdle that needs to be cleared, one market strategist says the precious metal still has significant work to do to undo the recent technical damage.In an interview with Kitco News, Michele Schneider, Chief Market Strategist at MarketGauge, said that she is watching th",
+  "date": "2026-11-04",
+  "id": "003c86e23f7e",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-04/gift-why-lobo-tiggre-buying-uranium-contract-prices-hit-record",
+  "title": "'This is that gift': why Lobo Tiggre is buying uranium as contract prices hit a record",
+  "desc": "(Kitco News) - The Independent Speculator sold most of his gold and silver stocks early this year. Now he's spending cash on uranium, and says he'll \"lean heavy into silver\" when the time comes.NEW ORLEANS - Lobo Tiggre sold most of his gold and silver stocks early this year, when, he said, gold was about $1,500 an ounce higher than it is now. He has been sitting on a big pile of cash since. Now h",
+  "date": "2026-11-04",
+  "id": "00ba3ace7960",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-04/gold-holding-firm-us-ism-says-service-sector-expands-october",
+  "title": "Gold holding firm as US ISM says Service Sector expands in October",
+  "desc": "(Kitco News) - The gold market continues to hold critical support above $4,000 an ounce, but steady activity in the U.S. services sector highlights the ongoing challenges for the precious metal, as a resilient economy and persistent inflation give the Federal Reserve room to maintain its tightening bias.The Institute for Supply Management (ISM) announced Wednesday morning that its Services Purchas",
+  "date": "2026-11-04",
+  "id": "ac5733c15165",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-04/gold-being-treated-ai-stock-which-its-not-says-peter-boockvar",
+  "title": "Gold is being treated ‘like an AI stock, which it’s not,’ says Peter Boockvar",
+  "desc": "The OnePoint BFG Wealth Partners CIO said gold’s drop below $4,000 looked like forced selling. Days later, gold is back above $4,000 after the midterms, and he says investors shouldn’t count on the Fed to rescue the AI trade.NEW ORLEANS (Kitco News) - Gold fell more than $120 an ounce on Oct. 30 and broke below $4,000. To Peter Boockvar, it didn’t look like a broken thesis. It looked like a forced",
+  "date": "2026-11-04",
+  "id": "a2fed702416a",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-04/gold-and-silver-surge-democratic-midterm-sweep-drives-dollar-yields-lower",
+  "title": "Gold and silver surge as Democratic midterm sweep drives dollar, yields lower - Kitco AM Report",
+  "desc": "(Kitco NewsWire) – Spot gold and silver prices were sharply higher in early U.S. trading Wednesday, as Democrats' sweeping victories in the U.S. midterm elections sent the dollar and Treasury yields lower, encouraging renewed buying interest in precious metals. The election results handed Democrats control of both the House of Representatives and Senate, raising expectations for legislative gridlo",
+  "date": "2026-11-04",
+  "id": "a821c9be7e2d",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-04/gold-prices-holding-4000-adp-says-us-economy-created-86k-jobs-october",
+  "title": "Gold prices holding $4,000 as ADP says US economy created 86k jobs in October",
+  "desc": "(Kitco News) - Gold prices are holding recent gains above $4,000 an ounce but could face renewed selling pressure as the U.S. labor market remains relatively healthy, with the economy creating more private-sector jobs than expected.ADP said Wednesday that 86,000 jobs were created in October, down from 90,000 jobs created in September. However, the data significantly beat expectations, as consensus",
+  "date": "2026-11-04",
+  "id": "27da483d0db5",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "世界黄金协会",
+  "url": "https://www.gold.org/goldhub/gold-focus/2026/11/central-bank-gold-statistics-september-2026",
+  "title": "Central Bank Gold Statistics: September 2026",
+  "desc": "Central banks continued to accumulate gold in September, reporting 61t of net purchases, the highest monthly total of 2026 so far. Poland and China led the buying, and Uzbekistan, Kazakhstan, Jordan, the Czech Republic and Bolivia were also among the net buyers. Post by Marissa Salim",
+  "date": "2026-11-04",
+  "id": "717d41b65716",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/can-aluminum-keep-ai-cool-in-space-elon-musk-says-1-300-w-per-square-meter-of-aluminum-makes-it-possible-121836",
+  "title": "Can aluminum keep AI cool in space? Elon Musk says 1,300 W per square meter of aluminum makes it possible",
+  "desc": "Elon Musk says aluminum radiators could dissipate 1,300 watts of heat per square meter in space as SpaceX explores orbital AI data centers.",
+  "date": "2026-11-04",
+  "id": "bb6aa10f1f83",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/beyond-bauxite-jamaica-looks-to-unlock-its-wider-mineral-wealth-121832",
+  "title": "Beyond bauxite: Jamaica looks to unlock its wider mineral wealth",
+  "desc": "Jamaica is looking beyond bauxite and alumina with a new mining strategy focused on limestone value addition.",
+  "date": "2026-11-04",
+  "id": "6e990451d981",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/venezuela-eyes-second-primary-aluminum-shipment-to-us-as-trade-links-reopen-121835",
+  "title": "Venezuela eyes second primary aluminum shipment to US as trade links reopen",
+  "desc": "Venezuela is negotiating a second aluminum shipment to the US, as Mercuria and Heeney Capital explore renewed trade and opportunities for Venalum.",
+  "date": "2026-11-04",
+  "id": "6e11e1eeb91c",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/global-primary-aluminium-output-rebounds-2-1-in-q3-2026-despite-september-slump-is-supply-deficit-easing-121830",
+  "title": "Global primary aluminium output rebounds 2.1% in Q3 2026 despite September slump - Is supply deficit easing?",
+  "desc": "Global primary aluminium production staged a sequential recovery in the third quarter of 2026, supported by the gradual restoration of disrupted smelting capacity in GCC",
+  "date": "2026-11-04",
+  "id": "d3037191996a",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/building-britain-s-future-novelis-aluminium-features-across-major-uk-projects-121834",
+  "title": "Building Britain's future: Novelis aluminium features across major UK projects",
+  "desc": "Novelis aluminium features across six major UK construction projects, with approximately 100,000 m² of façade materials supplied.",
+  "date": "2026-11-04",
+  "id": "1d73abd87028",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/hexatech-raises-the-bar-for-aluminium-nitride-substrates-with-100-mm-production-launch-121831",
+  "title": "HexaTech raises the bar for aluminum nitride substrates with 100 mm production launch",
+  "desc": "HexaTech has released 100 mm single-crystal aluminum nitride substrates for commercial production.",
+  "date": "2026-11-04",
+  "id": "55436060df2f",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/phinergy-explores-aluminium-air-generators-for-data-centre-power-beyond-backup-use-121825",
+  "title": "Phinergy explores aluminium-air generators for data centre power beyond backup use",
+  "desc": "Phinergy and Rosendin examine aluminium-air generators as potential data centre power solutions, offering grid support, renewable microgrid integration and alternatives to diesel.",
+  "date": "2026-11-04",
+  "id": "3c923c9accde",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/aluminium-catalyst-helps-chinese-researchers-improve-sodium-sulphur-battery-performance-121828",
+  "title": "Aluminium catalyst helps Chinese researchers improve sodium-sulphur battery performance",
+  "desc": "Chinese researchers developed an aluminium-based catalyst that controls polysulphide movement, improving sodium–sulphur battery stability across 2,500 charge-discharge cycles in laboratory tests.",
+  "date": "2026-11-04",
+  "id": "3ecc7a03ce23",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/european-aluminium-industry-bruised-but-resilient-amid-cbam-pressure-and-rising-ets-costs-says-paul-voss-121824",
+  "title": "European aluminium industry ‘bruised but resilient’ amid CBAM pressure and rising ETS costs, says Paul Voss",
+  "desc": "European Aluminium's Paul Voss highlights CBAM uncertainty, rising ETS costs and scrap accounting concerns threatening the industry's competitiveness.",
+  "date": "2026-11-04",
+  "id": "f79839164e4b",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/bahrains-aluminium-wire-exports-jump-23-7-y-o-y-to-80-895-tonnes-in-q2-2026-121817",
+  "title": "Bahrain’s aluminium wire exports jump 23.7% Y-o-Y to 80,895 tonnes in Q2 2026",
+  "desc": "Bahrain’s aluminium wire exports rose 14.6 per cent to 143,518 tonnes in H1 2026, with the United States leading destination markets.",
+  "date": "2026-11-04",
+  "id": "bbb8b4ca3516",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/solar-power-plant-for-egyptalum-begins-construction",
+  "title": "Solar power plant for Egyptalum begins construction",
+  "desc": "Scatec has begun construction on the first phase of its solar power plant, which will supply renewable electricity to Egyptalum.",
+  "date": "2026-11-04",
+  "id": "7d545d5b7b29",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/alfed-launches-report-on-reindustrialising-uk-aluminium",
+  "title": "ALFED launches report on reindustrialising UK aluminium",
+  "desc": "The Aluminium Federation (ALFED)’s white paper outlines how the UK can strengthen its existing aluminium industry.",
+  "date": "2026-11-04",
+  "id": "cd0cdf066939",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/novelis-aluminium-strengthens-uk-architectural-projects",
+  "title": "Novelis aluminium strengthens UK architectural projects",
+  "desc": "Novelis has contributed approximately 100,000 m 2 of aluminium façade materials to a series of construction projects across the UK.",
+  "date": "2026-11-04",
+  "id": "167fc803f846",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "Mining.com",
   "url": "https://www.mining.com/acgs-220-million-blue-moon-deal-creates-european-copper-giant/",
   "title": "ACG’s $220 million Blue Moon deal creates European copper giant",
   "desc": "The miner is building a north-south production network, with operations in Türkiye and Norway set to expand output.",
@@ -423,6 +749,30 @@
   "fetched": "2026-11-04"
  },
  {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/north-american-aluminum-zorba-zurik-scrap-trade-leading-exporters-and-a-shift-in-processing-121812",
+  "title": "North American aluminum Zorba-Zurik scrap trade: Leading exporters and a shift in processing",
+  "desc": "Explore North America's Zorba and Zurik scrap trade, featuring CMR America, GP Harmon, Sims, Radius Recycling and leading exporters shaping the market.",
+  "date": "2026-11-03",
+  "id": "cc61898ec9e4",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/beyond-windows-aluminium-in-india-s-construction-sector-121809",
+  "title": "Beyond windows: Aluminium in India's construction sector",
+  "desc": "As Indian architecture evolves, aluminium is redefining spaces through innovative design, seamless connectivity and advanced engineering.",
+  "date": "2026-11-03",
+  "id": "5a59e7d76fdb",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
   "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/cochilco-cuts-chilean-copper-forecast-for-2026-2027-2026-11-02",
   "title": "Cochilco cuts Chilean copper forecast for 2026, 2027",
@@ -827,6 +1177,18 @@
   "fetched": "2026-11-03"
  },
  {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/15-eu-nations-back-warsaw-declaration-to-strengthen-industrial-competitiveness-energy-security-and-aluminium-scrap-supply-european-aluminium-welcomes-121794",
+  "title": "15 EU nations back Warsaw Declaration to strengthen industrial competitiveness, energy security and aluminium scrap supply: European Aluminium welcomes the act",
+  "desc": "15 EU nations back the Warsaw Declaration, prioritising energy affordability, aluminium scrap security, trade defence and industrial decarbonisation",
+  "date": "2026-11-02",
+  "id": "9426ad5cd94d",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
   "site": "Mining.com",
   "url": "https://www.mining.com/web/tether-gold-holdings-backing-usdt-fell-by-3-4-tons-in-the-third-quarter/",
   "title": "Tether gold holdings backing USDT fell by 3.4 tons in the third quarter",
@@ -861,6 +1223,43 @@
    "金"
   ],
   "fetched": "2026-11-01"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/al-circle-analysis-243-us-scrap-rise-6mt-european-recycling-germanys-power-fix-drive-aluminium-trade-121776",
+  "title": "AL Circle Analysis: 243% US scrap rise, 6Mt European recycling & Germany’s power fix drive aluminium trade",
+  "desc": "Explore: The US’s 243 per cent scrap surge, Europe’s 243 per cent scrap leak, Germany’s power relief reveal aluminium trade shifts.",
+  "date": "2026-10-31",
+  "id": "4c2dee008603",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/police-arrest-8-in-transformer-theft-gang-seize-164-kg-of-aluminium-wire-121777",
+  "title": "Police arrest 8 in transformer theft gang, seize 164 kg of aluminium wire",
+  "desc": "Kanpur police arrest eight in an inter-district transformer theft racket, recovering 164 kg of aluminum wire, 98 kg of copper binding and cash",
+  "date": "2026-10-31",
+  "id": "7ae5e352245a",
+  "metals": [
+   "铜",
+   "铝"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/aluminium-price-rises-0-74-to-3-076-8-as-chinas-september-manufacturing-pmi-returns-to-expansion-121780",
+  "title": "Aluminium price rises 0.74% to $3,076.8 as China’s September manufacturing PMI returns to expansion",
+  "desc": "Aluminium prices advanced to USD 3,076.8 on October 30, supported by market optimism and China's industrial developments, although weaker manufacturing activity presents fresh demand concerns",
+  "date": "2026-10-31",
+  "id": "4ae35271465d",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
  },
  {
   "site": "Mining Weekly",
@@ -1205,6 +1604,18 @@
    "铝"
   ],
   "fetched": "2026-10-30"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/ford-s-5-000-casting-milestone-puts-aluminium-at-the-heart-of-its-next-ev-121771",
+  "title": "Ford's 5,000-casting milestone puts aluminium at the heart of its next EV",
+  "desc": "Explore how Ford is using more than 5,000 aluminium unicastings to simplify the Fathom electric truck's structure.",
+  "date": "2026-10-30",
+  "id": "10bc392adda1",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
  },
  {
   "site": "Aluminium International Today",
@@ -3367,6 +3778,18 @@
   "fetched": "2026-10-24"
  },
  {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/germanys-aluminium-frp-exports-to-poland-fall-16-through-july-2026-121661",
+  "title": "Germany’s aluminium FRP exports to Poland fall 16% through July 2026",
+  "desc": "Germany’s aluminium FRP exports to Poland fell 16.3% year on year in January–July 2026, with full-year shipments potentially below 2024–2025.",
+  "date": "2026-10-23",
+  "id": "84b3c40afb78",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
+ },
+ {
   "site": "The Northern Miner",
   "url": "https://www.northernminer.com/news/spain-pan-global-eyes-copper-riches-in-ancient-belt/1003895963/",
   "title": "Spain: Pan Global eyes copper riches in ancient belt",
@@ -4203,6 +4626,18 @@
    "铝"
   ],
   "fetched": "2026-10-22"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/mexico-pushes-for-lower-us-aluminium-and-steel-tariffs-as-trade-talks-continue-121628",
+  "title": "Mexico seeks US tariff relief on aluminium, steel and vehicles before end of 2026",
+  "desc": "Mexico seeks US tariff reductions on aluminium, steel and vehicles before year-end 2026, citing trade concerns and ongoing bilateral negotiations.",
+  "date": "2026-10-21",
+  "id": "bec8e5634971",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
  },
  {
   "site": "Mining.com",
@@ -5078,6 +5513,18 @@
    "金"
   ],
   "fetched": "2026-10-22"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/malaysia-attracts-interest-of-chinese-investors-in-sarawak-aluminium-manufacturing-121598",
+  "title": "Malaysia attracts interest of Chinese investors in Sarawak aluminium manufacturing",
+  "desc": "Chinese investors are considering an aluminium manufacturing investment in Sarawak, with potential benefits for exports, downstream industries and skilled jobs.",
+  "date": "2026-10-19",
+  "id": "d6710bfde201",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-04"
  },
  {
   "site": "Mining Weekly",
