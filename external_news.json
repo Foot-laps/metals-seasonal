@@ -1,5 +1,53 @@
 [
  {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/freeport-approves-45bn-expansion-modernisation-of-arizona-copper-project-2026-11-05",
+  "title": "Freeport approves $4.5bn expansion, modernisation of Arizona copper project",
+  "desc": "Metals company Freeport McMoRan's board has approved a $4.5-billion expansion and modernisation programme for its Bagdad copper and molybdenum operation, in northwest Arizona, in the US. \"We are pleased to proceed with the Bagdad expansion, an important step in advancing Freeport’s US copper growth strategy. This low-risk brownfield project builds on Bagdad’s substantial reserve base, long operati",
+  "date": "2026-11-05",
+  "id": "52344d43d4e6",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-05"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/us-september-copper-imports-fall-31-from-august-2026-11-05",
+  "title": "US September copper imports fall 3.1% from August",
+  "desc": "US copper imports in September dipped 3.1% from August but were still almost double levels of a year earlier, official data showed on Wednesday, as metal continued to flow to the country ahead of possible tariffs. The US imported 194 284 metric tons of refined copper and copper alloys in September, down from 200 519 tons in August and a record 225 094 tons in July. Imports were 102 279 tons in Sep",
+  "date": "2026-11-05",
+  "id": "99556ddd31f5",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-05"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/lme-aluminium-cash-bid-on-november-4-climbs-to-53-50-t-cancelled-warrants-climb-4-47-121838",
+  "title": "LME aluminium cash bid on November 4 climbs to $53.50/t, cancelled warrants climb 4.47%",
+  "desc": "LME aluminium prices rose on November 4, while opening stocks declined and alumina Platts prices slipped slightly amid broader market gains.",
+  "date": "2026-11-05",
+  "id": "04e5203cfd73",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-05"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/from-losses-to-profits-valco-sets-sights-on-1-5-million-tonnes-of-alumina-121837",
+  "title": "From losses to profits: VALCO sets sights on 1.5 million tonnes of alumina",
+  "desc": "VALCO has reported a provisional US$1.3 million profit as it pursues a $4 billion expansion plan targeting 1.5 million tonnes of alumina processing within a decade. Explore the company's turnaround strategy and new rod mill investment.",
+  "date": "2026-11-05",
+  "id": "504435f1b7b4",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-05"
+ },
+ {
   "site": "Kitco News",
   "url": "https://www.kitco.com/news/article/2026-11-04/gold-prices-hit-4000-democrats-see-electoral-sweep-gain-control-congress",
   "title": "Gold prices hit $4,000 as Democrats see electoral Sweep to gain control of Congress",
@@ -336,6 +384,19 @@
    "铝"
   ],
   "fetched": "2026-11-04"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-04/gold-climbs-above-4000-wall-street-rallies-dems-take-congress-kitco-pm",
+  "title": "Gold climbs above $4,000, Wall Street rallies as Dems take Congress - Kitco PM Report",
+  "desc": "(Kitco NewsWire) - Spot gold and silver prices were sharply higher in late U.S. trading Wednesday, as Democrats' sweeping victories in the U.S. midterm elections sent the dollar, Treasury yields and crude oil prices lower, encouraging renewed buying interest in precious metals. The election results handed Democrats control of both chambers of Congress, raising expectations for legislative gridlock",
+  "date": "2026-11-04",
+  "id": "7bfe51b8d1d1",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-05"
  },
  {
   "site": "Mining.com",
@@ -1260,6 +1321,18 @@
    "铝"
   ],
   "fetched": "2026-11-04"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/teslas-optimus-needs-a-brain-a-battery-and-a-whole-lot-of-aluminium-121784",
+  "title": "Tesla’s Optimus needs a brain, a battery and a whole lot of aluminium",
+  "desc": "Explore how Tesla's Optimus ambitions are bringing aluminium and critical-mineral supply chains into focus.",
+  "date": "2026-10-31",
+  "id": "589b4ea243a3",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-05"
  },
  {
   "site": "Mining Weekly",
