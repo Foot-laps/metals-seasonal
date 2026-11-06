@@ -48,6 +48,336 @@
   "fetched": "2026-11-06"
  },
  {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/copper-price-falls-heads-for-worst-week-since-march-on-ai-rout/",
+  "title": "Copper price falls, heads for worst week since March on AI rout",
+  "desc": "\"In our view, copper bears need a recessionary spiral from here, whereas copper bulls only need the status-quo trend to persist,\" Deutsche Bank wrote.",
+  "date": "2026-11-06",
+  "id": "ebedbf019114",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/hindalco-posts-profit-rise-on-firmer-metal-prices-sees-elevated-fuel-costs/",
+  "title": "Hindalco posts profit rise on firmer metal prices, sees elevated fuel costs",
+  "desc": "Revenue from Hindalco's aluminum upstream and copper segments grew, driven by strong metal prices and higher volumes.",
+  "date": "2026-11-06",
+  "id": "2c861e36a2c0",
+  "metals": [
+   "铜",
+   "铝"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/price-dip-lights-up-gold-buying-in-india-ahead-of-diwali/",
+  "title": "Price dip lights up gold buying in India ahead of Diwali",
+  "desc": "Price volatility continues to limit a sharper rise in demand, although buying is expected to pick up for Dhanteras.",
+  "date": "2026-11-06",
+  "id": "dd4dba47d4bc",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/world-embraces-gold-while-us-resists-shift-advisor-says/",
+  "title": "World embraces gold while US resists shift, advisor says",
+  "desc": "In uncertain times, governments outside of the G7 are increasingly turning to gold as a safeguard against future financial crises.",
+  "date": "2026-11-06",
+  "id": "7c13abe4d987",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/copper-faces-further-slide-after-us-vote-td/1003897510/",
+  "title": "Copper faces further slide after US vote: TD",
+  "desc": "Copper could fall further as Democratic Party gains in the United States midterm elections weaken expectations for import tariffs and raise doubts about projected demand...",
+  "date": "2026-11-06",
+  "id": "ef1cd2f60003",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/codelco-faces-production-scandal-tailings-probe/1003897486/",
+  "title": "Codelco faces production scandal, tailings probe",
+  "desc": "Chilean State miner Codelco disclosed a 42,100-tonne copper production overstatement Thursday, the same day a tailings spill halted processing at its Andina operation. The miner...",
+  "date": "2026-11-06",
+  "id": "07d8fa8068d1",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/perpetua-finds-gold-antimony-near-stibnite-pit/1003897494/",
+  "title": "Perpetua finds gold, antimony near Stibnite pit",
+  "desc": "Perpetua Resources (Nasdaq: PPTA; TSX: PPTA) has discovered gold and antimony mineralization near a planned open pit at its Stibnite project in central Idaho, opening...",
+  "date": "2026-11-06",
+  "id": "1b5ecda05204",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/teck-releases-north-america-truth-and-reconciliation-action-plan-2026-11-06",
+  "title": "Teck releases North America Truth and Reconciliation Action Plan",
+  "desc": "TSX-listed Teck Resources has released its North America Truth and Reconciliation Action Plan, setting measurable commitments to respond to Indigenous priorities, strengthen relationships with Indigenous Peoples and integrate truth and reconciliation as a guiding framework for the company’s activities across North America. Teck has a portfolio of copper and zinc operations across North and Latin A",
+  "date": "2026-11-06",
+  "id": "717de2f1d857",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/iamgold-on-track-to-meet-full-year-guidance-2026-11-06",
+  "title": "IAMGOLD on track to meet full-year guidance",
+  "desc": "TSX-listed IAMGOLD produced 186 900 oz of gold for the quarter ended September 30 and remains on track to achieve full-year guidance of 720 000 oz to 820 000 oz of gold, CEO and president Renaud Adams says. “The company generated $404-million in mine-site free cash flow, our net cash position increased resulting in available liquidity of $1.6-billion. We returned a further $135-million to sharehol",
+  "date": "2026-11-06",
+  "id": "4378bc75d958",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/imperial-metals-third-quarter-earnings-fall-2026-11-06",
+  "title": "Imperial Metals’ third-quarter earnings fall",
+  "desc": "TSX-listed Imperial Metals Corporation’s earnings before interest, tax, depreciation and amortisation (Ebitda) decreased to $45.1-million for the quarter ended September 30, from $92.5-million in the third quarter of 2025. Production for the quarter totalled 8.54-million pounds of copper and 11 648 oz of gold.",
+  "date": "2026-11-06",
+  "id": "2010cb60556b",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/labrador-gold-conducts-strategic-review-to-strengthen-balance-sheet-maximise-shareholder-value-2026-11-06",
+  "title": "Labrador Gold conducts strategic review to strengthen balance sheet, maximise shareholder value",
+  "desc": "TSX-V-listed mineral exploration and investment company Labrador Gold has initiated a comprehensive review of strategic alternatives aimed at positiong the company for its next phase of growth. As part of the strategic review, the company’s board will evaluate a range of potential transactions, corporate initiatives and strategic alternatives including the separation of exploration and investment ",
+  "date": "2026-11-06",
+  "id": "3b3eb45e3371",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/rua-gold-submits-fast-track-application-for-new-zealand-project-2026-11-06",
+  "title": "Rua Gold submits fast-track application for New Zealand project",
+  "desc": "TSX-listed Rua Gold has submitted a substantive application under New Zealand's Fast-track Approvals Act for the Auld Creek gold/antimony project, in the Reefton Goldfield, on the South Island of New Zealand. The submission follows the project's approval for referral into the fast-track process and marks a key milestone in Rua's transition from explorer to mine developer. The application seeks the",
+  "date": "2026-11-06",
+  "id": "593240e3f5ea",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/falling-sulphuric-acid-prices-deepen-chinas-copper-smelter-squeeze-2026-11-06",
+  "title": "Falling sulphuric acid prices deepen China's copper smelter squeeze",
+  "desc": "Chinese copper smelters are facing mounting pressure as falling sulphuric acid prices erode a key source of profits that had helped offset losses from processing copper concentrate at negative fees, industry sources said. The double blow for China's smelters, which produce more than half of the world's refined copper, has prompted some operators to extend maintenance outages this quarter. That is ",
+  "date": "2026-11-06",
+  "id": "81b6967cf405",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/global-copper-market-awaits-us-tariff-decision-bmi-reports-2026-11-06",
+  "title": "Global copper market awaits US tariff decision, BMI reports",
+  "desc": "The global copper market has enjoyed a sustained period of success, reaching successive record highs, with bullish sentiment largely underpinned by tariff-driven uncertainty, and further bolstered by supply-side issues and AI-driven demand optimism, highlights market research company BMI. Having peaked at $14 875/t on September 10 and remaining well above $14 000/t as of November 5, the company re",
+  "date": "2026-11-06",
+  "id": "6351c24eccb9",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/anglogold-targeting-organic-growth-of-400-000-ozy-plus-by-end-2029-2026-11-06",
+  "title": "AngloGold targeting organic growth of 400 000 oz/y-plus by end 2029",
+  "desc": "By optimising existing operations and leveraging established infrastructure, gold mining company AngloGold Ashanti is targeting the addition of more than 400 000 oz of annual gold production by the end of 2029. The Johannesburg Stock Exchange-listed AngloGold is expecting an additional 130 000 oz from Obuasi in Ghana as this gold mine ramps up, 100 000 oz from Siguiri in Guinea, 100 000 oz from Ge",
+  "date": "2026-11-06",
+  "id": "023ca6a6a78c",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-06/gold-price-trades-near-4050oz-after-preliminary-consumer-sentiment-rises-51",
+  "title": "Gold price trades near $4,050/oz after preliminary Consumer Sentiment rises to 51, inflation expectations ease",
+  "desc": "(Kitco News) - The gold market is coming off its post-payrolls lows after the latest data showed consumer sentiment in the U.S. improving beyond expectations, while inflation expectations ticked lower.The University of Michigan announced on Friday that the preliminary reading of its Consumer Sentiment survey for November was 51. The data was better than expectations, as the consensus forecast of e",
+  "date": "2026-11-06",
+  "id": "423591c0fb2c",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-06/gold-falls-us-payrolls-surge-165000-strengthening-december-fed-hike-case",
+  "title": "Gold falls as U.S. payrolls surge by 165,000, strengthening December Fed hike case - Kitco AM Report",
+  "desc": "(Kitco NewsWire) – Spot gold prices were lower and spot silver prices were modestly higher in early U.S. trading Friday, as investors assessed the latest U.S. employment figures following Thursday's sharp equity-market selloff and renewed tensions involving Iran and the Strait of Hormuz. The U.S. economy added substantially more jobs than expected in October, reinforcing the case for another Feder",
+  "date": "2026-11-06",
+  "id": "0944dcaf3df0",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-06/gold-prices-see-some-selling-pressure-us-economy-created-165k-october",
+  "title": "Gold prices see some selling pressure as US economy created 165k in October",
+  "desc": "(Kitco News) - After a slow summer, the U.S. labor market appears to be picking up significant momentum, which, as expected, is once again putting pressure on gold, with renewed focus on support at $4,000 an ounce.U.S. nonfarm payrolls rose by 165,000 last month, according to the Bureau of Labor Statistics. The monthly figure significantly beat consensus forecasts, as economists had expected job g",
+  "date": "2026-11-06",
+  "id": "3b5577d18365",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "BullionVault",
+  "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-ai-tech-jobs-110620262",
+  "title": "Gold and Silver Rise for the Week as Tech, Crude and Copper Fall | Gold News",
+  "desc": "Gold and silver made solid weekly gains from multi-month lows on Friday as US tech and AI stocks reduced this week's plunge >>",
+  "date": "2026-11-06",
+  "id": "34c10a0e3d20",
+  "metals": [
+   "铜",
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "BullionVault",
+  "url": "https://www.bullionvault.com/gold-news/gold-investor-index/gold-silver-investing-price-drop-110620261",
+  "title": "Private Investing Jumps on Gold and Silver Price Drop | Gold News",
+  "desc": "Gold and silver investing jumped in October as prices fell, with buyers on BullionVault outnumbering sellers the most in 3 months >>",
+  "date": "2026-11-06",
+  "id": "26d9a1ff1c0e",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "世界黄金协会",
+  "url": "https://www.gold.org/goldhub/gold-focus/2026/11/unearthed-gold-rebounds-washington-divides",
+  "title": "Unearthed: Gold Rebounds as Washington Divides",
+  "desc": "In this episode of Unearthed, hosts Joe Cavatoni and John Reade look past a disappointing October for gold to a week full of market-moving news. Fresh from the U.S. midterm elections, they consider what the result could mean for gold, and why the months ahead may bring more uncertainty than clarity. Post by Unearthed Podcast",
+  "date": "2026-11-06",
+  "id": "82a7516080da",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/atlas-metals-terminates-upsa-acquisition-as-lithium-and-graphite-deals-take-priority-121869",
+  "title": "Atlas Metals terminates UPSA acquisition as lithium and graphite deals take priority",
+  "desc": "Explore why Atlas Metals terminated its proposed UPSA acquisition and shifted its attention towards potential lithium and graphite opportunities in Africa and South America.",
+  "date": "2026-11-06",
+  "id": "b51aabd0a7d7",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/global-alumina-production-remains-below-2025-levels-despite-a-q3-rebound-reaching-114-million-tonnes-in-9m2026-121868",
+  "title": "Global alumina production remains below 2025 levels despite a Q3 rebound, reaching 114 million tonnes in 9M2026",
+  "desc": "Global alumina production reached 114.625 Mt in January–September 2026, down 0.29% year on year despite a 5.54% Q3 recovery.",
+  "date": "2026-11-06",
+  "id": "0043d212521a",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/century-aluminum-gets-a-production-boost-as-iceland-smelter-restarts-lifting-q3-performance-121867",
+  "title": "Century Aluminum gets a production boost as Iceland smelter restarts, lifting Q3 performance",
+  "desc": "Explore how the restart of Century Aluminum's Iceland smelter operations helped lift Q3 net income to $302.6 million.",
+  "date": "2026-11-06",
+  "id": "e0094113648c",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/downstream-aluminium-producers-operating-rates-increased-slightly-this-week-and-the-divergence-between-sectors-continues-121865",
+  "title": "Downstream aluminium producers' operating rates increased slightly this week, and the divergence between sectors continues",
+  "desc": "This week, the operating rate of major aluminium processors in China remained stable with a slight overall rebound.",
+  "date": "2026-11-06",
+  "id": "b055f93de6c5",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/south32-maintains-june-2027-timeline-for-alcoa-s-acquisition-of-aluminium-assets-121864",
+  "title": "South32 maintains June 2027 timeline for Alcoa's acquisition of aluminium assets",
+  "desc": "South32 expects its aluminium asset sale to Alcoa, valued at up to USD 5.6 billion, to close by June 2027.",
+  "date": "2026-11-06",
+  "id": "b852f44a5f80",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/novelis-q2-sees-net-sales-rise-25-while-rolled-product-shipments-fell-2-121860",
+  "title": "Novelis Q2 sees net sales rise 25% while rolled product shipments fall 2%",
+  "desc": "Novelis Q2 FY2027 adjusted EBITDA rose 20% to USD 508 million, while shipments declined 2% and Bay Minette produced its first coil.",
+  "date": "2026-11-06",
+  "id": "547717324a7a",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
   "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/freeport-approves-45bn-expansion-modernisation-of-arizona-copper-project-2026-11-05",
   "title": "Freeport approves $4.5bn expansion, modernisation of Arizona copper project",
@@ -747,6 +1077,18 @@
   "metals": [
    "铜",
    "铝"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/codelco-halts-andina-mine-as-tailings-spill-threatens-river/",
+  "title": "Codelco halts Andina mine as tailings spill threatens river",
+  "desc": "The company has shut its mine concentrator as authorities investigate a spill and water utility activates backup supplies.",
+  "date": "2026-11-05",
+  "id": "cd3e3c6731f4",
+  "metals": [
+   "铜"
   ],
   "fetched": "2026-11-06"
  },
@@ -1971,6 +2313,18 @@
   "desc": "Ghana hosts Guinea’s ORG Technology at Nyinahin bauxite deposits days after agreeing with Rusal to develop a mine and alumina refinery.",
   "date": "2026-11-02",
   "id": "1447da073479",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/us-aluminium-tariffs-become-campaign-subject-in-virginia-congressional-race-as-breweries-face-higher-costs-121789",
+  "title": "US aluminium tariffs become campaign subject in Virginia congressional race as breweries face higher costs",
+  "desc": "Trump’s aluminium tariffs have raised packaging costs for US and Canadian breweries, prompting debate and concerns over higher beer prices.",
+  "date": "2026-11-02",
+  "id": "219cec5384b8",
   "metals": [
    "铝"
   ],
@@ -4138,6 +4492,18 @@
   "fetched": "2026-11-05"
  },
  {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/malaysias-rare-earths-balancing-act-raw-exports-or-a-homegrown-processing-industry-121660",
+  "title": "Malaysia’s rare earths balancing act: Raw exports or a homegrown processing industry?",
+  "desc": "Malaysia approves its first conditional raw rare earths export as it seeks investment, technology transfer and stronger domestic processing capabilities.",
+  "date": "2026-10-24",
+  "id": "b25e71f7ee8e",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
   "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/dokwe-gold-project-zimbabwe-2026-10-23",
   "title": "Dokwe gold project, Zimbabwe",
@@ -5013,6 +5379,30 @@
    "金"
   ],
   "fetched": "2026-10-23"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/eu-approves-germanys-power-relief-instrument-could-aluminium-producers-save-459m-annually-121650",
+  "title": "EU approves Germany’s power relief instrument: Could aluminium producers save €459m annually?",
+  "desc": "Explore: EU’s approval of Germany’s industrial power relief instrument opens doors to save EUR 459 million in aluminium production.",
+  "date": "2026-10-22",
+  "id": "fd5a99ecd393",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/us-aluminium-tariffs-push-up-costs-for-canadian-craft-breweries-121643",
+  "title": "US aluminum tariffs raise Canadian craft brewers’ costs as 75% of Ontario beer is sold in cans",
+  "desc": "US aluminium tariffs are raising can costs for Canadian craft breweries, squeezing margins and complicating efforts to keep beer affordable.",
+  "date": "2026-10-22",
+  "id": "8577374b6b3c",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-06"
  },
  {
   "site": "Mining.com",
