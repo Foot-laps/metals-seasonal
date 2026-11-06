@@ -1,6 +1,54 @@
 [
  {
   "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/resolution-copper-mining-approves-144m-investment-in-arizona-project-2026-11-06",
+  "title": "Resolution Copper Mining approves $144m investment in Arizona project",
+  "desc": "Resolution Copper Mining, a joint venture between Australia-headquartered miners Rio Tinto and BHP, has approved a $144-million investment in the next phase of development at the Resolution Copper project, in Arizona, in the US – one of the world’s largest untapped copper deposits and a potential major new source of domestically produced copper for the US. The investment builds on the completion o",
+  "date": "2026-11-06",
+  "id": "422e973ee319",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/goldman-sachs-trims-gold-forecasts-as-fed-stays-hawkish-2026-11-06",
+  "title": "Goldman Sachs trims gold forecasts as Fed stays hawkish",
+  "desc": "Goldman Sachs on Thursday lowered its end-2026 gold price forecast to $4 150/oz from $4 650/oz and its end-of-2027 forecast to $4 800/oz from $5 400/oz, citing implications of the US Federal Reserve's more hawkish policy stance in recent months. Potentially higher oil prices could add to pressure through systematic selling, while sharp equity drawdowns could initially pull gold lower as margin cal",
+  "date": "2026-11-06",
+  "id": "a4bdcdfac5be",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/lme-aluminium-cash-price-rises-0-8-to-3-160-t-on-november-5-as-stocks-decline-121859",
+  "title": "LME aluminium cash price rises 0.8% to $3,160/t on November 5 as stocks decline",
+  "desc": "LME aluminium cash offer price rose 0.8% to $3,160/t on November 5, while opening stocks declined 0.32% to 228,750 tonnes.",
+  "date": "2026-11-06",
+  "id": "5032a1f51938",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/a-turnaround-on-the-balance-sheet-indus-aluminium-recyclers-returns-to-profit-121858",
+  "title": "A turnaround on the balance sheet: Indus Aluminium Recyclers returns to profit",
+  "desc": "Explore how Indus Aluminium Recyclers returned to profit in the first half of FY2026-27 despite lower revenue, following a sharp reduction in reported expenses.",
+  "date": "2026-11-06",
+  "id": "4010357d353a",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/freeport-approves-45bn-expansion-modernisation-of-arizona-copper-project-2026-11-05",
   "title": "Freeport approves $4.5bn expansion, modernisation of Arizona copper project",
   "desc": "Metals company Freeport McMoRan's board has approved a $4.5-billion expansion and modernisation programme for its Bagdad copper and molybdenum operation, in northwest Arizona, in the US. \"We are pleased to proceed with the Bagdad expansion, an important step in advancing Freeport’s US copper growth strategy. This low-risk brownfield project builds on Bagdad’s substantial reserve base, long operati",
@@ -566,6 +614,141 @@
    "铝"
   ],
   "fetched": "2026-11-05"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/new-gold-discovery-boosts-perpetuas-stibnite-project/",
+  "title": "New gold discovery boosts Perpetua’s Stibnite project",
+  "desc": "Fiddle’s discovery hole returned 109.7 meters grading 3.2 g/t gold and 1.1% antimony, among the most significant mineralized intercepts encountered at the project, the company said.",
+  "date": "2026-11-05",
+  "id": "533a8cfefb7a",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/two-egyptian-army-officers-killed-in-gold-mining-crackdown-on-southern-border-military-says/",
+  "title": "Two Egyptian army officers killed in gold-mining crackdown on southern border, military says",
+  "desc": "The military launched the campaign to counter illegal gold mining in the Eastern Desert in June.",
+  "date": "2026-11-05",
+  "id": "2e511f37bbe2",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/op-ed-canada-trade-deal-would-hurt-european-aluminum-buyers/",
+  "title": "Op-Ed: Canada trade deal would hurt European aluminum buyers",
+  "desc": "The aluminum market is wary, having got burnt in August, when a breakthrough in the trade dispute seemed equally close.",
+  "date": "2026-11-05",
+  "id": "762a43ae03c9",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/snowline-leads-pdacs-2027-awards-class/1003897454/",
+  "title": "Snowline leads PDAC’s 2027 awards class",
+  "desc": "Long before Snowline Gold’s (TSX: SGD; US-OTC: SNWGF) Valley deposit attracted industry attention, cofounder and CEO Scott Berdahl struggled to find backing for the Yukon properties...",
+  "date": "2026-11-05",
+  "id": "9fcd3ed39ee2",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-05/falling-sulphuric-acid-prices-deepen-chinas-copper-smelter-squeeze",
+  "title": "Falling sulphuric acid prices deepen China’s copper smelter squeeze",
+  "desc": "Chinese copper smelters are facing mounting pressure as falling sulphuric acid prices erode a key source of profits that had helped offset losses from processing copper concentrate at negative fees, industry sources said.The double blow for China’s smelters, which produce more than half of the world’s refined copper, has prompted some operators to extend maintenance outages this quarter. That is k",
+  "date": "2026-11-05",
+  "id": "42e3ce85e728",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-05/congo-residents-sue-chinese-copper-mine-over-alleged-pollution",
+  "title": "Congo residents sue Chinese copper mine over alleged pollution, statement says",
+  "desc": "Residents living near a major Chinese-controlled cobalt mine in the Democratic Republic of Congo have sued the mine’s operator for $6.3 million, alleging that pollution harmed their health, according to UK-based corporate watchdog RAID and Congo-based nonprofit AFREWATCH.The 27 residents’ lawsuit alleges that the Zijin Mining (SHA: 601899) controlled COMMUS copper and cobalt mine polluted the envi",
+  "date": "2026-11-05",
+  "id": "a469a4a11212",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-05/poland-central-bank-chief-leaves-door-open-more-gold-buying-after",
+  "title": "Poland central bank chief leaves door open to more gold buying after hitting 700-ton target",
+  "desc": "Poland’s central bank has reached its previously stated target for gold reserves of 700 metric tons, Governor Adam Glapinski said on Thursday, leaving the door open to further purchases.National Bank of Poland (NBP) has been the largest buyer of gold among central banks reporting purchases between 2024 and 2026, according to World Gold Council data.“We had set a target of 700 tons and we have achi",
+  "date": "2026-11-05",
+  "id": "636d42853032",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-05/nickel-price-leaps-5-week-high-indonesian-crackdown-copper-hits-3",
+  "title": "Nickel price leaps to 5-week high on Indonesian crackdown; copper hits 3-month low",
+  "desc": "Nickel jumped to its highest price in more than five weeks on Thursday after top producer Indonesia said it would clamp down on a major ore trader, while copper sank to a three-month low as tech stocks came under renewed pressure.Benchmark three-month nickel CMNI3 on the London Metal Exchange was up 3.8% to $16,375a metric ton as of 1700 GMT. The metal used to make stainless steel and rechargeable",
+  "date": "2026-11-05",
+  "id": "3807026bcb20",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-05/gold-holds-gains-silver-slips-wall-street-plunges-fed-hike-bets-ease-kitco",
+  "title": "Gold holds gains, silver slips as Wall Street plunges, Fed hike bets ease - Kitco PM Report",
+  "desc": "(Kitco NewsWire) - Spot gold prices were higher and spot silver prices were lower in late U.S. trading Thursday, as a sharp technology-led equity market selloff drove Treasury yields lower and reduced expectations for additional Federal Reserve tightening in December. Renewed attacks on commercial shipping near the Strait of Hormuz pushed crude oil prices higher, reversing part of Wednesday's stee",
+  "date": "2026-11-05",
+  "id": "2b25273647e5",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-05/world-bank-sees-gold-holding-above-4000-through-2028-warns-silver-faces",
+  "title": "World Bank sees gold holding above $4,000 through 2028, but warns silver faces steeper correction",
+  "desc": "(Kitco News) - Gold and silver prices are expected to remain historically elevated through 2027, but investors should not expect a repeat of the explosive gains and volatility that defined 2026, according to the latest report from the World Bank.In its October Commodity Markets Outlook, analysts at the World Bank forecast gold prices to average $4,600 an ounce this year, a 33.6% increase from 2025",
+  "date": "2026-11-05",
+  "id": "8cdc62631330",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/from-raw-resources-to-battery-ready-materials-australia-s-downstream-ambitions-take-shape-121857",
+  "title": "From raw resources to battery-ready materials: Australia's downstream ambitions take shape",
+  "desc": "Explore how Australia could turn its aluminium and copper resources into higher-value battery components.",
+  "date": "2026-11-05",
+  "id": "90910f985055",
+  "metals": [
+   "铜",
+   "铝"
+  ],
+  "fetched": "2026-11-06"
  },
  {
   "site": "Kitco News",
@@ -1768,6 +1951,30 @@
    "铝"
   ],
   "fetched": "2026-11-04"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/indias-pg-foils-and-bahrain-join-hands-to-build-high-value-aluminium-foil-plant-121788",
+  "title": "India’s PG Foils and Bahrain join hands to build high-value aluminium foil plant",
+  "desc": "Explore: PG Foils plans a Bahrain aluminium foil plant for EV battery and pharmaceutical applications, expanding downstream production.",
+  "date": "2026-11-02",
+  "id": "2fd93ccea9b5",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-06"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/ghana-hosts-guinean-investor-at-17-5b-nyinahin-bauxite-deposit-after-rusal-121787",
+  "title": "Ghana hosts Guinean investor at $17.5b Nyinahin bauxite deposit after RUSAL",
+  "desc": "Ghana hosts Guinea’s ORG Technology at Nyinahin bauxite deposits days after agreeing with Rusal to develop a mine and alumina refinery.",
+  "date": "2026-11-02",
+  "id": "1447da073479",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-06"
  },
  {
   "site": "Mining.com",
