@@ -4329,6 +4329,18 @@
   "fetched": "2026-10-28"
  },
  {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/red-mud-based-concrete-cuts-carbon-footprint-by-up-to-79-8-in-trinity-college-dublin-study-121709",
+  "title": "Red mud-based concrete cuts carbon footprint by up to 79.8% in Trinity College Dublin study",
+  "desc": "Trinity College Dublin is testing red mud-based geopolymer concrete, reporting 67.8–79.8% lower carbon footprints than a conventional cement reference.",
+  "date": "2026-10-27",
+  "id": "0de36b9d32aa",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-07"
+ },
+ {
   "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/canadian-fed-grants-193m-to-modernise-two-aluminium-smelters-2026-10-26",
   "title": "Canadian fed grants $193m to modernise two aluminium smelters",
@@ -9255,6 +9267,18 @@
    "铜"
   ],
   "fetched": "2026-10-16"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/60kt-a-year-red-bull-backs-speiras-40m-aluminium-recycling-furnace-at-rheinwerk-121519",
+  "title": "60kt a year: Red Bull backs Speira’s €40m aluminium recycling furnace at Rheinwerk",
+  "desc": "Explore: Speira completes its EUR 40 million Rheinwerk upgrade, adding 60,000-tonne aluminium beverage can recycling capacity.",
+  "date": "2026-10-12",
+  "id": "738ea53a0e73",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-07"
  },
  {
   "site": "Mining.com",
