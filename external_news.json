@@ -1,5 +1,17 @@
 [
  {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/al-circle-analysis-alumina-prices-fall-22-ghana-advances-bauxite-projects-global-aluminium-production-rises-2-1-121875",
+  "title": "AL Circle Analysis: Alumina prices fall 22%, Ghana advances bauxite projects & global aluminium production rises 2.1%",
+  "desc": "Overseas alumina prices fall 22% as Ghana advances bauxite projects and global aluminium production rises 2.1% in Q3 2026.",
+  "date": "2026-11-07",
+  "id": "bec13318d7f5",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-07"
+ },
+ {
   "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/resolution-copper-mining-approves-144m-investment-in-arizona-project-2026-11-06",
   "title": "Resolution Copper Mining approves $144m investment in Arizona project",
@@ -376,6 +388,103 @@
    "铝"
   ],
   "fetched": "2026-11-06"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/copper-faces-further-slide-after-us-vote-td/",
+  "title": "Copper faces further slide after US vote: TD",
+  "desc": "Copper could fall further as Democratic Party gains in the United States midterm elections weaken expectations for import tariffs.",
+  "date": "2026-11-06",
+  "id": "9af34a5e73c7",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-07"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-06/hindalco-posts-profit-rise-firmer-metal-prices-sees-elevated-fuel",
+  "title": "Hindalco posts profit rise on firmer metal prices, sees elevated fuel costs",
+  "desc": "India’s Hindalco Industries (NSE: HALC) flagged concerns over elevated fuel costs in the third quarter after it reported a jump in second-quarter profit on Friday, aided by higher aluminium prices. Rising coal costs could eat into gains from higher metal prices at one of India’s biggest aluminium and copper producers, even as the company expects aluminium prices to hold near current levels for the",
+  "date": "2026-11-06",
+  "id": "a9e2fdcd5756",
+  "metals": [
+   "铜",
+   "铝"
+  ],
+  "fetched": "2026-11-07"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-06/democrats-midterm-sweep-gives-gold-boost-federal-reserve-still-holds-cards",
+  "title": "Democrats' midterm sweep gives gold a boost, but the Federal Reserve still holds the cards",
+  "desc": "(Kitco News) - The Democratic Party's sweeping victory in the U.S. midterm elections has created some positive momentum in the gold market, but recent price action shows that political developments remain a secondary concern as the Federal Reserve's monetary policy continues to dominate investor sentiment.Although gold prices rallied sharply following the election, investors are once again watchin",
+  "date": "2026-11-06",
+  "id": "a38597f278ed",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-07"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-06/wall-street-split-gold-following-dems-midterm-rout-main-street-bulls",
+  "title": "Wall Street split on gold following Dems’ midterm rout, Main Street bulls emboldened after post-election price rally",
+  "desc": "(Kitco News) – Gold prices staged a strong recovery during a volatile week, as an early rebound from last week's sharp selloff gained momentum following the Democratic sweep of Congress in Tuesday's midterm elections, before a technology-led equity rout and stronger-than-expected U.S. payrolls ate into the precious metal's gains.Spot gold kicked off the week trading at $3,875.21 per ounce on Sunda",
+  "date": "2026-11-06",
+  "id": "c11774900937",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-07"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-06/dems-spending-plans-would-crush-us-dollar-and-gives-gold-floor-phoenix",
+  "title": "Dems' spending plans ‘would crush the U.S. dollar’ and ‘that gives gold a floor’ – Phoenix Futures’ Grady",
+  "desc": "(Kitco News) – The incoming Democratic Congress will have no choice but to embrace the AI buildout if they want the revenue to fund their spending priorities – and that spending will likely weaken the dollar and boost gold, according to Kevin Grady, president of Phoenix Futures and Options.Grady said he was surprised to see the market’s initial reaction to the midterm results.“Yesterday was the me",
+  "date": "2026-11-06",
+  "id": "fcf75c4c603b",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-07"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-06/gold-price-holds-critical-4000-support-strong-us-jobs-data-and-inflation",
+  "title": "Gold price holds critical $4,000 support, but strong U.S. jobs data and inflation risks threaten recovery",
+  "desc": "(Kitco News) - A dramatic shift in U.S. domestic politics, as the Democratic Party swept the midterm elections to take control of Congress, helped push gold prices back above $4,000 an ounce. The precious metal has managed to defend this critical pivot level ahead of the weekend, even as the U.S. labor market appears to be firing on all cylinders again.Despite market resilience and optimism, analy",
+  "date": "2026-11-06",
+  "id": "3f96b35535d1",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-07"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-06/gold-and-greenback-are-still-mercy-trump-and-fed-walsh-tradings-weyer",
+  "title": "Gold and the greenback are still at the mercy of Trump and the Fed – Walsh Trading’s Weyer",
+  "desc": "(Kitco News) – The results of the midterm elections were decisive, but the future path of the dollar and gold still remains largely in the hands of the Federal Reserve and the President, according to John Weyer, co-director of commercial hedging at Walsh Trading.Weyer said that while the election removes some uncertainty from the market, it has no impact on the Federal Reserve, and precious metals",
+  "date": "2026-11-06",
+  "id": "0bfb8b3bb91f",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-07"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/bell-bay-aluminium-navigates-workforce-changes-after-government-backed-rescue-121870",
+  "title": "Bell Bay Aluminium navigates workforce changes after government-backed rescue",
+  "desc": "Explore how Bell Bay Aluminium is navigating workforce changes following an AUD 200 million government support package",
+  "date": "2026-11-06",
+  "id": "44b4164352e3",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-07"
  },
  {
   "site": "Mining Weekly",
@@ -1877,6 +1986,18 @@
    "铝"
   ],
   "fetched": "2026-11-04"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/nalco-reports-q2-fy27-net-sales-of-inr-53-8b-up-26-2-year-on-year-121806",
+  "title": "NALCO reports Q2 FY27 net sales of INR 53.8b, up 26.2% year-on-year",
+  "desc": "NALCO’s Q2 FY2026-27 net sales rose 26.2% year-on-year to INR 53.80 billion, supported by aluminium operations and expansion plans.",
+  "date": "2026-11-03",
+  "id": "b9435ce83762",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-07"
  },
  {
   "site": "Mining Weekly",
