@@ -13,6 +13,18 @@
  },
  {
   "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/peterborough-launches-aluminium-can-art-competition-to-promote-recycling-121866",
+  "title": "Peterborough launches aluminium can art competition to promote recycling",
+  "desc": "Peterborough City Council launches an aluminium can art competition, encouraging schools and community groups to promote recycling and environmental awareness.",
+  "date": "2026-11-08",
+  "id": "ec4639057ead",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-08"
+ },
+ {
+  "site": "AlCircle",
   "url": "https://www.alcircle.com/news/al-circle-analysis-alumina-prices-fall-22-ghana-advances-bauxite-projects-global-aluminium-production-rises-2-1-121875",
   "title": "AL Circle Analysis: Alumina prices fall 22%, Ghana advances bauxite projects & global aluminium production rises 2.1%",
   "desc": "Overseas alumina prices fall 22% as Ghana advances bauxite projects and global aluminium production rises 2.1% in Q3 2026.",
