@@ -1,6 +1,18 @@
 [
  {
   "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/india-s-aluminium-market-gains-momentum-as-demand-reaches-1-735-million-tonnes-121871",
+  "title": "India's aluminium market gains momentum as demand reaches 1.735 million tonnes",
+  "desc": "Explore how India's aluminium demand is gaining momentum, with Hindalco projecting 1.735 million tonnes in Q2 FY2027.",
+  "date": "2026-11-08",
+  "id": "ba78a87871ee",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-08"
+ },
+ {
+  "site": "AlCircle",
   "url": "https://www.alcircle.com/news/al-circle-analysis-alumina-prices-fall-22-ghana-advances-bauxite-projects-global-aluminium-production-rises-2-1-121875",
   "title": "AL Circle Analysis: Alumina prices fall 22%, Ghana advances bauxite projects & global aluminium production rises 2.1%",
   "desc": "Overseas alumina prices fall 22% as Ghana advances bauxite projects and global aluminium production rises 2.1% in Q3 2026.",
@@ -46,6 +58,18 @@
    "铝"
   ],
   "fetched": "2026-11-07"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/sampat-aluminium-revenue-rises-to-1-250m-as-one-off-gain-lifts-profit-121873",
+  "title": "Sampat Aluminium revenue rises to ₹1,250m as one-off gain lifts profit",
+  "desc": "Explore how Sampat Aluminium's revenue increased to INR 1,250.9 million as a one-off machinery-sale gain supported its first-half profit, despite weaker pre-exceptional earnings.",
+  "date": "2026-11-07",
+  "id": "8f5778f89bdc",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-08"
  },
  {
   "site": "Mining Weekly",
@@ -1589,6 +1613,18 @@
   "fetched": "2026-11-05"
  },
  {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/chinas-aluminium-container-exports-rise-36-1-in-h1-2026-as-vietnam-remains-top-destination-121818",
+  "title": "China’s aluminium container exports rise 36.1% in H1 2026 as Vietnam remains top destination",
+  "desc": "China’s HS 7612 exports rose 36.1% in H1 2026, with Guinea, India and Cambodia recording strong growth among key destinations.",
+  "date": "2026-11-04",
+  "id": "8d1b94b29b4c",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-08"
+ },
+ {
   "site": "Mining.com",
   "url": "https://www.mining.com/acgs-220-million-blue-moon-deal-creates-european-copper-giant/",
   "title": "ACG’s $220 million Blue Moon deal creates European copper giant",
@@ -2034,6 +2070,18 @@
    "铝"
   ],
   "fetched": "2026-11-07"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/vietnams-450-000-tonne-aluminium-project-enters-trial-production-four-months-ahead-of-schedule-121815",
+  "title": "Vietnam’s 450,000tpa Dak Nong aluminium project starts second-phase production four months ahead of schedule",
+  "desc": "Vietnam’s Da Nong aluminium project starts second-phase production four months early, marking progress in the country’s first primary aluminium project.",
+  "date": "2026-11-03",
+  "id": "84d65b656b4e",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-08"
  },
  {
   "site": "Mining Weekly",
