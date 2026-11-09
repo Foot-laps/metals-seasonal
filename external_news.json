@@ -25,6 +25,422 @@
   "fetched": "2026-11-09"
  },
  {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/vale-base-metals-to-triple-earnings-to-5b-for-2026-ceo-says/",
+  "title": "Vale Base Metals to triple earnings to $5B for 2026, CEO says",
+  "desc": "VBM produced 382,300 tonnes of copper and 177,200 tonnes of nickel in 2025, increases of 10% and 11%, respectively.",
+  "date": "2026-11-09",
+  "id": "8bddfb7b5256",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/copper-price-bounces-after-worst-week-since-march-amid-scramble-for-metal-in-china/",
+  "title": "Copper price bounces after worst week since March amid scramble for metal in China",
+  "desc": "The Yangshan premium for copper shipped into China climbed to a record $230 a tonne on Monday, spot premiums in Shanghai have tripled in two weeks, and deliverable stocks on the SHFE would cover less than a day of Chinese consumption.",
+  "date": "2026-11-09",
+  "id": "96cf005add43",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/meridian-weighs-400-million-investment-decision-for-cabacal-mine/",
+  "title": "Meridian weighs $400 million investment decision for Cabaçal mine",
+  "desc": "Meridian’s copper-gold mine in Brazil has received more than twenty financing proposals.",
+  "date": "2026-11-09",
+  "id": "83f855787ae3",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/barrick-targets-november-filing-for-north-american-ipo/",
+  "title": "Barrick targets November filing for North American IPO",
+  "desc": "The offering follows an August agreement with Newmont to contribute to their Nevada Gold Mines joint venture.",
+  "date": "2026-11-09",
+  "id": "0353b09d66fa",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/32-billion-later-codelcos-future-hinges-on-private-partners/",
+  "title": "$32 billion later and nothing to show for it: Codelco’s future hinges on private partners",
+  "desc": "Board chairman Bernardo Fontaine sounded the alarm as copper output fell despite massive capital pending over eight years.",
+  "date": "2026-11-09",
+  "id": "931d512626bd",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/codelco-pucobre-clear-key-hurdle-for-870-million-copper-mine/",
+  "title": "Codelco, Pucobre clear key hurdle for $870 million copper mine",
+  "desc": "Chilean partners plan to begin construction in 2027 on a copper operation featuring solar power and a seawater supply system.",
+  "date": "2026-11-09",
+  "id": "c88220ce57fb",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/agnico-spends-early-to-curb-mine-cost-blowouts/1003897579/",
+  "title": "Agnico spends early to curb cost blowouts, CEO says",
+  "desc": "Agnico Eagle Mines (TSX, NYSE: AEM), Canada’s top gold producer is willing to spend more and wait longer before committing to new mines to avoid...",
+  "date": "2026-11-09",
+  "id": "4e4f75485313",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/barrick-targets-november-filing-for-north-american-ipo/1003897540/",
+  "title": "Barrick targets November filing for North American IPO",
+  "desc": "Barrick Mining (TSX: ABX; NYSE: B) said it plans to file for an initial public offering of its North American gold business this month as...",
+  "date": "2026-11-09",
+  "id": "ee7fa3e717ce",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/abrasilver-extends-diablillos-gold-zone-in-argentina/1003897544/",
+  "title": "AbraSilver extends Diablillos gold zone in Argentina",
+  "desc": "AbraSilver Resource (TSX: ABRA; US-OTC: ABBRF) has extended gold mineralization beyond the planned Oculto pit at its Diablillos project in Argentina, adding growth potential ahead...",
+  "date": "2026-11-09",
+  "id": "ab7587c9a86e",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/codelco-needs-partners-to-halt-copper-decline-chair/1003897573/",
+  "title": "Codelco needs partners to halt copper decline: chair",
+  "desc": "Chile’s state-owned Codelco needs more partnerships with private miners to halt its copper production decline, chairman Bernardo Fontaine told Santiago radio station Duna on Monday....",
+  "date": "2026-11-09",
+  "id": "2878ec0bc535",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/codelco-pucobre-win-permit-for-870m-copper-project/1003897549/",
+  "title": "Codelco, Pucobre win permit for $870M copper project",
+  "desc": "Chile’s state-owned Codelco and Pucobre (Santiago: PUCOBRE) won environmental approval on Oct. 23 for their $870-million (C$1.23 billion) Tovaku copper project, advancing a partnership that...",
+  "date": "2026-11-09",
+  "id": "9a154a3c0034",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/meridian-appoints-epcm-firm-for-cabaal-mulls-funding-offers-2026-11-09",
+  "title": "Meridian appoints EPCM firm for Cabaçal, mulls funding offers",
+  "desc": "London and Toronto-listed Meridian Mining has tasked international engineering firm AFRY to undertake engineering, procurement and construction management (EPCM) on Brazil's next copper/gold mine, Cabaçal. The contract marks another step toward a final investment decision on the project, with Meridian also advancing the selection of project finance partners.",
+  "date": "2026-11-09",
+  "id": "a0feb971bfb9",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/golds-short-term-volatility-contrasts-with-long-term-bullishness---reuters-column-2026-11-09",
+  "title": "Gold's short-term volatility contrasts with long-term bullishness",
+  "desc": "Gold appears to be finding a floor around $4 000/oz as it battles competing short-term influences and a shift in how it is traded. The spot price of the precious metal ended at $4 065/oz on November 6, having recovered from its low so far this year of $3 869/oz on October 30.",
+  "date": "2026-11-09",
+  "id": "1a96a0232c57",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/barricks-copper-mill-construction-in-zambia-nearing-completion-2026-11-09",
+  "title": "Barrick’s copper mill construction in Zambia nearing completion",
+  "desc": "The on-schedule construction of a copper mill in Zambia by Barrick Mining as part of the Lumwana expansion project is heading for completion in the fourth quarter (Q4) of this year, the New York and Toronto-listed gold- and copper-producing Barrick reported on Monday, November 9. Since inception, $795-million capital has been spent to date with total expected project capital remaining on target at",
+  "date": "2026-11-09",
+  "id": "dd684bfc2374",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/bunker-hill-completes-merger-with-silver47-to-create-major-american-silver-producer-2026-11-09",
+  "title": "Bunker Hill completes merger with Silver47 to create major American silver producer",
+  "desc": "Canadian company Bunker Hill Mining Corporation has completed a merger with Silver47 Exploration, which will soon see the enlarged entity, Bunker Hill Silver Corporation, listed on the TSX. The merger, which creates a 'made in America' silver and critical minerals producer, involved Bunker acquiring all of the issued and outstanding shares of Silver47 by way of a court-approved plan of arrangement",
+  "date": "2026-11-09",
+  "id": "7bd9fa7115c3",
+  "metals": [
+   "银"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/metso-secures-9m-order-for-new-dry-grinding-tech-in-nevada-2026-11-09",
+  "title": "Metso secures €9m order for new dry grinding tech in Nevada",
+  "desc": "Mineral processing equipment supplier Metso has secured a €9-million contract to supply dry grinding and associated auxiliary equipment to First Majestic Silver Corporation's Jerritt Canyon gold mine restart project in Nevada. The order, which will comprise Metso Loesche Vertical Roller Mill (VRM) dry grinding technology, represents a milestone in bringing this technology to the mining industry an",
+  "date": "2026-11-09",
+  "id": "85c32b080e3a",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/four-copper-targets-defined-at-aterians-botswana-licence-2026-11-09",
+  "title": "Four copper targets defined at Aterian’s Botswana licence",
+  "desc": "London-listed Aterian has announced that drone magnetic surveying and 3D geophysical interpretation have defined four priority copper/silver target areas across an about 20 km prospective corridor at prospecting licence PL199/2025 in Botswana’s Kalahari Copper Belt. The work programme is fully funded through the company’s AI joint venture with Lithosquare.",
+  "date": "2026-11-09",
+  "id": "af25dc1297bf",
+  "metals": [
+   "铜",
+   "银"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/okopa-advances-namibian-copper-project-2026-11-09",
+  "title": "Okopa advances Namibian copper project",
+  "desc": "Aim-listed Okopa has announced the start of activities across the licences held by its 51%-owned subsidiary, Cornerstone Mining, together with the signing of agreements to facilitate copper oxide production in the short term. The licences cover 6 214 ha of highly prospective copper exploration and development ground within the Kaoko copperbelt, in the Kunene region of north-western Namibia.",
+  "date": "2026-11-09",
+  "id": "352292781cb1",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/akobo-reports-solid-october-2026-11-09",
+  "title": "Akobo reports solid October",
+  "desc": "Scandinavian gold producer Akobo Minerals produced about 12 kg of doré gold from its Segele underground mine, in Ethiopia, at an average processed grade of 11 g/t in October, providing a solid start to the fourth quarter, the company notes in an operational update for the month. Cumulative gold production since mining started at the operation has now reached about 181 kg.",
+  "date": "2026-11-09",
+  "id": "f3e5cb04221f",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-09/barrick-beats-q3-earnings-expectations-gold-production-improves-maintains",
+  "title": "Barrick beats Q3 earnings expectations as gold production improves, maintains 2026 guidance",
+  "desc": "Correction: This article has been updated to correct the third-quarter earnings comparison. An earlier version incorrectly stated that the company missed earnings expectations because of incomplete estimates.(Kitco News) - Barrick Mining Corporation (NYSE: B, TSX: ABX) reported better-than-expected third-quarter earnings as stronger gold production and higher realized prices helped offset rising o",
+  "date": "2026-11-09",
+  "id": "4fad70650bc1",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-09/gold-silver-advance-dollar-weakens-fed-rate-expectations-face-inflation",
+  "title": "Gold, silver advance as dollar weakens, Fed rate expectations face inflation test - Kitco PM Report",
+  "desc": "(Kitco NewsWire) - Spot gold and silver prices were sharply higher in late U.S. trading Monday, supported by a weaker U.S. dollar and a steep decline in crude oil prices as investors responded to renewed hopes for a diplomatic resolution to the U.S.-Iran conflict. The retreat in energy prices eased some inflation concerns ahead of Tuesday's U.S. consumer price index report, although Friday's stron",
+  "date": "2026-11-09",
+  "id": "47a69af7aa7b",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-09/gold-and-silver-prices-extend-post-election-rebound-central-banks-pace-beat",
+  "title": "Gold and silver prices extend post-election rebound, central banks on pace to beat 2025 purchases – Heraeus",
+  "desc": "(Kitco News) – Gold and silver are continuing to build on last week’s strong rally following the Democratic sweep of the midterm elections, but the precious metals will likely face pressure from resurgent oil prices and elevated Fed rate expectations, according to analysts at Heraeus.In their latest update, the analysts noted that gold prices saw a sharp rebound last week soon after dropping to a ",
+  "date": "2026-11-09",
+  "id": "4a437e8c1919",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-09/gold-silver-rise-iran-diplomacy-pressures-crude-dollar-weakens-kitco-am",
+  "title": "Gold, silver rise as Iran diplomacy pressures crude, dollar weakens - Kitco AM Report",
+  "desc": "(Kitco NewsWire) – Spot gold and silver prices were higher in early U.S. trading Monday, supported by a softer dollar, easing crude oil prices and renewed hopes for a diplomatic resolution to the U.S.-Iran conflict. Lower energy prices reduced some inflation concerns ahead of Tuesday's U.S. consumer price index report, although Friday's stronger-than-expected employment figures reinforced expectat",
+  "date": "2026-11-09",
+  "id": "e4078d147a1a",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "BullionVault",
+  "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-nvda-nasdaq-110920261",
+  "title": "Gold Gains as NVDA 'Spy' Scandal Extends Nasdaq Tech Stock Sell-Off | Gold News",
+  "desc": "Gold rose again Monday, extending last week's rebound as Nvidia's 'spy' risked extending the Nasdaq AI and tech-stock plunge >>",
+  "date": "2026-11-09",
+  "id": "7cefce4986a5",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "世界黄金协会",
+  "url": "https://www.gold.org/goldhub/gold-focus/2026/11/weekly-markets-monitor-surprise-surprise",
+  "title": "Weekly Markets Monitor - Surprise, surprise",
+  "desc": "Last week saw a shift in the US political landscape, weakness in technology stocks, a sharp drop in oil, and broadly resilient macro data. The Democratic midterms victory tempered expectations of further fiscal expansion while raising the prospect of tighter AI regulation. Meanwhile, US data remained strong, supported by strength in labour markets and business activity. In Europe, inflation edged ",
+  "date": "2026-11-09",
+  "id": "bf55b1851c9a",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/packaging-sales-are-up-profits-are-down-toyo-seikan-faces-aluminium-cost-squeeze-as-aluminium-prices-climb-33-1-121900",
+  "title": "Packaging sales are up, profits are down: Toyo Seikan faces aluminium cost squeeze as raw materials prices climb 33.1%",
+  "desc": "Explore how rising aluminium prices and raw material inflation affected Toyo Seikan's packaging business, as first-half revenue increased 3.6 per cent but operating profit declined 7.7 per cent.",
+  "date": "2026-11-09",
+  "id": "c9f0e4978a23",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/molson-coors-faces-30m-midwest-premium-hit-as-q3-results-disappoint-121899",
+  "title": "Molson Coors faces $30m Midwest Premium hit as Q3 results disappoint",
+  "desc": "Explore how US$30 million in unfavourable Midwest Premium pricing added to Molson Coors' Q3 cost pressures.",
+  "date": "2026-11-09",
+  "id": "f5537e30277a",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/iran-pushes-aluminium-value-addition-with-advanced-nanostructured-coatings-121898",
+  "title": "Iran pushes aluminium value addition with advanced nanostructured coatings",
+  "desc": "Explore how Iran is advancing aluminium value addition through nanostructured anodising, developing specialised products for aerospace, medical equipment and other industrial applications.",
+  "date": "2026-11-09",
+  "id": "92189c8be13e",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/amazon-kindle-made-of-aluminium-features-recycled-metal-premium-design-and-replaceable-battery-121894",
+  "title": "Amazon Kindle made of aluminium features recycled metal, premium design and replaceable battery",
+  "desc": "Amazon's aluminium Kindle features recycled metal, a premium design and a replaceable battery, compared with its standard plastic model.",
+  "date": "2026-11-09",
+  "id": "8f7288af9877",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/ega-takes-aluminium-s-industrial-future-to-centre-stage-at-dubai-future-week-121896",
+  "title": "EGA takes aluminium's industrial future to centre stage at Dubai Future Week",
+  "desc": "Explore how Emirates Global Aluminium is bringing its industrial innovation and digital transformation experience to Dubai Future Week 2026.",
+  "date": "2026-11-09",
+  "id": "27bce5d89691",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/alcoas-8b-south32-deal-puts-worsley-alumina-workers-pay-and-conditions-to-the-fore-121893",
+  "title": "Alcoa’s $5.6b South32 deal puts Worsley Alumina workers’ pay and conditions to the fore",
+  "desc": "Explore: Worsley Alumina workers seek clarity on wages, bonuses and conditions around Alcoa’s USD 5.6 billion South32 acquisition.",
+  "date": "2026-11-09",
+  "id": "bf57e43b0899",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/metro-mining-ships-752-000-tonnes-of-bauxite-in-october-as-operations-recover-121892",
+  "title": "Metro Mining ships 752kt of bauxite in October as operations improve",
+  "desc": "Metro Mining shipped 752,000 WMT of bauxite in October, up 14%, as improved mining performance and loading operations supported production recovery.",
+  "date": "2026-11-09",
+  "id": "c50fb01310f7",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/china-aluminum-international-proposes-988m-epc-contract-for-guinea-alumina-project-121890",
+  "title": "China Aluminum International proposes $988m EPC contract for Guinea alumina project",
+  "desc": "China Aluminum International Engineering proposed a $998 million Guinea alumina EPC contract, alongside corporate transactions, as Chinese bauxite imports increased.",
+  "date": "2026-11-09",
+  "id": "2262829ec09f",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/impact-minerals-eyes-20kg-of-4n-high-purity-alumina-in-lake-hope-pilot-project-121889",
+  "title": "Impact Minerals eyes 20kg of 4N high-purity alumina in Lake Hope pilot project",
+  "desc": "Explore: Impact Minerals targets 20kg of 4N high-purity alumina through pilot testing at its Lake Hope HPA Project.",
+  "date": "2026-11-09",
+  "id": "8b9aa44f15d5",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
   "site": "AlCircle",
   "url": "https://www.alcircle.com/news/india-s-aluminium-market-gains-momentum-as-demand-reaches-1-735-million-tonnes-121871",
   "title": "India's aluminium market gains momentum as demand reaches 1.735 million tonnes",
@@ -5671,6 +6087,18 @@
   "fetched": "2026-11-06"
  },
  {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/bauxite-flows-face-a-q4-slowdown-as-guineas-150mt-export-cap-tightens-supply-121644",
+  "title": "Bauxite flows face a Q4 slowdown as Guinea’s 150Mt export cap tightens supply",
+  "desc": "Discover: Global bauxite flows may soften in Q4 2026 as Guinea’s export cap tightens supply and China’s imports also ease.",
+  "date": "2026-10-22",
+  "id": "283c7d6fa834",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
   "site": "Mining.com",
   "url": "https://www.mining.com/web/trader-known-for-big-aluminum-bets-is-back-with-wager-on-copper/",
   "title": "Trader known for big aluminum bets is back with wager on copper",
@@ -6118,6 +6546,18 @@
    "铝"
   ],
   "fetched": "2026-11-05"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/north-americas-aluminum-extrusion-demand-set-to-reach-3-54mt-by-2035-the-end-use-sectors-behind-the-climb-121623",
+  "title": "North America’s aluminum extrusion demand set to reach 3.54Mt by 2035: The end-use sectors behind the climb",
+  "desc": "North America’s aluminium extrusion demand is forecast to rise from 2.91Mt in 2025 to 3.54Mt by 2035, driven by opportunities in automotive, construction, electrical infrastructure and specialized industrial applications",
+  "date": "2026-10-21",
+  "id": "4f4749c3db5a",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-09"
  },
  {
   "site": "Mining.com",
