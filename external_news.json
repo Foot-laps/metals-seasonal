@@ -1,6 +1,31 @@
 [
  {
   "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/hindalco-sees-record-q2-net-profit-of-75-33b-novelis-revenue-rises-25-121888",
+  "title": "Hindalco sees record Q2 net profit of ₹75.33b, Novelis revenue rises 25%",
+  "desc": "Hindalco posted record Q2 FY2027 net profit of INR 75.33 billion, up 59%, driven by stronger aluminium, copper and Novelis earnings.",
+  "date": "2026-11-09",
+  "id": "b28c46742298",
+  "metals": [
+   "铜",
+   "铝"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/lme-aluminium-cash-offer-price-falls-1-30-to-3-117-t-on-november-6-as-stocks-dip-to-228-475t-121887",
+  "title": "LME aluminium cash offer price falls 1.30% to $3,117/t on November 6 as stocks dip to 228,475t",
+  "desc": "LME three-month and December 27 aluminium contracts declined by up to 1.57%, while live and cancelled warrants also recorded drops.",
+  "date": "2026-11-09",
+  "id": "d94f823f4df2",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-09"
+ },
+ {
+  "site": "AlCircle",
   "url": "https://www.alcircle.com/news/india-s-aluminium-market-gains-momentum-as-demand-reaches-1-735-million-tonnes-121871",
   "title": "India's aluminium market gains momentum as demand reaches 1.735 million tonnes",
   "desc": "Explore how India's aluminium demand is gaining momentum, with Hindalco projecting 1.735 million tonnes in Q2 FY2027.",
@@ -22,6 +47,18 @@
    "铝"
   ],
   "fetched": "2026-11-08"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/chinalco-international-transfers-60-jiuye-sanwei-stake-to-shenyang-institute-121884",
+  "title": "Chinalco International transfers 60% Jiuye Sanwei stake to Shenyang Institute",
+  "desc": "Explore how Chinalco International's RMB 100.08 million internal equity transfer aims to consolidate its concrete mixing equipment business.",
+  "date": "2026-11-08",
+  "id": "6ad49730b422",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-09"
  },
  {
   "site": "AlCircle",
