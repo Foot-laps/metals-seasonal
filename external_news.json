@@ -96,6 +96,408 @@
   "fetched": "2026-11-10"
  },
  {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/gunnison-hits-rich-copper-and-zinc-in-arizona/",
+  "title": "Gunnison hits rich copper and zinc in Arizona",
+  "desc": "The company has confirmed a high-grade copper-zinc zone at its Strong & Harris deposit.",
+  "date": "2026-11-10",
+  "id": "53fbcbb08162",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/firmer-dollar-middle-east-de-escalation-hopes-push-aluminium-to-three-week-low/",
+  "title": "Firmer dollar, Middle East de-escalation hopes push aluminum price to three-week low",
+  "desc": "Aluminium prices have declined 21% since reaching a four-year high in June as production ramps up.",
+  "date": "2026-11-10",
+  "id": "3b9c85673f2f",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/chinas-copper-concentrate-imports-slump-11-in-october-as-smelter-woes-deepen/",
+  "title": "China’s copper concentrate imports slump 11% in October as smelter woes deepen",
+  "desc": "The decline came as Chinese smelters faced mounting pressure from negative processing fees and declining sulphuric acid prices.",
+  "date": "2026-11-10",
+  "id": "b7099d4b4910",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/op-ed-can-chagai-become-a-low-carbon-battery-minerals-hub/",
+  "title": "Op-Ed: Can Chagai become a low-carbon battery minerals hub?",
+  "desc": "The largest district near Iran and Afghanistan has rich copper-gold deposits and renewable energy potential for mining.",
+  "date": "2026-11-10",
+  "id": "6f74102ce5c0",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/gold-price-falls-nearly-3-as-cpi-tops-forecasts-lifting-dollar-and-yields/",
+  "title": "Gold price falls nearly 3% as CPI tops forecasts, lifting dollar and yields",
+  "desc": "Hotter-than-expected US inflation data lifted the dollar and Treasury yields while reinforcing expectations of a bigger interest rate hike from the Federal Reserve this year.",
+  "date": "2026-11-10",
+  "id": "2380d708952b",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/discovery-beats-forecasts-despite-higher-gold-costs/",
+  "title": "Discovery beats forecasts despite higher gold costs",
+  "desc": "Discovery is aiming to more than double Porcupine’s annual gold output by expanding existing mines and restarting Dome as an open-pit deposit.",
+  "date": "2026-11-10",
+  "id": "b99ecea90adb",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/allied-gold-pours-first-gold-at-ethiopias-kurmuk-mine/",
+  "title": "Allied Gold pours first gold at Ethiopia’s Kurmuk mine",
+  "desc": "The new operation is set to boost the miner's African output as it targets higher production and shareholder returns by 2029.",
+  "date": "2026-11-10",
+  "id": "44812f2e9563",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/spotlight-four-early-us-exploration-bets/1003897523/",
+  "title": "Spotlight: Four US early exploration bets",
+  "desc": "A gold-copper intercept below old workings in Montana and a U.S. defence award for nickel exploration in Michigan show two ways early-stage projects can advance....",
+  "date": "2026-11-10",
+  "id": "464222512ee5",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/meridian-weighs-400m-cabacal-financing-offers/1003897638/",
+  "title": "Meridian weighs $400M Cabaçal financing offers",
+  "desc": "Meridian Mining (TSX: MNO; LSE: MNO) is weighing indicative financing packages of $400 million (C$565 million) as it begins pre-construction work at its Cabaçal copper-gold...",
+  "date": "2026-11-10",
+  "id": "5f1229c59789",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/discovery-beats-forecasts-despite-higher-gold-costs/1003897608/",
+  "title": "Discovery beats forecasts despite higher gold costs",
+  "desc": "Discovery Mining (TSX: DSV; US-OTC: DSVSF) reported stronger-than-expected third-quarter earnings as lower depreciation helped offset rising gold costs at its Porcupine operations in Ontario.Adjusted earnings...",
+  "date": "2026-11-10",
+  "id": "e56ebce01c06",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/scorpio-hits-gold-beyond-nevada-resource/1003897619/",
+  "title": "Scorpio hits gold beyond Nevada resource",
+  "desc": "Scorpio Gold (TSXV, Nasdaq: SGLD) has hit high-grade gold 850 metres from the core resource area at its Manhattan project in Nevada, opening a new...",
+  "date": "2026-11-10",
+  "id": "472bac4550ba",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/gunnison-hits-rich-copper-and-zinc-in-arizona/1003897612/",
+  "title": "Gunnison hits rich copper and zinc in Arizona",
+  "desc": "Gunnison Copper (TSX: GCU; NYSE-A: GUNN) has confirmed a high-grade copper-zinc zone at its Strong & Harris deposit in Arizona as it tests whether a...",
+  "date": "2026-11-10",
+  "id": "6926ae0be3dd",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/allied-gold-pours-first-gold-at-ethiopias-kurmuk-mine/1003897637/",
+  "title": "Allied Gold pours first gold at Ethiopia’s Kurmuk mine",
+  "desc": "Allied Gold (TSX: AAUC; NYSE: AAUC) has poured first gold at its Kurmuk mine in Ethiopia, bringing a major growth project into production as it...",
+  "date": "2026-11-10",
+  "id": "d6af62613771",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/canadas-montero-to-access-historical-bhp-drill-data-around-avispa-project-in-chile-2026-11-10",
+  "title": "Canada's Montero to access historical BHP drill data around Avispa project in Chile",
+  "desc": "TSX-V-listed Montero Mining and Exploration has entered into an exploration data licence agreement with diversified miner BHP Group's subsidiary in Chile that provides Montero with access to BHP's historical drilling database and associated geological information near Montero's Avispa copper/molybdenum project. Access to BHP's historical exploration dataset can materially enhance Montero's technic",
+  "date": "2026-11-10",
+  "id": "ed32150d60db",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/singapore-to-launch-gold-vault-service-for-foreign-central-banks-2026-11-10",
+  "title": "Singapore to launch gold vault service for foreign central banks",
+  "desc": "The Monetary Authority of Singapore (MAS) said on Tuesday it would launch a vaulting service to hold bullion for foreign central banks and lower taxes on some companies in the gold market as it competes for a bigger slice of the precious metals trade. \"Developing our gold market is an extension of Singapore's role as a trusted financial centre,\" said Deputy Prime Minister Gan Kim Yong, who is also",
+  "date": "2026-11-10",
+  "id": "072fdeab0db5",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/cobalt-blue-outlines-viability-of-silver-as-third-saleable-metal-from-halls-creek-in-australia-2026-11-10",
+  "title": "Cobalt Blue outlines viability of silver as third saleable metal from Halls Creek in Australia",
+  "desc": "ASX-listed Cobalt Blue has outlined in an updated scoping study on the Halls Creek project, in Western Australia, the viability of recovering silver. The study outlines a sequential development of the Onedin and Sandiego deposits using a common processing plant at Onedin to produce copper cathode, zinc oxide and silver doré.",
+  "date": "2026-11-10",
+  "id": "b7f7fb7bf947",
+  "metals": [
+   "铜",
+   "银"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/uru-starts-diamond-drilling-at-limpopo-nickel-project-2026-11-10",
+  "title": "URU starts diamond drilling at Limpopo nickel project",
+  "desc": "Aim-listed mineral exploration and development company URU Metals has started diamond drilling at its Zeb nickel project, in Limpopo. The initial programme comprises eight planned holes totalling about 3 850 m and focused on the project’s Zone 2 nickel/copper/platinum group element mineralisation.",
+  "date": "2026-11-10",
+  "id": "d392a8aea97c",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/gold-grade-from-worlds-deepest-mine-up-10-to-1155gt-2026-11-10",
+  "title": "Gold grade from world’s deepest mine up 10% to 11.55g/t",
+  "desc": "Mponeng Gold Mine – the world’s deepest mine at a depth of 4 km with extension towards 4.22 km planned – has delivered another strong quarter, Harmony reported in its operational update for the three months ended September 30. In the first quarter of Harmony's financial year 2027 (FY27), the recovered grade at Mponeng, near Carletonville in South Africa’s Gauteng province, increased by 10% to 11.5",
+  "date": "2026-11-10",
+  "id": "62bdd55f1b01",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/allied-gold-celebrates-first-gold-pour-at-ethiopia-mine-2026-11-10",
+  "title": "Allied Gold celebrates first gold pour at Ethiopia mine",
+  "desc": "TSX-listed Allied Gold has confirmed the first gold pour at its Kurmuk mine, in Ethiopia. The company says this achievement marks a significant milestone for Kurmuk as its newest producing mine and its lowest-cost operation.",
+  "date": "2026-11-10",
+  "id": "f72e0648c111",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-10/impossible-metals-says-it-has-successfully-tested-ai-seabed-mining",
+  "title": "Impossible Metals says it has successfully tested AI seabed mining robot",
+  "desc": "Deep-sea mining firm Impossible Metals said on Monday it has successfully tested an autonomous robot that uses AI to selectively retrieve critical minerals at depths of more than 4,000 meters (13,123 feet) in the Pacific Ocean.Parts of the ocean seabed contain potato-shaped rocks known as polymetallic nodules filled with copper, nickel and other minerals used in electric vehicles and electronics.M",
+  "date": "2026-11-10",
+  "id": "cf2dd418dab9",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-10/china-buys-gold-two-straight-years-central-bank-demand-remains-key-pillar",
+  "title": "China buys gold for two straight years as central bank demand remains a key pillar of support",
+  "desc": "(Kitco News) - After a busy third quarter, central banks continue to take advantage of lower gold prices to increase their official reserves. China continues to play a dominant role in the marketplace, increasing its reserves for two straight years.In social media posts highlighting October purchases, Krishan Gopaul, Senior Analyst, EMEA, at the World Gold Council, said that China bought 26 tonnes",
+  "date": "2026-11-10",
+  "id": "1c2a7d965eba",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-10/gold-reserve-repatriations-dont-mean-central-banks-are-de-dollarizing-feds",
+  "title": "Gold reserve repatriations don’t mean central banks are de-dollarizing – Fed’s Weiss",
+  "desc": "(Kitco News) – The highly publicized central bank gold reserve relocations and repatriations by the Netherlands, France, and Germany in recent years have had little impact on their U.S. dollar reserve allocations, according to Colin Weiss, Principal Economist for Global Financial Flows at the Federal Reserve.“Generally, the choice of where to custody gold reserves may in part reflect the perceived",
+  "date": "2026-11-10",
+  "id": "5e0022041c65",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-10/gold-silver-retreat-high-core-cpi-lifts-december-fed-hike-odds-kitco-am",
+  "title": "Gold, silver retreat as high core CPI lifts December Fed hike odds- Kitco AM Report",
+  "desc": "(Kitco NewsWire) – Spot gold and silver prices were sharply lower in early U.S. trading Tuesday, pressured by stronger-than-expected U.S. inflation data that reinforced expectations for another Federal Reserve interest rate increase in December. Both headline and core consumer prices rose more than economists had forecast in October, sending Treasury yields higher and adding to pressure on preciou",
+  "date": "2026-11-10",
+  "id": "6c6bd5e3feba",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-10/gold-prices-down-2-day-us-cpi-rises-more-expected",
+  "title": "Gold prices down 2% on the day as US CPI rises more than expected",
+  "desc": "(Kitco News) - The gold market has been hit with significant selling pressure as persistent inflation pressures are adding to fears that the Federal Reserve could aggressively raise interest rates next month to cool rising consumer prices.The Consumer Price Index (CPI) rose by 0.4% last month, following September’s 0.6% increase, the U.S. Bureau of Labor Statistics announced on Tuesday. The inflat",
+  "date": "2026-11-10",
+  "id": "d4a906acfdec",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "BullionVault",
+  "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-inflation-fed-hike-111020261",
+  "title": "Gold, Silver Fall as Rate-Hike Betting Jumps on Strong Inflation Data | Gold News",
+  "desc": "Strong US inflation data saw gold and silver erase yesterday's gains on Tuesday as Fed rate-hike betting jumped >>",
+  "date": "2026-11-10",
+  "id": "58c3a1412ce0",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "世界黄金协会",
+  "url": "https://www.gold.org/goldhub/gold-focus/2026/11/gold-miners-remain-resilient-despite-tighter-margins-q226",
+  "title": "Gold Miners Remain Resilient Despite Tighter Margins in Q2’26",
+  "desc": "The balance between gold prices and mining costs shifted in Q2’26. After an exceptional opening quarter, lower gold prices coincided with another increase in costs, putting margins under pressure. Global average gold producer All-In Sustaining Costs (AISC) rose by 8% q/q and 22% y/y to a record US$1,930/oz. Post by Oliver Blagden",
+  "date": "2026-11-10",
+  "id": "39adb899b570",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/all-about-how-permanent-magnet-engineering-is-tackling-more-than-one-aluminum-casthouse-challenge-121913",
+  "title": "All about how permanent-magnet engineering is tackling more than one aluminum casthouse challenge",
+  "desc": "Explore how Zmag America uses permanent-magnet technology for aluminium furnace stirring, molten-metal pumping and lightweight scrap submergence.",
+  "date": "2026-11-10",
+  "id": "d91952966df0",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/from-scrap-to-billets-clearflow-plans-major-secondary-aluminum-investment-in-kentucky-121916",
+  "title": "From scrap to billets: ClearFlow plans major secondary aluminum investment in Kentucky",
+  "desc": "Explore ClearFlow Metalworks' $28 million investment in a Kentucky aluminum facility, featuring 100,000 tons of planned annual production capacity and 50 new jobs.",
+  "date": "2026-11-10",
+  "id": "ec4ecdbd1b9a",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/impol-2000-sets-sights-on-stock-market-listing-due-to-declining-profits-121912",
+  "title": "Impol 2000 sets sights on stock market listing due to declining profits",
+  "desc": "Explore Impol 2000's planned stock market listing in Slovenia and the group's declining profitability in 2025.",
+  "date": "2026-11-10",
+  "id": "79b3c8b51a2a",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/equinox-gains-60-in-italys-master-group-eyes-european-aluminium-components-growth-121911",
+  "title": "Equinox gains 60% in Italy’s Master Group, eyes European aluminium components growth",
+  "desc": "Explore: Equinox IV acquires 60 per cent of Italy’s Master Group to support expansion in aluminium window and door components.",
+  "date": "2026-11-10",
+  "id": "8394ba9649a6",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/hydro-and-mercedes-benz-shift-gears-with-their-low-carbon-aluminium-partnership-121910",
+  "title": "Hydro and Mercedes-Benz shift gears with their low-carbon aluminium partnership",
+  "desc": "Explore how Hydro and Mercedes-Benz are expanding their low-carbon aluminium partnership.",
+  "date": "2026-11-10",
+  "id": "ee5cb1e413e4",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/camel-group-develops-two-phase-aluminium-packaging-facility-in-vietnam-with-1b-unit-annual-capacity-121905",
+  "title": "Camel Group develops two-phase aluminium packaging facility in Vietnam with 1b unit annual capacity",
+  "desc": "Camel Group is investing USD 106 million in a Vietnam aluminium packaging factory, which will have annual production capacity of one billion units.",
+  "date": "2026-11-10",
+  "id": "8b25e1c947ae",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/hydro-signs-mercedes-benz-aluminium-deal",
+  "title": "Hydro signs Mercedes-Benz aluminium deal",
+  "desc": "Mercedes-Benz has signed a long-term supply agreement with Norway's Hydro to source low-carbon aluminium, the German automaker said on Tuesday.",
+  "date": "2026-11-10",
+  "id": "527790127cf2",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
   "site": "AlCircle",
   "url": "https://www.alcircle.com/news/hindalco-sees-record-q2-net-profit-of-75-33b-novelis-revenue-rises-25-121888",
   "title": "Hindalco sees record Q2 net profit of ₹75.33b, Novelis revenue rises 25%",
@@ -4063,6 +4465,18 @@
   "fetched": "2026-10-29"
  },
  {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/vedanta-q2-fy27-profit-jumps-to-62-02b-aluminium-ebitda-soars-83-with-record-649kt-output-121749",
+  "title": "Vedanta Q2 FY27 profit jumps to ₹62.02b; Aluminium EBITDA soars 83% with record 649kt output",
+  "desc": "Explore: Vedanta’s Q2 FY27 profit rises 151 per cent, while Vedanta Aluminium’s profit hit INR 61.87 billion with 640,000-tonne output.",
+  "date": "2026-10-29",
+  "id": "0010ee1765c9",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
   "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/centaurus-secures-100-jaguar-nickel-production-offtake-with-glencore-cngr-2026-10-28",
   "title": "Centaurus secures 100% Jaguar nickel production offtake with Glencore, CNGR",
@@ -5756,6 +6170,18 @@
    "铝"
   ],
   "fetched": "2026-11-04"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/irbc-project-explores-traceability-in-aluminium-and-bauxite-supply-chains-for-renewable-energy-121654",
+  "title": "IRBC project explores traceability in aluminium and bauxite supply chains for renewable energy",
+  "desc": "IRBC completed a project with Siemens Gamesa, TKF and Minespider to improve aluminium and bauxite supply-chain transparency using digital passports.",
+  "date": "2026-10-23",
+  "id": "a3ea8126f689",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-10"
  },
  {
   "site": "The Northern Miner",
