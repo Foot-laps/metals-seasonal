@@ -1,5 +1,101 @@
 [
  {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/barricks-marquee-gold-project-faces-hazy-study-timing/",
+  "title": "Barrick’s Marquee gold project faces hazy study timing",
+  "desc": "Barrick has touted Fourmile as “one of the century’s greatest gold discoveries.\"",
+  "date": "2026-11-10",
+  "id": "90df2ae3edd4",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/aluminum-faces-severe-squeeze-as-london-market-awaits-new-supply/",
+  "title": "Aluminum faces severe squeeze as London market awaits new supply",
+  "desc": "Buyers are facing rising prices for spot metal and little immediate prospect of relief.",
+  "date": "2026-11-10",
+  "id": "907969dc2cd8",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/canada-expands-us-tariff-exemptions-cuts-some-aluminium-relief-2026-11-10",
+  "title": "Canada expands US tariff exemptions, cuts some aluminium relief",
+  "desc": "Prime Minister Mark Carney’s government is changing the rules for importers, allowing them to apply for exemptions from Canadian tariffs on a wider range of US goods while ending relief on some American-made aluminium products. When US President Donald Trump began imposing tariffs on Canadian goods in March 2025, Canada responded with retaliatory levies. But Carney’s government allowed importers t",
+  "date": "2026-11-10",
+  "id": "666425018144",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/chiles-codelco-needs-private-partners-to-halt-output-fall-board-chairman-says-2026-11-10",
+  "title": "Chile's Codelco needs private partners to halt output fall, board chairman says",
+  "desc": "Chilean State-owned miner Codelco's copper production will continue falling unless the company partners with private firms to develop new projects, board chairperson Bernardo Fontaine told a local radio station on Monday. The miner has been struggling to recover its output following record lows between 2022 and 2023, as delays in key projects, accidents, low ore grades, and a recent scandal involv",
+  "date": "2026-11-10",
+  "id": "271b4792e814",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/inventory-drawdown-supports-aluminium-prices-weakening-demand-at-end-of-peak-season-limits-rebound-space-121902",
+  "title": "Inventory drawdown supports aluminium prices; Weakening demand at end of peak season limits rebound space",
+  "desc": "Aluminium prices consolidate as SHFE and LME markets face weak demand, tightening inventories, rising scrap costs and mixed macroeconomic signals.",
+  "date": "2026-11-10",
+  "id": "1e5ba0c113d0",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/indias-dgtr-opens-anti-dumping-investigation-into-aluminium-extrusions-from-china-and-southeast-asia-121903",
+  "title": "India’s DGTR opens anti-dumping investigation into aluminium extrusions from China and Southeast Asia",
+  "desc": "India has launched an anti-dumping investigation into aluminium extrusion imports from China, Malaysia, Vietnam and Thailand following domestic manufacturers’ complaint.",
+  "date": "2026-11-10",
+  "id": "197467b6ff71",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/lme-aluminium-price-recovers-to-3-147-t-as-live-warrants-fall-1-46-on-november-9-121904",
+  "title": "LME aluminium price recovers to $3,147/t as live warrants fall 1.46% on November 9",
+  "desc": "Explore: LME aluminium price recovers 1 per cent to USD 3,147 per tonne as the live warrants fall 1.46 per cent on November 9.",
+  "date": "2026-11-10",
+  "id": "ae7a37883026",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/weekly-china-s-alumina-prices-stabilise-on-supply-risks-but-weak-demand-caps-gains-121897",
+  "title": "WEEKLY: China's alumina prices stabilise on supply risks, but weak demand caps gains",
+  "desc": "China's alumina prices stabilise amid supply risks and rising production costs, while weak smelter demand limits further gains.",
+  "date": "2026-11-10",
+  "id": "a7c3f4dac7a1",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-10"
+ },
+ {
   "site": "AlCircle",
   "url": "https://www.alcircle.com/news/hindalco-sees-record-q2-net-profit-of-75-33b-novelis-revenue-rises-25-121888",
   "title": "Hindalco sees record Q2 net profit of ₹75.33b, Novelis revenue rises 25%",
@@ -439,6 +535,18 @@
    "铝"
   ],
   "fetched": "2026-11-09"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/op-ed-golds-short-term-volatility-contrasts-with-long-term-bullishness/",
+  "title": "Op-Ed: Gold’s short-term volatility contrasts with long-term bullishness",
+  "desc": "Gold battles competing short-term influences and a shift in how it is traded.",
+  "date": "2026-11-09",
+  "id": "16b16d6436b2",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-10"
  },
  {
   "site": "AlCircle",
