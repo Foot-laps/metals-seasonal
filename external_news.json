@@ -1,5 +1,89 @@
 [
  {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/century-aluminum-prepares-for-next-phase-of-4b-oklahoma-smelter-targets-2030-production-121908",
+  "title": "Century Aluminum prepares for next phase of $4B Oklahoma smelter, targets 2030 production",
+  "desc": "Century Aluminum says its $4 billion Oklahoma smelter is advancing despite opposition, while third-quarter shipments rose 32.8 per cent sequentially.",
+  "date": "2026-11-11",
+  "id": "8e3d39af990d",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-11"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/from-scrap-recovery-to-precision-processing-five-oems-shaping-aluminium-manufacturing-121921",
+  "title": "From scrap recovery to precision processing: Five OEMs shaping aluminium manufacturing",
+  "desc": "Five OEMs are advancing aluminium manufacturing through innovations in scrap recovery, billet casting, ingot preparation and coil processing.",
+  "date": "2026-11-11",
+  "id": "2f8fe1c557ea",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-11"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/vedanta-bets-on-captive-bauxite-as-omcl-pricing-dispute-threatens-cost-advantage-121919",
+  "title": "Vedanta bets on captive bauxite as OMCL pricing dispute threatens cost advantage",
+  "desc": "Explore how Vedanta's Sijimali bauxite mine could help reduce raw material costs, replace imported supplies and offset higher prices from Odisha Mining Corporation.",
+  "date": "2026-11-11",
+  "id": "419af1ed4e42",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-11"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/lme-aluminium-stocks-fall-52-6-in-nine-months-with-q3-average-down-43-6-year-on-year-121917",
+  "title": "LME aluminium stocks fall 52.6% in nine months, with Q3 average down 43.6% year on year",
+  "desc": "LME aluminium stocks fell 52.6% in nine months of 2026, with quarterly averages declining year on year and reaching 259,579 tonnes in Q3.",
+  "date": "2026-11-11",
+  "id": "a8046b0d6852",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-11"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/lme-aluminium-price-declines-to-3-137-t-as-contracts-post-1-dip-on-november-10-121920",
+  "title": "LME aluminium price declines to $3,137/t as contracts post 1% dip on November 10",
+  "desc": "Explore: LME aluminium price declines to USD 3,137 per tonne as contracts post over 1 per cent dip on November 10.",
+  "date": "2026-11-11",
+  "id": "9acceedc0ec0",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-11"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/china-bauxite-imports-seen-range-bound-as-supply-recovery-offsets-soft-alumina-demand-port-stocks-edge-lower-121909",
+  "title": "China bauxite imports seen range-bound as supply recovery offsets soft alumina demand; port stocks edge lower",
+  "desc": "China's bauxite imports face weak, range-bound prices as supply recovers, alumina demand remains soft and port inventories decline slightly.",
+  "date": "2026-11-11",
+  "id": "e8cf9972a39e",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-11"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/switzerland-explores-indonesian-bauxite-and-critical-minerals-for-domestic-manufacturing-121906",
+  "title": "Switzerland explores Indonesian bauxite and critical minerals for domestic manufacturing",
+  "desc": "Switzerland is exploring Indonesian critical mineral supplies for domestic manufacturing, with discussions covering bauxite, alumina, cobalt, nickel and investment cooperation.",
+  "date": "2026-11-11",
+  "id": "938e163c0d23",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-11"
+ },
+ {
   "site": "Mining.com",
   "url": "https://www.mining.com/web/barricks-marquee-gold-project-faces-hazy-study-timing/",
   "title": "Barrick’s Marquee gold project faces hazy study timing",
@@ -496,6 +580,55 @@
    "铝"
   ],
   "fetched": "2026-11-10"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/american-barrick-files-for-proposed-ipo/",
+  "title": "American Barrick files for proposed IPO",
+  "desc": "Barrick Mining announced Tuesday that its planned new publicly listed company will be named American Barrick Gold Corporation.",
+  "date": "2026-11-10",
+  "id": "825d6961b99c",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-11"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/aston-bays-storm-copper-study-puts-capex-at-165m/1003897661/",
+  "title": "Aston Bay’s Storm copper study puts capex at $165M",
+  "desc": "Aston Bay Holdings (TSXV: BAY; US-OTC: ATBHF) estimates developing and expanding its Storm copper project in Nunavut would cost C$164.7 million ($118.5 million), according to...",
+  "date": "2026-11-10",
+  "id": "ff4f13d8ec73",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-11"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-10/gold-silver-plunge-hotter-us-inflation-raises-prospect-larger-fed-rate-hike",
+  "title": "Gold, silver plunge as hotter U.S. inflation raises prospect of larger Fed rate hike - Kitco PM Report",
+  "desc": "(Kitco NewsWire) - Spot gold and silver prices were sharply lower in late U.S. trading Tuesday, as stronger-than-expected U.S. consumer inflation reinforced expectations for another Federal Reserve interest rate increase in December and raised the possibility of a larger policy adjustment. Treasury yields and the dollar advanced following the inflation report, placing renewed pressure on precious ",
+  "date": "2026-11-10",
+  "id": "0a270c837f49",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-11"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/alcoa-takeover-puts-south32-s-worsley-workforce-on-a-collision-course-over-pay-121918",
+  "title": "Alcoa takeover puts South32's Worsley workforce on a collision course over pay",
+  "desc": "Explore why South32 workers at Worsley Alumina have begun a 48-hour stoppage ahead of Alcoa's USD 5.6 billion acquisition.",
+  "date": "2026-11-10",
+  "id": "4858a65661d1",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-11"
  },
  {
   "site": "AlCircle",
@@ -3950,6 +4083,18 @@
    "铝"
   ],
   "fetched": "2026-11-04"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/north-american-aluminum-demand-rises-3-5-in-h1-2026-as-imports-offset-domestic-supply-decline-121773",
+  "title": "North American aluminum demand rises 3.5% in H1 2026 as imports offset domestic supply decline",
+  "desc": "North American aluminum demand rebounded in H1 2026, with rising imports of semi-fabricated products compensating for declining shipments from US and Canadian producers",
+  "date": "2026-10-30",
+  "id": "4f7c0a65afd3",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-11"
  },
  {
   "site": "Aluminium International Today",
