@@ -1,5 +1,65 @@
 [
  {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/codelco-adani-group-sign-pact-for-copper-exploration-project-2026-11-12",
+  "title": "Codelco, Adani Group sign pact for copper exploration project",
+  "desc": "Chile's State-run copper producer Codelco said on Wednesday it has signed a agreement with India's Adani Group to develop the Kaburkaala copper exploration project in Chile's northern region of Antofagasta. Adani would provide financing for the project, which could offer long-term supply for its smelting complex in Mundra, India, Codelco said in a statement.",
+  "date": "2026-11-12",
+  "id": "23e00223c60a",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-12"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/hindalco-plans-1-trillion-investment-pipeline-as-india-aluminium-demand-grows-121925",
+  "title": "Hindalco plans ₹1 trillion investment pipeline as India aluminium demand grows",
+  "desc": "Hindalco plans ₹1 trillion in potential and ongoing investments over five years, targeting capacity expansion and India's growing aluminium demand.",
+  "date": "2026-11-12",
+  "id": "ce6784717e4e",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-12"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/russian-origin-aluminium-makes-up-99-98-of-lme-available-stocks-in-october-despite-inventories-fall-121924",
+  "title": "Russian-origin aluminium makes up 99.98% of LME available stocks in October despite inventories fall",
+  "desc": "Russian-origin aluminium accounted for 99.98% of available LME stocks in October, while Indian metal made up the remaining 50 tonnes.",
+  "date": "2026-11-12",
+  "id": "d3e904d3c176",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-12"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/lme-aluminium-cash-offer-price-jumps-2-76-to-3-223-5-t-as-global-supply-squeeze-tightens-market-121923",
+  "title": "LME aluminium cash offer price jumps 2.76% to $3,223.5/t as global supply squeeze tightens market",
+  "desc": "LME aluminium cash prices rise 2.76% as falling inventories, backwardation and tightening spot supply intensify global market concerns.",
+  "date": "2026-11-12",
+  "id": "f9611bbeaca9",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-12"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/emirates-global-aluminium",
+  "title": "Emirates Global Aluminium financial report",
+  "desc": "Emirates Global Aluminium expanded its adjusted EBITDA margin to 30% in the first nine months of 2026, despite disruption caused by the conflict in the…",
+  "date": "2026-11-12",
+  "id": "7a39c6aabacc",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-12"
+ },
+ {
   "site": "AlCircle",
   "url": "https://www.alcircle.com/news/century-aluminum-prepares-for-next-phase-of-4b-oklahoma-smelter-targets-2030-production-121908",
   "title": "Century Aluminum prepares for next phase of $4B Oklahoma smelter, targets 2030 production",
@@ -362,6 +422,93 @@
    "铝"
   ],
   "fetched": "2026-11-11"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/troilus-hits-gold-in-quebec-ground-marked-as-waste/",
+  "title": "Troilus hits gold in Quebec ground marked as waste",
+  "desc": "The exploration work comes as Troilus assembles financing for a redevelopment on the site of a former gold-copper mine.",
+  "date": "2026-11-11",
+  "id": "fecd2ad6c85f",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-11-12"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/minerals-260-lines-up-a410m-for-gold-project/",
+  "title": "Minerals 260 lines up A$410M for gold project",
+  "desc": "The backing advances a potential 150,000-oz.-a-year producer near Kalgoorlie, while leaving the construction decision for 2027.",
+  "date": "2026-11-11",
+  "id": "fc6e261e947a",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-12"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-11/gold-miners-enjoy-strong-q2-despite-lower-gold-price-higher-expenses-and",
+  "title": "Gold miners enjoy strong Q2 despite lower gold price, higher expenses and operational disruptions – WGC’s Blagden",
+  "desc": "(Kitco News) – While the second quarter of the year saw gold prices pull back dramatically from the all-time highs of Q1, and rising expenses and operational disruptions ate into margins and profitability, gold miners still enjoyed an excellent Q2 by annual and historical measures, according to a new analysis by Oliver Blagden, Mine Supply Analyst at Metals Focus on behalf of the World Gold Counci",
+  "date": "2026-11-11",
+  "id": "95fa6c4edc35",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-12"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-11/gold-falls-below-4000-dollar-surges-fed-hike-bets-rise-kitco-pm-report",
+  "title": "Gold falls below $4,000 as dollar surges, Fed hike bets rise - Kitco PM Report",
+  "desc": "(Kitco NewsWire) - Spot gold prices were lower and spot silver prices were modestly higher in late U.S. trading Wednesday, as a stronger U.S. dollar and expectations for additional Federal Reserve interest rate increases continued to pressure bullion following Tuesday's hotter-than-expected inflation report. Gold surrendered its early gains and fell below $4,000.00 an ounce, while silver attracted",
+  "date": "2026-11-11",
+  "id": "5cce3f791710",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-12"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-11/gold-prices-fall-below-4000-analysts-warn-further-losses-toward-3900",
+  "title": "Gold prices fall below $4,000 as analysts warn of further losses toward $3,900",
+  "desc": "(Kitco News) - Gold prices have fallen below the critical $4,000-an-ounce level, and analysts warn that the precious metal could face further selling pressure as persistent inflation forces the Federal Reserve to maintain its tightening bias.Although gold managed to hold support around $4,000 for the past two weeks, the latest selling pressure threatens to undermine the market's recent recovery. A",
+  "date": "2026-11-11",
+  "id": "64210dfdea71",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-12"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-11/bmo-says-silvers-solar-boom-fading-investment-demand-unlikely-compensate",
+  "title": "BMO says silver’s solar boom is fading, investment demand unlikely to compensate",
+  "desc": "(Kitco News) - Growing fears that rising inflation will force the Federal Reserve to raise interest rates aggressively next month are weighing on gold, with the yellow metal down more than 1% on the day. However, silver is significantly outperforming, with prices holding above $51 an ounce, up 0.68% on the day.Although the gold-silver ratio is falling, one bank expects the overall trend to remain ",
+  "date": "2026-11-11",
+  "id": "d194a36c4e3e",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-12"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/india-launches-anti-dumping-probe-into-aluminium-extrusion-imports-from-china-malaysia-vietnam-and-thailand-121927",
+  "title": "India launches anti-dumping probe into aluminium extrusion imports from China, Malaysia, Vietnam and Thailand",
+  "desc": "India investigates aluminium extrusion imports from China, Malaysia, Vietnam and Thailand over dumping concerns raised by domestic manufacturers.",
+  "date": "2026-11-11",
+  "id": "8a4fa38a2fd6",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-12"
  },
  {
   "site": "Mining.com",
