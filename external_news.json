@@ -1,5 +1,17 @@
 [
  {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/al-circle-analysis-scrap-in-eu-thailand-25-trimet-co-cut-indias-16-3tco2-gap-draw-aluminiums-scrap-to-power-chain-121958",
+  "title": "AL Circle Analysis: Scrap in EU, Thailand, 25%Trimet CO₂ cut, India’s 16.3tCO2 gap draw aluminium supply chain",
+  "desc": "Explore: Aluminium scrap trade, and green power steer aluminium, from EU, Thailand’s ban, Trimet’s 25 per cent carbon cut to India’s 16.3 tCO2 gap.",
+  "date": "2026-11-14",
+  "id": "5c89b98c5d8d",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-14"
+ },
+ {
   "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/burbanks-and-munda-development-project-australia-2026-11-13",
   "title": "Burbanks and Munda development project, Australia",
@@ -581,6 +593,211 @@
    "铝"
   ],
   "fetched": "2026-11-13"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/freeport-strikes-110m-deal-for-bc-copper-stake/",
+  "title": "Freeport strikes $77M deal for BC copper stake",
+  "desc": "Freeport has committed to spend $30 million of the $80 million exploration total within three years of closing.",
+  "date": "2026-11-13",
+  "id": "d86931ce4ec0",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-14"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/capstone-cuts-copper-outlook-as-restart-slips/",
+  "title": "Capstone cuts copper outlook as restart slips",
+  "desc": "The company has lowered the bottom of its annual copper production forecast by 5,000 tonnes.",
+  "date": "2026-11-13",
+  "id": "9f5c7f91e8a1",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-14"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/chile-mulls-private-sector-role-in-codelcos-mines-and-infrastructure/",
+  "title": "Chile mulls private-sector role in Codelco’s mines and infrastructure",
+  "desc": "The strategy has implications for a global market struggling to bring on enough new supply to meet growing demand from power grids, electrification and data centers.",
+  "date": "2026-11-13",
+  "id": "00051d207838",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-14"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/copper-price-heads-for-biggest-weekly-drop-since-march-on-ai-rout/",
+  "title": "Copper price heads for biggest weekly drop since March on AI rout",
+  "desc": "The metal was on course for a 2.9% drop this week, which would mark its fifth weekly decline in a row.",
+  "date": "2026-11-13",
+  "id": "d3959ef3f99e",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-14"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/mineros-gold-bet-raises-cash-and-collateral-risks/",
+  "title": "Mineros’ gold bet raises cash and collateral risks",
+  "desc": "The strategy increases Mineros’ exposure to the metal beyond the gold it produces in Colombia and Nicaragua.",
+  "date": "2026-11-13",
+  "id": "9655affb2481",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-14"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/copper-drill-down-brevene-tops-copper-ranking/1003897596/",
+  "title": "Copper Drill Down: Brevene tops copper ranking",
+  "desc": "DPM Metals (TSX: DPM; ASX: DPM) led the copper ranking with 1,054 metres grading 1.20% copper from 1,172 metres depth at Brevene Porphyry South in...",
+  "date": "2026-11-13",
+  "id": "9025e6c99885",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-14"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-13/wall-street-bears-abound-after-inflation-sours-fed-outlook-main-street",
+  "title": "Wall Street bears abound after inflation sours Fed outlook, Main Street abandons bullish bias as gold drops below $3,900/oz",
+  "desc": "(Kitco News) – Gold prices suffered another sharp weekly decline as an early recovery driven by falling oil prices and a weaker U.S. dollar was overwhelmed by hotter-than-expected inflation data, surging Treasury yields, and increasingly hawkish Federal Reserve expectations, sending the precious metal to its lowest level in more than a year.Spot gold kicked off the week trading at $4,066.39 per ou",
+  "date": "2026-11-13",
+  "id": "c43c1857ae02",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-14"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-13/gold-posts-steep-weekly-loss-treasury-yields-rise-fed-tightening-bets",
+  "title": "Gold posts steep weekly loss as Treasury yields rise, Fed tightening bets persist - Kitco PM Report",
+  "desc": "(Kitco NewsWire) - Spot gold prices were modestly higher and spot silver prices were sharply lower in late U.S. trading Friday, as persistent inflation concerns, elevated Treasury yields and expectations for additional Federal Reserve tightening continued to weigh on precious metals. Gold stabilized after Thursday's steep losses, supported by bargain hunting, while silver remained under pressure a",
+  "date": "2026-11-13",
+  "id": "630b40cae188",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-14"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-13/silver-market-remains-resilient-despite-price-volatility-and-weakening",
+  "title": "Silver market remains resilient despite price volatility and weakening industrial demand – Metals Focus",
+  "desc": "(Kitco News) - The silver market continues to struggle to attract investor interest following its historic price collapse earlier this year; however, one research firm remains optimistic that the precious metal’s long-term outlook remains positive, even as industrial demand weakens and the market moves closer to balance.In an interview with Kitco News, Philip Newman, Managing Director of Metals Fo",
+  "date": "2026-11-13",
+  "id": "f8a1a59db5e6",
+  "metals": [
+   "银"
+  ],
+  "fetched": "2026-11-14"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-13/tether-taking-aim-gold-etfs-tokenization-gains-momentum",
+  "title": "Tether taking aim at gold ETFs as tokenization gains momentum",
+  "desc": "(Kitco News) - The gauntlet has been thrown down, and there is a new challenger to become a dominant force in the gold market.The head of the world’s largest digital asset firm has made a clear declaration about the role Tether Gold (XAU₮) intends to play in the global marketplace.“I firmly believe XAU₮ is on track to become the first true competitor to the gold ETF market, bringing more utility t",
+  "date": "2026-11-13",
+  "id": "914f81a9226d",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-14"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-13/gold-cusp-breaking-key-support-and-further-usd-strength-could-drive-price",
+  "title": "Gold is on the cusp of breaking key support, and further USD strength could drive price to $3,500/oz – Jesse Colombo",
+  "desc": "(Kitco News) – Gold is teetering on the brink of a far more significant breakdown, and if the U.S. dollar’s recent rally goes much higher, the yellow metal could lose an additional $400 to $500 before the next meaningful support kicks in, according to Jesse Colombo, independent precious metals analyst and founder of the BubbleBubble Report.Colombo said that dollar strength and rising interest rate",
+  "date": "2026-11-13",
+  "id": "8ef05ad3783e",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-14"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-13/golds-drop-below-4000-offers-long-term-value-wisdomtree-sees-potential-4800",
+  "title": "Gold's drop below $4,000 offers long-term value as WisdomTree sees potential for $4,800 by 2027",
+  "desc": "(Kitco News) - The gold market continues to struggle to attract consistent bullish momentum as persistent inflation pressures keep the Federal Reserve on a tightening path; however, one market strategist says investors should not overlook the precious metal's long-term value, even if prices remain volatile in the near term.In an interview with Kitco News, Nitesh Shah, Head of Commodities and Macro",
+  "date": "2026-11-13",
+  "id": "5e09d2920a23",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-14"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-13/price-bounces-may-be-traps-fed-rate-hikes-could-drive-gold-down-3200oz",
+  "title": "Price bounces may be traps as Fed rate hikes could drive gold down to $3,200/oz – StoneX’s Pavilonis",
+  "desc": "(Kitco News) – The trajectory for gold is tilted firmly to the downside, and traders who buy the near-term bounce off of current levels could be washed out as aggressive Fed rate hikes ultimately push the precious metal down to $3,200 per ounce, according to Daniel Pavilonis, senior commodities broker at StoneX Group.“The charts do not look good,” Pavilonis told Kitco News on Friday. “And the doll",
+  "date": "2026-11-13",
+  "id": "2093eb34f36c",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-14"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-13/golds-4000-support-breaks-fed-fears-grow-analysts-eye-3800",
+  "title": "Gold's $4,000 support breaks as Fed fears grow; analysts eye $3,800",
+  "desc": "(Kitco News) - Despite optimism at the start of the week, gold has been unable to hold gains above $4,000 an ounce. Persistent inflation and fears that the Federal Reserve will have to aggressively raise interest rates next month have forced gold to give up all of its gains from the previous week.Spot gold last traded at $3,884.20 an ounce, down 4.5% on the week.With gold prices caught below $4,00",
+  "date": "2026-11-13",
+  "id": "d12f9dde8941",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-14"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/assa-abloy-opens-a-new-door-in-brazil-with-rometal-acquisition-121963",
+  "title": "ASSA ABLOY opens a new door in Brazil with Rometal acquisition",
+  "desc": "Explore how ASSA ABLOY's proposed acquisition of Brazilian manufacturer Rometal will expand its aluminium product portfolio, manufacturing presence and distribution reach across Latin America.",
+  "date": "2026-11-13",
+  "id": "d4807d7d77fc",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-14"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/coolbrook-brings-1-700c-electric-heating-tech-in-australias-alumina-decarbonising-drive-121956",
+  "title": "Coolbrook brings 1,700°C electric heating tech in Australia’s alumina decarbonising drive",
+  "desc": "Explore: Finland’s Coolbrook joins HILT CRC to explore electrified heating for lower-carbon alumina refining across Australia.",
+  "date": "2026-11-13",
+  "id": "db2853ffd5fc",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-14"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/qingdao-allheart-marine-co-ltd-expands-global-reach-as-a-premier-aluminium-boat-manufacturer-offering-professional-oem-and-odm-solutions-for-commercia-121926",
+  "title": "Qingdao Allheart Marine Co., Ltd. expands global reach as a premier aluminium boat manufacturer offering professional OEM and ODM solutions for commercial watercraft and offshore vessels",
+  "desc": "Qingdao Allheart Marine expands its global presence, offering aluminium boats, commercial vessels and customised OEM/ODM marine solutions worldwide.",
+  "date": "2026-11-13",
+  "id": "9b1fc1ac27b4",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-14"
  },
  {
   "site": "Mining Weekly",
