@@ -1,6 +1,18 @@
 [
  {
   "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/cnpc-powder-and-blt-partner-to-scale-up-production-and-international-sales-of-blt-alam400-aluminium-alloy-powder-121965",
+  "title": "CNPC Powder and BLT partner to scale up production and international sales of BLT-AlAM400 aluminium alloy powder",
+  "desc": "CNPC Powder and BLT partner to scale up BLT-AlAM400 aluminium alloy powder production for robotics, NEVs and aerospace.",
+  "date": "2026-11-15",
+  "id": "634a17b81795",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-15"
+ },
+ {
+  "site": "AlCircle",
   "url": "https://www.alcircle.com/news/al-circle-analysis-scrap-in-eu-thailand-25-trimet-co-cut-indias-16-3tco2-gap-draw-aluminiums-scrap-to-power-chain-121958",
   "title": "AL Circle Analysis: Scrap in EU, Thailand, 25%Trimet CO₂ cut, India’s 16.3tCO2 gap draw aluminium supply chain",
   "desc": "Explore: Aluminium scrap trade, and green power steer aluminium, from EU, Thailand’s ban, Trimet’s 25 per cent carbon cut to India’s 16.3 tCO2 gap.",
@@ -7636,6 +7648,18 @@
    "铜"
   ],
   "fetched": "2026-10-27"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/qamcos-9m-2026-profit-dips-to-76m-despite-27-higher-aluminium-selling-prices-121696",
+  "title": "QAMCO’s 9M 2026 profit dips to $76m despite 27% higher aluminium selling prices",
+  "desc": "Explore: QAMCO’s 9-month 2026 profit of QAR 276 million dips 48 per cent year-on-year despite higher aluminium prices.",
+  "date": "2026-10-26",
+  "id": "3f1d57380dd7",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-15"
  },
  {
   "site": "Mining.com",
