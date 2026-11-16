@@ -1,6 +1,18 @@
 [
  {
   "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/lme-aluminium-cash-bid-slips-3-150-as-cancelled-warrants-jump-21-42-121966",
+  "title": "LME aluminium cash bid slips $3,150 as cancelled warrants jump 21.42%",
+  "desc": "LME aluminium cash and three-month prices declined on November 13, while December 2027 futures and alumina Platts prices advanced marginally.",
+  "date": "2026-11-16",
+  "id": "d51906f90078",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-16"
+ },
+ {
+  "site": "AlCircle",
   "url": "https://www.alcircle.com/news/cnpc-powder-and-blt-partner-to-scale-up-production-and-international-sales-of-blt-alam400-aluminium-alloy-powder-121965",
   "title": "CNPC Powder and BLT partner to scale up production and international sales of BLT-AlAM400 aluminium alloy powder",
   "desc": "CNPC Powder and BLT partner to scale up BLT-AlAM400 aluminium alloy powder production for robotics, NEVs and aerospace.",
@@ -22,6 +34,42 @@
    "铝"
   ],
   "fetched": "2026-11-15"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/egypt-to-set-up-state-backed-company-to-license-artisanal-gold-miners-free-detainees-lawmaker-says/",
+  "title": "Egypt to set up state-backed company to license artisanal gold miners, free detainees, lawmaker says",
+  "desc": "The deal would bring informal prospectors into a licensed system after the military’s crackdown on illegal mining.",
+  "date": "2026-11-15",
+  "id": "ecb1e5bb9e77",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-16"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/guinea-plans-bauxite-index-as-it-seeks-to-bolster-ore-prices/",
+  "title": "Guinea plans bauxite index as it seeks to bolster ore prices",
+  "desc": "The planned bauxite index comes as commodity-rich nations try to influence prices and encourage investment in domestic processing.",
+  "date": "2026-11-15",
+  "id": "29344de07179",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-16"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/hindalco-to-sell-two-novelis-china-units-for-265-million",
+  "title": "Hindalco to sell two Novelis China units for $265 Million",
+  "desc": "Novelis is to sell two wholly-owned Chinese subsidiaries for $265 million, with the transaction expected to close within a year.",
+  "date": "2026-11-15",
+  "id": "92e4ca817cba",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-16"
  },
  {
   "site": "AlCircle",
