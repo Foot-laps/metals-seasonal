@@ -194,6 +194,493 @@
   "fetched": "2026-11-17"
  },
  {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/shanghai-exchange-intervenes-after-historic-copper-crunch/",
+  "title": "Shanghai Exchange intervenes after historic copper crunch",
+  "desc": "It is the latest in a series of short squeezes to hit metals markets, which have been left vulnerable by a drawdown in inventories.",
+  "date": "2026-11-17",
+  "id": "78297d5d8d91",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/sumitomo-metal-mining-seeks-more-copper-mine-investments-to-boost-output/",
+  "title": "Sumitomo Metal Mining seeks more copper mine investments to boost output",
+  "desc": "Sumitomo also aims to boost profitability through sales of by-products, particularly slag and sulfuric acid.",
+  "date": "2026-11-17",
+  "id": "81611d515b0c",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/chinas-concentrate-fed-copper-smelting-capacity-nears-a-ceiling-in-2026-association-says/",
+  "title": "China’s concentrate-fed copper smelting capacity nears a ceiling in 2026, association says",
+  "desc": "A shortage of copper concentrate and expanding copper smelting capacity pushed processing fees in the spot market into negative territory.",
+  "date": "2026-11-17",
+  "id": "63b59a40af49",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/druckenmiller-exits-copper-steel-and-chip-stocks-to-buy-gold-miners/",
+  "title": "Druckenmiller exits copper, steel and chip stocks to buy gold miners",
+  "desc": "Latest filing reveals a shift away from industrial metals and semiconductors as the billionaire refocuses his portfolio on gold.",
+  "date": "2026-11-17",
+  "id": "93605e7c785c",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/codelcos-866m-gabriela-mistral-extension-clears-key-hurdle/",
+  "title": "Codelco’s $866 million Gabriela Mistral extension clears key hurdle",
+  "desc": "Chile’s state miner has secured environmental approval for a plan to sustain copper output at the mine through 2055.",
+  "date": "2026-11-17",
+  "id": "9356494534a3",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/chile-copper-output-nears-23-year-low-as-mines-struggle/",
+  "title": "Chile copper output nears 23-year low as mines struggle",
+  "desc": "Ageing deposits, uneven mine performance and dependence on imported sulfuric acid complicate Chile's copper recovery.",
+  "date": "2026-11-17",
+  "id": "4a37d4a56bef",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/panama-first-quantum-launch-formal-cobre-panama-talks/",
+  "title": "Panama, First Quantum launch formal Cobre Panama talks",
+  "desc": "Negotiations over restarting the shuttered copper mine will focus on economic benefits, environmental safeguards and jobs.",
+  "date": "2026-11-17",
+  "id": "b8f0f6a9703d",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/guinea-clears-pdi-gold-permit-raising-hopes-of-easing-mining-backlog/",
+  "title": "Guinea clears PDI Gold permit, raising hopes of easing mining backlog",
+  "desc": "Exploration and mining permits have been stalled for more than two years, forcing some companies to revise mine plans.",
+  "date": "2026-11-17",
+  "id": "b18703f36523",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/chile-copper-output-nears-23-year-low/1003897900/",
+  "title": "Chile copper output nears 23-year low",
+  "desc": "Chile’s copper production is forecast to fall below five million tonnes this year for the first time since 2003, as lower ore grades and operational...",
+  "date": "2026-11-17",
+  "id": "b319b6ece151",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/canada-widens-tariff-relief-on-chinese-metals/1003897890/",
+  "title": "Canada widens tariff relief on Chinese metals",
+  "desc": "Canada will expand tariff relief on Chinese steel and aluminum products in short supply at home and extend existing exemptions through 2028, as Prime Minister...",
+  "date": "2026-11-17",
+  "id": "564c1541b128",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/barrick-invests-c57m-to-maintain-hercules-metals-shareholding-2026-11-17",
+  "title": "Barrick invests C$5.7m to maintain Hercules Metals shareholding",
+  "desc": "Global gold miner Barrick Mining Corporation has subscribed for 6.6-million common shares of US-focused copper, silver and molybdenum developer Hercules Metals in a private placement pricing C$0.87 apiece, for a total consideration of C$5.7-million. The private placement will allow Barrick to maintain its 10.34% non-diluted shareholding of Hercules, which is held for investment purposes.",
+  "date": "2026-11-17",
+  "id": "7aa2c8285a41",
+  "metals": [
+   "铜",
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/acg-metals-completes-325m-senior-secured-bonds-placement-2026-11-17",
+  "title": "ACG Metals completes $325m senior secured bonds placement",
+  "desc": "London-listed gold, silver and base metals miner ACG Metals and its wholly-owned subsidiary ACG HoldCo 1 have completed a $325-million placement of new four-year senior secured bonds. Net proceeds from the new bond issue will be used to redeem in full ACG's existing $200-million senior secured bond, including interest and premium, finance capital expenditure and support general corporate purposes.",
+  "date": "2026-11-17",
+  "id": "f747cc9a8cbf",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/anglogold-awards-perenti-new-a1bn-five-year-geita-underground-mining-contract-2026-11-17",
+  "title": "AngloGold awards Perenti new A$1bn five-year Geita underground mining contract",
+  "desc": "Gold miner AngloGold Ashanti has awarded ASX-listed Perenti's underground mining business African Underground Mining Services (AUMS) a new A$1-billion five-year contract to continue operating the Geita gold mine, in Tanzania. AUMS has operated at the Geita mine since the operation transitioned to underground mining in 2016.",
+  "date": "2026-11-17",
+  "id": "d827b43b7489",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/jmc-mourns-harmony-gold-locomotive-operator-killed-at-mponeng-mine-2026-11-17",
+  "title": "JMC mourns Harmony Gold locomotive operator killed at Mponeng mine",
+  "desc": "The Junior Mining Council (JMC) extends its deepest condolences to the family, colleagues, and community affected by the tragic death of a locomotive operator at Harmony Gold Mining Company’s Mponeng mine on the West Rand this past Saturday. As an advocate for junior miners and a monitor of sector challenges - including operational and structural safety pressures - JMC is deeply saddened by this l",
+  "date": "2026-11-17",
+  "id": "0fecefa57fe3",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/haib-pfs-results-exceed-koryx-expectations-2026-11-17",
+  "title": "Haib PFS results exceed Koryx' expectations",
+  "desc": "The positive results of a preliminary feasibility study (PFS) into Koryx Copper's Haib copper project, in Namibia, has exceeded the company's expectations, says president and CEO Heye Daun. Haib is a porphyry copper deposit with associated molybdenum and gold and is planned as a large-scale openpit mining and conventional sulphide milling and flotation, producing separate copper and molybdenum con",
+  "date": "2026-11-17",
+  "id": "a5dfbeebc87f",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/guineas-miners-stockpile-gold-after-refinery-rules-halted-exports-sources-say-2026-11-17",
+  "title": "Guinea's miners stockpile gold after refinery rules halted exports, sources say",
+  "desc": "Rules on local refining that Guinea's government introduced last month as it strives to retain more of the value of its mineral wealth have forced some of the country's biggest miners to stockpile gold they are unable to export, industry sources said. As West African countries more generally seek to maximise their income from their natural resources, Guinea has said it aims to become a regional go",
+  "date": "2026-11-17",
+  "id": "5bfb8db6030a",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/guinea-grants-permit-to-pdi-gold-permit-potentially-easing-miners-concerns-2026-11-17",
+  "title": "Guinea clears PDI Gold permit, raising hopes of easing mining backlog",
+  "desc": "PDI Gold has secured the final regulatory approval for its Bankan project in Guinea after a wait of nearly two years, potentially signalling progress in a permitting backlog that mining companies say has weighed on investment in the country. The Australian miner announced late on Monday that it had received an exploitation permit for the $463-million project, clearing the final hurdle for developm",
+  "date": "2026-11-17",
+  "id": "229ee3b650ea",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-17/miners-negotiate-cross-border-tie-ups-unlock-argentina-copper",
+  "title": "Miners negotiate cross-border tie-ups to unlock Argentina copper",
+  "desc": "Mining companies are discussing potential cross-border partnerships as Argentina’s emerging copper industry looks to tap infrastructure and expertise on the Chilean side of the Andes, according to Chile’s top mining official.Chile’s government is aware of talks among companies with projects and operations on opposite sides of the border about ways to integrate or work together, Mining and Economy ",
+  "date": "2026-11-17",
+  "id": "f7ddb0afb7c3",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-17/guinea-clears-pdi-gold-permit-raising-hopes-easing-mining-backlog",
+  "title": "Guinea clears PDI Gold permit, raising hopes of easing mining backlog",
+  "desc": "PDI Gold (ASX: PDI) has secured the final regulatory approval for its Bankan project in Guinea after a wait of nearly two years, potentially signalling progress in a permitting backlog that mining companies say has weighed on investment in the country.The Australian miner announced late on Monday that it had received an exploitation permit for the $463 million project, clearing the final hurdle fo",
+  "date": "2026-11-17",
+  "id": "99071a0aa726",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-17/chinas-concentrate-fed-copper-smelting-capacity-nears-ceiling-2026",
+  "title": "China’s concentrate-fed copper smelting capacity nears a ceiling in 2026, association says",
+  "desc": "China’s copper smelting capacity fed by concentrate has nearly hit a ceiling in 2026, a vice president from the China Nonferrous Metals Industry Association told Reuters on the sidelines of an event by the International Copper Association on Tuesday.“The association will actively work with relevant government authorities to establish a capacity monitoring and early-warning mechanism,” said Chen Xu",
+  "date": "2026-11-17",
+  "id": "585569b696ff",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-17/sumitomo-metal-mining-seeks-more-copper-mine-investments-boost-output",
+  "title": "Sumitomo Metal Mining seeks more copper mine investments to boost output",
+  "desc": "Japanese miner and smelter Sumitomo Metal Mining (TYO: 5713) is seeking additional investments in copper mines to raise its annual attributable, or equity, copper production to 300,000 metric tons over the longer term, its president said on Tuesday.The company plans to focus future copper investments on the Pacific Rim, particularly South America, where it is pursuing several projects, Nobuhiro Ma",
+  "date": "2026-11-17",
+  "id": "4cd373a656c5",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-17/indias-gold-demand-boosted-lower-prices-october-jewelry-etfs-and-imports",
+  "title": "India’s gold demand boosted by lower prices in October, with jewelry, ETFs, and imports strong – WGC’s Chacko",
+  "desc": "(Kitco News) – Fed rate hike expectations, a stronger dollar and investor liquidations drove gold prices lower last month, but demand was healthy during the key festive period, while Indian gold ETFs recorded a fifth straight month of net inflows in October and imports rebounded from September’s lows, according to Kavita Chacko, Research Head for India at the World Gold Council (WGC).In the latest",
+  "date": "2026-11-17",
+  "id": "020850a743ac",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back",
+  "title": "Gold will reclaim $5,600/oz in 2028 as rate cuts bring Western investors back to precious metals – Goldman Sachs",
+  "desc": "(Kitco News) – Gold will reclaim its all-time high above $5,600 per ounce by the end of 2028 after the Federal Reserve begins cutting interest rates and Western investors return to the precious metals market, according to analysts at Goldman Sachs.In a new research note published Tuesday, analysts led by Lina Thomas said that as far as precious metals are concerned, “2027 increasingly looks like 2",
+  "date": "2026-11-17",
+  "id": "512687cf9012",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-17/gold-trades-near-one-year-low-us-retail-sales-slow-kitco-am-report",
+  "title": "Gold trades near one-year low as U.S. retail sales slow - Kitco AM Report",
+  "desc": "(Kitco NewsWire) – Spot gold was lower and spot silver was higher in early U.S. trading Tuesday, as investors assessed slowing U.S. consumer spending and persistent expectations for additional Federal Reserve tightening. Gold remained near its lowest level in more than a year, while silver recovered from Monday's selloff. Gold was trading near $3,845.26 an ounce, down $0.29%, while silver was trad",
+  "date": "2026-11-17",
+  "id": "32b231bf7db3",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-17/gold-price-drops-3848oz-after-october-retail-sales-rise-02-core-rises-06",
+  "title": "Gold price drops to $3,848/oz after October retail sales rise 0.2%, core rises 0.6%",
+  "desc": "(Kitco News) - The gold market is trading near session lows after the latest data showed headline consumer spending in line with expectations last month, while core retail sales was higher.U.S. retail sales rose 0.2% in October following an unrevised reading of 0.8% in September, the U.S. Commerce Department announced on Tuesday. The data was in line with expectations, as the consensus of economis",
+  "date": "2026-11-17",
+  "id": "08fa64bee088",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "BullionVault",
+  "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-nvda-deutsche-111720261",
+  "title": "Gold and Silver Rally as Nvidia, Deutsche Bank Scandals Hit Equities | Gold News",
+  "desc": "Gold and silver rallied Tuesday from 13-month lows as AI giant Nvidia prepared to release quarterly earnings and fresh scandal hit Deutsche Bank >>",
+  "date": "2026-11-17",
+  "id": "88e531e07359",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "BullionVault",
+  "url": "https://www.bullionvault.com/gold-news/opinion-analysis/gold-central-bank-locations-111720261",
+  "title": "Foreign Gold in New York Fed Hits 7-Decade Low | Gold News",
+  "desc": "Amid Trump's political attacks, threats and sanctions against European allies, foreign central banks have cut US gold holdings to 1957 lows >>",
+  "date": "2026-11-17",
+  "id": "c802545e029c",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "世界黄金协会",
+  "url": "https://www.gold.org/goldhub/gold-focus/2026/11/china-gold-market-update-robust-demand-october",
+  "title": "China gold market update: Robust demand in October",
+  "desc": "The PBoC’s gold purchasing streak extended to 24 months, reporting the largest gold addition since late 2023. ETFs attracted inflows for the fourth consecutive month, pushing total holdings to another month-end record. SGE gold withdrawals increased m/m, staging an unseasonal recovery. Post by Ray Jia",
+  "date": "2026-11-17",
+  "id": "b969d5db7979",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "世界黄金协会",
+  "url": "https://www.gold.org/goldhub/gold-focus/2026/11/india-gold-market-update-gold-demand-gets-festive-boost",
+  "title": "India gold market update: Gold demand gets festive boost",
+  "desc": "Softer gold prices provided a boost to India’s festive demand, with healthy buying across jewellery and bars and coins. ETF inflows also remained resilient, while imports rebounded from September’s lows, although they remained below historical seasonal levels. Post by Kavita Chacko",
+  "date": "2026-11-17",
+  "id": "96a302e2b44e",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/from-recycling-points-to-doorsteps-brighton-makes-aluminium-foil-collection-easier-122000",
+  "title": "From recycling points to doorsteps: Brighton makes aluminium foil collection easier",
+  "desc": "Find out how Brighton and Hove is making aluminium foil and drinks carton recycling easier through expanded household collections.",
+  "date": "2026-11-17",
+  "id": "65cd9b4c456b",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/alba-q3-2026-profit-plunges-72-5-to-49-3-million-as-production-disruptions-weigh-121999",
+  "title": "Alba Q3 2026 profit plunges 72.5% to $49.3 million as production disruptions weigh",
+  "desc": "Alba's Q3 2026 profit drops 72.5% to $49.3 million, despite a 44.3% rise in nine-month earnings.",
+  "date": "2026-11-17",
+  "id": "ac800f0bbcab",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/india-s-aerospace-aluminium-demand-could-reach-200-000-tonnes-by-2030-as-remal-expands-121998",
+  "title": "India's aerospace aluminium demand could reach 200,000 tonnes by 2030 as Remal expands",
+  "desc": "Find out how Remal Alcast is expanding specialised aluminium billet manufacturing as India's aerospace and defence aluminium demand is projected to reach 200,000 tonnes by FY2030.",
+  "date": "2026-11-17",
+  "id": "c4cae0fbee5d",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/indias-alumina-refinery-investment-landscape-what-does-it-really-cost-to-build-a-competitive-refinery-121992",
+  "title": "India’s alumina refinery investment landscape: What does it really cost to build a competitive refinery?",
+  "desc": "Explore India's alumina refinery setup costs, investment requirements, bauxite supply, energy economics and expansion plans of major producers.",
+  "date": "2026-11-17",
+  "id": "613c85ef209e",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/rio-tinto-advances-their-1-9b-kangwinan-bauxite-project-to-secure-australia-s-future-supply-121995",
+  "title": "Rio Tinto advances their $1.9b Kangwinan bauxite project to secure Australia's future supply",
+  "desc": "Explore how Rio Tinto's Kangwinan bauxite project will add 20 million tonnes of annual production capacity.",
+  "date": "2026-11-17",
+  "id": "2f44028593f2",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/european-aluminium-premiums-slide-12-6-as-lme-backwardation-forces-stockholders-to-liquidate-121997",
+  "title": "European aluminium premiums slide 12.6% as LME backwardation forces stockholders to liquidate",
+  "desc": "European aluminium premiums fall 12.6% as historic LME backwardation prompts stockholders to liquidate Rotterdam inventories.",
+  "date": "2026-11-17",
+  "id": "4ce144c36173",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/andhra-pradesh-bauxite-plans-resurface-as-273m-anrak-dispute-clears-legal-hurdle-121996",
+  "title": "Andhra Pradesh bauxite plans resurface as $273m ANRAK dispute clears legal hurdle",
+  "desc": "Discover: Andhra bauxite mining returns to focus as ANRAK arbitration advances and NMDC and NALCO pursue mining rights.",
+  "date": "2026-11-17",
+  "id": "d79e2c2b4a51",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/hydro-invests-2-59m-in-three-new-aluminium-professorships-at-ntnu-121994",
+  "title": "Hydro invests $2.59m in three new aluminium professorships at NTNU",
+  "desc": "Explore Hydro's NOK 25 million investment in three new aluminium professorships at NTNU.",
+  "date": "2026-11-17",
+  "id": "6c8e661a2213",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/case-study-unveils-how-novelis-and-georgia-tech-cut-aluminium-can-coating-tests-from-months-to-weeks-121993",
+  "title": "Case study unveils how Novelis and Georgia Tech cut aluminium can coating tests from months to weeks",
+  "desc": "Discover: Novelis and Georgia Tech cut aluminium can coating tests from months to weeks, accelerating packaging innovation.",
+  "date": "2026-11-17",
+  "id": "e1cc2c700477",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/china-accounts-for-70-8-of-australian-bauxite-exports-in-january-october-2026-121991",
+  "title": "China accounts for 70.8% of Australian bauxite exports in January–October 2026",
+  "desc": "Australian bauxite exports fell 4.8 per cent in January–October 2026, while China's share increased to 70.8 per cent amid shifting shipping patterns.",
+  "date": "2026-11-17",
+  "id": "b9f9d85c7205",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/hydro-to-support-aluminium-professorships",
+  "title": "Hydro to support aluminium professorships",
+  "desc": "Hydro is to support three new professorships in aluminium and production technology at the Norwegian University of Science and Technology (NTNU).",
+  "date": "2026-11-17",
+  "id": "1eaf292f4957",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-17"
+ },
+ {
   "site": "AlCircle",
   "url": "https://www.alcircle.com/news/lme-aluminium-cash-bid-slips-3-150-as-cancelled-warrants-jump-21-42-121966",
   "title": "LME aluminium cash bid slips $3,150 as cancelled warrants jump 21.42%",
