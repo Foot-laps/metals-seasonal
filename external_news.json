@@ -1,6 +1,42 @@
 [
  {
   "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/anglogold-ashanti-to-invest-about-25bn-in-colombia-copper-mine-2026-11-18",
+  "title": "AngloGold Ashanti to invest about $2.5bn in Colombia copper mine",
+  "desc": "South African miner AngloGold Ashanti plans to invest about $2.5-billion in a copper mine in Colombia, conditional on environmental permits, its corporate affairs manager Stewart Bailey said on Tuesday at a government event in New York. The investment would fund development of the Quebradona copper project in the department of Antioquia.",
+  "date": "2026-11-18",
+  "id": "e8f502775163",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/aluminium-dolomites-to-take-over-hydros-remelt-facility-in-italy-retaining-35-jobs-122002",
+  "title": "Aluminium Dolomites to take over Hydro’s remelt facility in Italy, retaining 35 jobs",
+  "desc": "Aluminium Dolomites will acquire Hydro's Feltre remelt facility in Italy, retaining operations and transferring 35 employees under a deal expected in 2026.",
+  "date": "2026-11-18",
+  "id": "d18cd8237d34",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/lme-aluminium-price-plunges-nearly-10-as-inventories-dip-to-221-900t-on-nov-17-122003",
+  "title": "LME aluminium price plunges nearly 10% as inventories dip to 221,900t on Nov 17",
+  "desc": "Explore: LME aluminium price plunges nearly 10 per cent to USD 3,060 per tonne as inventories slip to 221,900 tonnes on November 17.",
+  "date": "2026-11-18",
+  "id": "b791ed0c3944",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/rio-tinto-restarts-idled-aluminium-production-line-in-new-zealand-2026-11-17",
   "title": "Rio Tinto restarts idled aluminium production line in New Zealand",
   "desc": "Diversified miner Rio Tinto has signed a 50 MW electricity contract to support a restart of the Line 4 smelting operation at the Tiwai Point aluminium smelter, in New Zealand, by October 2027. The electricity agreement, spanning three-and-a-half years with Contact Energy, will enable Rio Tinto to bring Line 4 back into production, which, once fully operational, will increase aluminium production c",
@@ -679,6 +715,68 @@
    "铝"
   ],
   "fetched": "2026-11-17"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/copper-price-falls-to-lowest-since-july-as-tech-weakness-saps-risk-appetite/",
+  "title": "Copper price falls to lowest since July as tech weakness saps risk appetite",
+  "desc": "\"The selloff in AI-related shares has raised concerns around the demand outlook for copper,” an ING commodities strategist said.",
+  "date": "2026-11-17",
+  "id": "9f2eb844d785",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/anglogold-ashanti-to-invest-about-2-5-billion-in-colombia-copper-mine/",
+  "title": "AngloGold Ashanti to invest about $2.5 billion in Colombia copper mine",
+  "desc": "Construction of the project is due to begin in 2028, once the required environmental permits are obtained.",
+  "date": "2026-11-17",
+  "id": "6455ca97be24",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/druckenmiller-exits-copper-steel-to-buy-gold-miners/1003897930/",
+  "title": "Druckenmiller exits copper, steel to buy gold miners",
+  "desc": "Billionaire investor Stanley Druckenmiller said Tuesday he was betting on a drop in copper prices, a day after his family office disclosed new stakes in...",
+  "date": "2026-11-17",
+  "id": "6d19d47bdecc",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-17/gold-struggles-near-one-year-lows-silver-rebounds-stocks-slide-fed-hike",
+  "title": "Gold struggles near one-year lows, silver rebounds as stocks slide, Fed hike bets persist - Kitco PM Report",
+  "desc": "(Kitco NewsWire) - Spot gold prices were little changed in late U.S. trading Tuesday, while silver rebounded from Monday's sharp losses as weaker U.S. economic data, declining Treasury yields and renewed geopolitical tensions competed with expectations for additional Federal Reserve tightening. Gold struggled to sustain gains despite a weaker dollar and another broad equity market selloff, while s",
+  "date": "2026-11-17",
+  "id": "ce88bc141a11",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/hydro-to-sell-feltre-remelt-business-to-aluminium-dolomites",
+  "title": "Hydro to sell Feltre remelt business to Aluminium Dolomites",
+  "desc": "Hydro has signed an agreement to sell its aluminium remelt operations in Feltre, Italy, to Aluminium Dolomites, sister company of Aluminium Bozen.",
+  "date": "2026-11-17",
+  "id": "221144c5da67",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-18"
  },
  {
   "site": "AlCircle",
@@ -6303,6 +6401,18 @@
   "fetched": "2026-11-08"
  },
  {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/argentinas-exports-jump-42-to-nearly-50kt-unwrought-aluminium-drives-demand-121814",
+  "title": "Argentina’s exports jump 42% to nearly 50kt; unwrought aluminium drives demand",
+  "desc": "Discover: Argentina’s aluminium exports rise 42 per cent Y-o-Y to 48,977 tonnes in YTD August 2026, driven by unwrought aluminium.",
+  "date": "2026-11-03",
+  "id": "9bcb56677e2b",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
   "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/cochilco-cuts-chilean-copper-forecast-for-2026-2027-2026-11-02",
   "title": "Cochilco cuts Chilean copper forecast for 2026, 2027",
@@ -8178,6 +8288,18 @@
    "铜"
   ],
   "fetched": "2026-10-29"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/europes-9m-2026-aluminium-production-jumps-to-5-56mt-as-smelter-restarts-gain-ground-121723",
+  "title": "Europe’s 9M 2026 aluminium production jumps to 5.56Mt as smelter restarts gain ground",
+  "desc": "Discover: Europe’s primary aluminium output rises 5.69 per cent to 5.56 million tonnes in nine months of 2026, led by smelter recoveries.",
+  "date": "2026-10-28",
+  "id": "02e6ee3f68a8",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-18"
  },
  {
   "site": "Mining Weekly",
