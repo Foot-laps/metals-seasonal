@@ -36,6 +36,475 @@
   "fetched": "2026-11-18"
  },
  {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/kghm-beats-quarterly-profit-estimates-on-high-metal-prices/",
+  "title": "KGHM beats quarterly profit estimates on high metal prices",
+  "desc": "Industry surveys place KGHM among top silver producers and among the 10 largest copper miners.",
+  "date": "2026-11-18",
+  "id": "16a4e8abc94c",
+  "metals": [
+   "铜",
+   "银"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/phoenix-hits-broad-gold-and-copper-at-old-bc-mine/",
+  "title": "Phoenix hits broad gold and copper at old BC mine",
+  "desc": "The company hit broad intervals of copper and gold at Lexington in southern British Columbia.",
+  "date": "2026-11-18",
+  "id": "b5aa4f236839",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/copper-price-craters-as-ai-tariff-trades-unwind-and-asia-copper-week-hears-of-recessionary-like-demand/",
+  "title": "Copper price craters as AI, tariff trades unwind, wiping $186 billion off top producers in a month",
+  "desc": "Stan Druckenmiller has gone short and Asia Copper Week heard that demand is ‘recessionary-like’, yet Chinese buyers are paying a record premium for prompt metal.",
+  "date": "2026-11-18",
+  "id": "7d5c2f64803d",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/freeport-indonesia-offers-manyar-copper-to-china-at-158-t-premium-for-2027/",
+  "title": "Freeport Indonesia offers Manyar copper to China at $158/ton premium for 2027",
+  "desc": "This is the first time copper cathode from the 480,000-ton-per-year capacity smelter has been marketed on an annual basis.",
+  "date": "2026-11-18",
+  "id": "b8ce07f7bf9b",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/critical-mineral-shortages-threaten-ais-next-growth-wave-report/",
+  "title": "Critical mineral shortages threaten AI’s next growth wave: report",
+  "desc": "Global X warns that supply gaps in copper, lithium and rare earths could slow data centre expansion and fuel mining investment.",
+  "date": "2026-11-18",
+  "id": "6a13e2344a91",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/ai-strikes-copper-gold-where-explorers-gave-up-in-1969/",
+  "title": "AI strikes copper-gold where explorers gave up in 1969",
+  "desc": "California-based Earth AI’s drilling outlines a 3-km mineralized system in New South Wales as the explorer advances toward its first resource estimate.",
+  "date": "2026-11-18",
+  "id": "c30d65c69803",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/gold-price-drops-to-14-month-low-as-dollar-yields-rise-on-hawkish-fed-rhetoric/",
+  "title": "Gold price drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric",
+  "desc": "Spot gold dropped 3%, hitting its lowest level since September 26, 2025.",
+  "date": "2026-11-18",
+  "id": "120bf85c9bd7",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/collective-hits-gold-in-rock-classed-as-waste-at-apollo/",
+  "title": "Collective hits gold in rock classed as waste at Apollo",
+  "desc": "Collective discovered gold and silver in waste rock at its Apollo deposit in Colombia, planning to invest $100M next year.",
+  "date": "2026-11-18",
+  "id": "a8f2cdd0cb03",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/central-banks-rethink-gold-as-global-risks-mount/",
+  "title": "Central banks rethink gold as global risks mount",
+  "desc": "A new OMFIF report examines shifting reserve strategies, digital gold technology and retail investors' influence on prices.",
+  "date": "2026-11-18",
+  "id": "b34fbaa27828",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/anglogold-outlines-2-5b-quebradona-copper-plan/1003898006/",
+  "title": "AngloGold outlines $2.5B Quebradona copper plan",
+  "desc": "AngloGold Ashanti (NYSE: AU; JSE: ANG) plans to spend $2.5 billion (C$3.6 billion) to build its Quebradona copper project in Colombia if it secures an...",
+  "date": "2026-11-18",
+  "id": "fa10a80b863b",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/phoenix-hits-broad-gold-and-copper-at-old-bc-mine/1003897999/",
+  "title": "Phoenix hits broad gold and copper at old BC mine",
+  "desc": "Phoenix Metals (TSX: PCA) hit broad intervals of copper and gold at Lexington in southern British Columbia, where it is testing whether an old underground...",
+  "date": "2026-11-18",
+  "id": "3a305ac8650e",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/commodities-markets/copper-falls-below-13000-as-smelters-chase-supply/1003897974/",
+  "title": "Copper falls below $13,000 as smelters chase supply",
+  "desc": "Copper fell to a seven-month low on Wednesday as a stronger dollar and doubts about spending on artificial intelligence weighed on prices even as Chinese...",
+  "date": "2026-11-18",
+  "id": "cb64c3a2f8d1",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/antimony-losses-sink-ruas-new-zealand-project-value/1003897970/",
+  "title": "Antimony losses sink Rua’s New Zealand project value",
+  "desc": "Rua Gold’s (TSX: RUA; NZX: RGI) proposed Auld Creek gold-antimony project in New Zealand has lost its economic case as a standalone operation after tests...",
+  "date": "2026-11-18",
+  "id": "c1d55c7cfd86",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/collective-hits-gold-in-rock-classed-as-waste-at-apollo/1003897966/",
+  "title": "Collective hits gold in rock classed as waste at Apollo",
+  "desc": "Collective Mining (TSX, Nasdaq: CNL) has found gold and silver in rock counted as waste inside the proposed pit at its Apollo deposit in Colombia,...",
+  "date": "2026-11-18",
+  "id": "200f6d07d447",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/koryxs-bigger-haib-copper-plan-tops-2b/1003897957/",
+  "title": "Koryx’s bigger Haib copper plan tops $2B",
+  "desc": "Koryx Copper (TSXV: KRY; NSX: KYX; US-OTC: KRYXF) is proposing a bigger mine at its Haib project in Namibia, where a new study raises the...",
+  "date": "2026-11-18",
+  "id": "cff9b31ed631",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/tdg-pegs-shasta-gold-silver-build-at-605m/1003897953/",
+  "title": "TDG pegs Shasta gold-silver build at $605M",
+  "desc": "TDG Gold (TSXV: TDG; US-OTC: TDGGF) has drawn up a plan to mine two gold and silver deposits in northern British Columbia, days after agreeing...",
+  "date": "2026-11-18",
+  "id": "0b734b1de443",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/agnicos-growth-plans-face-a-capital-test/1003897949/",
+  "title": "Agnico’s growth plans face a capital test",
+  "desc": "Agnico Eagle Mines (TSX, NYSE: AEM) heads into its capital markets day Wednesday with a goal of producing more than 4 million oz. of gold...",
+  "date": "2026-11-18",
+  "id": "b4cb5bc8142e",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/podcast-gold-in-a-short-term-decline-ft-cpm-groups-jeff-christian/1003897920/",
+  "title": "Podcast: Gold in ‘a short-term decline’, ft CPM Group’s Jeff Christian",
+  "desc": "This week’s episode features CPM Group managing partner Jeffrey Christian in conversation with host Adrian Pocobelli about the global gold market. Christian discusses continued gold...",
+  "date": "2026-11-18",
+  "id": "c73dac6468a2",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/freeport-indonesia-announces-750m-notes-offering-2026-11-18",
+  "title": "Freeport Indonesia announces $750m notes offering",
+  "desc": "Copper, gold and silver producer Freeport Indonesia has agreed to sell $750-million of 6.9% senior notes due 2033, with the proceeds aimed at refinancing the company's existing debt and for general corporate purposes. Citigroup Global Markets and J.P. Morgan Securities are the joint global coordinators for the notes offering.",
+  "date": "2026-11-18",
+  "id": "8d3f29381aa2",
+  "metals": [
+   "铜",
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/deeper-negative-copper-ore-refining-charges-needed-to-balance-market-mercuria-analyst-says-2026-11-18",
+  "title": "Deeper negative copper ore refining charges needed to balance market, Mercuria analyst says",
+  "desc": "Deeper negative processing fees for copper concentrate would help the market adjust to a structural deficit and be healthier in the long run, Nicholas Snowdon, head of metals and mining research at Mercuria, said on Wednesday. \"This week is obviously very important because the discussions around benchmark treatment charges for the concentrate market are a key focus. But we do think the more negati",
+  "date": "2026-11-18",
+  "id": "1743b3d66ba7",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/harmony-outlines-safety-actions-after-another-fatality-2026-11-18",
+  "title": "Harmony outlines safety actions after another fatality",
+  "desc": "Gold and copper miner Harmony Gold Mining Company has reported that it is taking steps to prevent further deaths at its operations, after having reported two fatalities in the last week. The company says an employee, who had reported having been exposed to chemical fumes during acid treatment activities at the Mine Waste Solutions plant, in Stilfontein, in the North West, during an incident on Nov",
+  "date": "2026-11-18",
+  "id": "f409ac791184",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-18/gold-prices-remain-under-pressure-fed-minutes-show-central-bank-committed",
+  "title": "Gold prices remain under pressure as Fed minutes show central bank committed to cooling inflation",
+  "desc": "(Kitco News) - Gold prices have dropped to session lows as the Federal Reserve remains firmly committed to raising interest rates to bring inflation down to its 2% target, according to the latest minutes of the central bank’s monetary policy meeting.Although the Federal Reserve left interest rates unchanged in October, the minutes showed that committee members see cooling persistent inflation as t",
+  "date": "2026-11-18",
+  "id": "af7f1a184036",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-18/silver-underperforms-gold-has-its-bubble-popped",
+  "title": "As silver underperforms gold, has its bubble popped?",
+  "desc": "(Kitco News) - The ongoing threat of higher interest rates through year-end and into 2027 continues to support U.S. dollar strength and hangs over the precious metals market like a dark cloud.Rising opportunity costs have pushed gold prices to their lowest level since mid-September, with prices falling below $3,800 an ounce. Spot gold last traded at $3,732.90 an ounce, down more than 3% on the day",
+  "date": "2026-11-18",
+  "id": "3ef2d679c669",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-18/gold-price-follows-dollar-short-term-real-yields-over-long-haul-heraeus",
+  "title": "Gold price follows the dollar in the short-term, but real yields over the long haul – Heraeus",
+  "desc": "(Kitco News) – Gold’s recent price correction has restored the precious metal’s inverse correlation with real yields, which broke down completely during its 2022-2025 rally, according to precious metals analysts at Heraeus.In an analysis of gold and bond yields published this week, the analysts noted that since hitting a record high of $5,600 per ounce in late January, gold has declined 33.5% to a",
+  "date": "2026-11-18",
+  "id": "0634cbfe5141",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-18/spot-gold-slides-3756oz-us-pending-home-sales-drop-47-october",
+  "title": "Spot gold slides to $3,756/oz as U.S. pending home sales drop 4.7% in October",
+  "desc": "(Kitco News) - Hopes for a stabilizing U.S. housing market were weakened after the number of potential home buyers came in well below expectations last month, according to the latest data from the National Association of Realtors (NAR).The U.S. pending home sales index declined 4.7% in October, the NAR announced on Wednesday. The data was worse than forecasts, as economists expected a -2.0% print.",
+  "date": "2026-11-18",
+  "id": "ac3e1df42d54",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-18/gold-plunges-14-month-low-silver-tumbles-fed-rate-hike-bets-intensify-kitco",
+  "title": "Gold plunges to 14-month low, silver tumbles as Fed rate hike bets intensify - Kitco AM Report",
+  "desc": "(Kitco NewsWire) - Spot gold and silver prices were sharply lower in early U.S. trading Wednesday, as expectations for additional Federal Reserve interest rate increases and a firm U.S. dollar continued to pressure precious metals despite escalating military tensions in the Persian Gulf. Gold fell to its lowest level since September 2025, breaking below the $3,800.00 level, while silver suffered h",
+  "date": "2026-11-18",
+  "id": "4f45a2f820dd",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-18/spot-gold-3775oz-after-us-housing-starts-rise-99-building-permits-fall-74",
+  "title": "Spot gold at $3,775/oz after U.S. housing starts rise 9.9%, building permits fall 7.4% in October",
+  "desc": "(Kitco News) - Gold prices are rising from session lows this morning after the latest data showed the U.S. housing market delivering a mixed performance last month.Housing starts rose 9.9% in October to a seasonally adjusted annual rate of 1.309 million units, the Commerce Department announced on Wednesday. The data was better than expected as economists looked for a print of 1.250 million units. ",
+  "date": "2026-11-18",
+  "id": "dcd42eff64d0",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "BullionVault",
+  "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-floor-fed-rates-111820261",
+  "title": "Gold and Silver 'Can't Find a Floor' as Waller Calls for Fed Rate Hike | Gold News",
+  "desc": "Gold, silver and platinum prices sank to fresh 14-month lows Wednesday as a senior US Fed policymaker called for steep rate hikes to fight inflation >>",
+  "date": "2026-11-18",
+  "id": "8d454bdc632c",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/canada-extends-us-tariff-relief-by-one-year-to-june-2028-but-ends-exemptions-for-certain-aluminum-products-122013",
+  "title": "Canada extends US tariff relief by one year to June 2028 but ends exemptions for certain aluminum products",
+  "desc": "Explore how Canada's extension of US counter-tariff relief to June 2028 will affect importers.",
+  "date": "2026-11-18",
+  "id": "7a65af6ca6ed",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/triumph-street-triple-798-rs-debuts-in-india-with-new-aluminium-frame-122011",
+  "title": "Triumph Street Triple 798 RS debuts in India with new aluminium frame",
+  "desc": "Explore: Triumph launches the Street Triple 798 RS in India with aluminium frame and 133 bhp engine at INR 1.44 million.",
+  "date": "2026-11-18",
+  "id": "b1b099403a31",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/dudleys-aluminium-takes-on-three-uk-school-projects-across-wales-and-england-122009",
+  "title": "Dudley’s Aluminium takes on three UK school projects across Wales and England",
+  "desc": "Dudley’s Aluminium secures three school projects in Port Talbot, Salisbury and Portsmouth with Morgan Sindall and Kier Construction.",
+  "date": "2026-11-18",
+  "id": "b2e94b41e56f",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/ams-advanced-material-expands-aluminium-processing-capacity-as-semiconductor-revenue-reaches-59-2-122005",
+  "title": "AMS Advanced Material expands aluminium processing capacity as semiconductor revenue reaches 59.2%",
+  "desc": "AMS Advanced Material expands aluminium processing in Penang as semiconductor demand, OEM orders and recycling support 2027 growth.",
+  "date": "2026-11-18",
+  "id": "4e49297957f3",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/canada-extends-chinese-aluminium-tariff-relief-to-2028-adds-32-metal-import-exemptions-122006",
+  "title": "Canada extends Chinese aluminium tariff relief to 2028, adds 32 metal import exemptions",
+  "desc": "Discover: Canada extends Chinese aluminium tariff relief to 2028, adding 32 items amid continued trade tensions with the US.",
+  "date": "2026-11-18",
+  "id": "39e2c71ccac6",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/vishay-unveils-new-aluminium-electrolytic-capacitors-for-ev-chargers-solar-inverters-and-industrial-drives-122004",
+  "title": "Vishay unveils new aluminium electrolytic capacitors for EV chargers, solar inverters and industrial drives",
+  "desc": "Vishay has expanded its 259 PHM-SI aluminium electrolytic capacitor series with 550 V and 600 V models for high-voltage applications.",
+  "date": "2026-11-18",
+  "id": "eabc66304d1f",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/icsoba-best-papers",
+  "title": "ICSOBA best papers awards",
+  "desc": "Congratulations to the winners of the best paper awards at the ICSOBA conference in Bengaluru, India earlier today.",
+  "date": "2026-11-18",
+  "id": "966b3030a830",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/novelis-reports-25-net-sales-increase",
+  "title": "Novelis reports 25% net sales increase",
+  "desc": "Novelis achieved net sales of $5.9 billion for the second quarter of fiscal year 2027.",
+  "date": "2026-11-18",
+  "id": "2462f3a5ce1a",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/rio-tinto-breaks-ground-on-australian-bauxite-project",
+  "title": "Rio Tinto breaks ground on Australian bauxite project",
+  "desc": "Rio Tinto has broken ground on its USD 1.9 billion Kangwinan bauxite project in Queensland, Australia.",
+  "date": "2026-11-18",
+  "id": "2b38dd63595e",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/icsoba-conference-is-underway",
+  "title": "ICSOBA conference is underway",
+  "desc": "The International Committee for Study of Bauxite, Alumina, and Aluminium (ICSOBA) conference is currently taking place in Bengaluru, India.",
+  "date": "2026-11-18",
+  "id": "fbc50ac15e1f",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-18"
+ },
+ {
   "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/rio-tinto-restarts-idled-aluminium-production-line-in-new-zealand-2026-11-17",
   "title": "Rio Tinto restarts idled aluminium production line in New Zealand",
