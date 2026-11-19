@@ -1,5 +1,53 @@
 [
  {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/ebrd-and-emirates-nbd-extend-9-3m-loan-to-boost-egyptian-aluminium-tubes-production-122017",
+  "title": "EBRD and Emirates NBD extend $9.3m loan to boost Egyptian aluminium tubes production",
+  "desc": "EBRD and Emirates NBD provide a $9.3 million loan to Egypt's TUBE to expand aluminium tube production and improve sustainability.",
+  "date": "2026-11-19",
+  "id": "e33d9546b724",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-19"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/lme-aluminium-cash-offer-price-rises-1-1-to-3-095-t-as-opening-stocks-fall-to-220-350t-122016",
+  "title": "LME aluminium cash offer price rises 1.1% to $3,095/t as opening stocks fall to 220,350t",
+  "desc": "LME aluminium cash offer rises 1.13% to $3,095/t on November 18 as opening stocks fall 0.70% to 220,350 tonnes.",
+  "date": "2026-11-19",
+  "id": "10c2cba17e8b",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-19"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/nalco-rusal-sign-mou-to-explore-scandium-recovery-from-red-mud-122015",
+  "title": "NALCO, RUSAL sign MoU to explore scandium recovery from red mud",
+  "desc": "NALCO and RUSAL have signed an MoU to assess technologies for recovering scandium from red mud generated during alumina refining.",
+  "date": "2026-11-19",
+  "id": "bbc1aaa02a4b",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-19"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/manaksia-aluminium-q2-fy27-net-profit-jumps-21-7-to-inr-13-5-million-despite-revenue-decline-122014",
+  "title": "Manaksia Aluminium Q2 FY27 net profit jumps 21.7% to INR 13.5 million despite revenue decline",
+  "desc": "Manaksia Aluminium reports a Q2 FY27 net profit despite lower revenue, while contesting an INR 42.68 crore GST demand",
+  "date": "2026-11-19",
+  "id": "e38810bfc0d1",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-19"
+ },
+ {
   "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/anglogold-ashanti-to-invest-about-25bn-in-colombia-copper-mine-2026-11-18",
   "title": "AngloGold Ashanti to invest about $2.5bn in Colombia copper mine",
@@ -503,6 +551,80 @@
    "铝"
   ],
   "fetched": "2026-11-18"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/anglogold-outlines-2-5b-quebradona-copper-plan/",
+  "title": "AngloGold outlines $2.5B Quebradona copper plan",
+  "desc": "The underground project, about 60 km southwest of Medellín, could produce about 80,000 tonnes of copper a year.",
+  "date": "2026-11-18",
+  "id": "bec683e5efe4",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-19"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-18/freeport-indonesia-offers-manyar-copper-china-158ton-premium-2027",
+  "title": "Freeport Indonesia offers Manyar copper to China at $158/ton premium for 2027",
+  "desc": "Freeport Indonesia, an affiliate of US miner Freeport-McMoRan (NYSE: FCX), is offering copper from its Manyar smelter to Chinese buyers at a premium of $158 per metric ton for 2027, two market sources with knowledge of the matter said.This is the first time copper cathode from the 480,000-ton-per-year capacity Manyar smelter, whose production was curtailed after a deadly mudslide at the Grasberg m",
+  "date": "2026-11-18",
+  "id": "cf9f0949d6a7",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-19"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-18/kghm-beats-quarterly-profit-estimates-high-metal-prices",
+  "title": "KGHM beats quarterly profit estimates on high metal prices",
+  "desc": "Polish copper and silver producer KGHM (WSE: KGH) posted on Wednesday a third-quarter net profit that surpassed estimates, supported by steep prices of copper and silver but partly offset by rising costs.Industry surveys place KGHM among top silver producers and among the 10 largest copper miners, and investors watch it closely as a barometer of demand across the metals sector.The miner’s net prof",
+  "date": "2026-11-18",
+  "id": "20e2e1f34e88",
+  "metals": [
+   "铜",
+   "银"
+  ],
+  "fetched": "2026-11-19"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-18/gold-plunges-below-3750-silver-tumbles-hawkish-fed-minutes-pressure-metals",
+  "title": "Gold plunges below $3,750, silver tumbles as hawkish Fed minutes pressure metals - Kitco PM Report",
+  "desc": "(Kitco NewsWire) - Spot gold and silver prices were sharply lower in late U.S. trading Wednesday, extending their recent losses as a stronger U.S. dollar, expectations for further Federal Reserve interest rate increases and broad commodity-market selling weighed on precious metals. Gold dropped to its lowest level since September 2025, breaking below $3,750.00 an ounce, while silver suffered even ",
+  "date": "2026-11-18",
+  "id": "0164338871d9",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-19"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/can-aluminium-industry-waste-help-build-better-roads-china-tests-treated-bauxite-residue-as-an-alternative-road-construction-material-122012",
+  "title": "Can aluminium industry waste help build better roads? China tests treated bauxite residue as an alternative road construction material",
+  "desc": "Find out how China used modified red mud in a 4.9km expressway project.",
+  "date": "2026-11-18",
+  "id": "406e2db4d185",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-19"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/yokogawa-advances-autonomous-plant-operations-with-new-ai-enabled-centum-system-122010",
+  "title": "Yokogawa advances autonomous plant operations with new AI-enabled CENTUM system",
+  "desc": "Explore how Yokogawa's new AI-enabled CENTUM system aims to improve industrial process control.",
+  "date": "2026-11-18",
+  "id": "22df04f07239",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-19"
  },
  {
   "site": "Mining Weekly",
@@ -1769,6 +1891,18 @@
    "银"
   ],
   "fetched": "2026-11-17"
+ },
+ {
+  "site": "AlCircle",
+  "url": "https://www.alcircle.com/news/ega-allocates-400-million-to-restore-al-taweelah-smelter-production-121967",
+  "title": "EGA allocates $400 million to restore Al Taweelah smelter production",
+  "desc": "EGA plans $400 million in Al Taweelah restoration spending, targeting full production by early 2027 as recovery progresses.",
+  "date": "2026-11-16",
+  "id": "0c3bf8cbe603",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-19"
  },
  {
   "site": "AlCircle",
