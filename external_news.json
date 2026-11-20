@@ -1,5 +1,78 @@
 [
  {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/chinas-refined-copper-imports-set-to-jump-in-2027-2026-11-20",
+  "title": "China's refined copper imports set to jump in 2027",
+  "desc": "China's imports of refined copper are poised to climb in 2027 following this year's rare drop, as persistent feedstock shortages curb domestic supply even as demand continues to rise, according to 15 industry analysts and traders polled by Reuters. Higher imports will help the world's top consumer of the red metal used in construction, power grids and electric vehicles to regain some of the pricin",
+  "date": "2026-11-20",
+  "id": "a4b5e1715c72",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-20"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/chiles-environmental-regulator-files-charges-against-codelco-copper-mine-2026-11-20",
+  "title": "Chile's environmental regulator files charges against Codelco copper mine",
+  "desc": "Chile's environmental regulator SMA has filed charges against State-run miner Codelco's Ministro Hales copper mine over alleged failures to comply with measures aimed at controlling particulate matter emissions in the northern city of Calama, it said on Thursday. Charges follow inspections and seven citizen complaints filed between 2021 and 2024 in Calama, SMA said.",
+  "date": "2026-11-20",
+  "id": "e31bbee544ae",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-20"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/mt-gibson-gold-project-australia-2026-11-20",
+  "title": "Mt Gibson gold project, Australia",
+  "desc": "An updated prefeasibility has evaluated Capricorn Metals’ plan to develop, build and operate a nameplate five-million-tonne-a-year gold mining operation.",
+  "date": "2026-11-20",
+  "id": "9849f931d8c3",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-20"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/nyanzaga-gold-project-tanzania-update-2026-11-20",
+  "title": "Nyanzaga gold project, Tanzania – update",
+  "desc": "First ore has been fed into the plant.",
+  "date": "2026-11-20",
+  "id": "5cf17d40bad9",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-20"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/bankan-gold-project-guinea-update-2026-11-20",
+  "title": "Bankan gold project, Guinea – update",
+  "desc": "Guinea has been granted the Bankan exploitation permit by Presidential decree.",
+  "date": "2026-11-20",
+  "id": "8c8e83d22675",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-20"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/recovery-rate-driving-reprocessing-operation-2026-11-20",
+  "title": "Recovery rate driving reprocessing operation",
+  "desc": "The targeted recovery rate of 72% copper cathode and copper-gold concentrate from historic copper tailings has motivated the development of reprocessing operations at battery minerals-focused tailings developer Halo Minerals’ Playa Verde asset, in Chañaral, in the Atacama region of Chile. The project will reprocess copper tailings – formed from 250-million tonnes of waste – discharged into the Sal",
+  "date": "2026-11-20",
+  "id": "7fab52c2a65f",
+  "metals": [
+   "铜",
+   "金"
+  ],
+  "fetched": "2026-11-20"
+ },
+ {
   "site": "AlCircle",
   "url": "https://www.alcircle.com/news/ebrd-and-emirates-nbd-extend-9-3m-loan-to-boost-egyptian-aluminium-tubes-production-122017",
   "title": "EBRD and Emirates NBD extend $9.3m loan to boost Egyptian aluminium tubes production",
@@ -281,6 +354,153 @@
    "铝"
   ],
   "fetched": "2026-11-19"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/copper-price-rebounds-after-rout-as-physical-tightness-persists/",
+  "title": "Copper price rebounds after rout as physical tightness persists",
+  "desc": "Physical supplies remain tight outside of the US, particularly in China, where inventories have fallen to critically low levels.",
+  "date": "2026-11-19",
+  "id": "2aa51757dde8",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-20"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/codelco-lowers-china-copper-premium-for-2027-in-bid-to-boost-sales-sources-say/",
+  "title": "Codelco lowers China copper premium for 2027 in bid to boost sales, sources say",
+  "desc": "Codelco has offered premiums in the range of $250-280 per ton to Asian buyers for 2027, a source told Reuters.",
+  "date": "2026-11-19",
+  "id": "cc40a12f8ab1",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-20"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/soaring-chinese-premiums-draw-copper-from-us-sources-say/",
+  "title": "Soaring Chinese premiums draw copper from US, sources say",
+  "desc": "Traders are offering around 1,000 metric tons of refined copper from the US to Chinese customers for $300 a ton, sources told Reuters.",
+  "date": "2026-11-19",
+  "id": "de94a225096e",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-20"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/tudor-dumps-copper-miners-doubles-down-on-gold-silver/",
+  "title": "Tudor dumps copper miners, doubles down on gold, silver",
+  "desc": "He is the second billionaire this week, after Druckenmiller, to offload copper assets as metals face fresh volatility.",
+  "date": "2026-11-19",
+  "id": "76f2fe1583ec",
+  "metals": [
+   "铜",
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-20"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/chile-threatens-codelco-mine-permit-over-dust-violations/",
+  "title": "Chile threatens Codelco mine permit over dust violations",
+  "desc": "Environmental regulator said Ministro Hales' dust control failures may lead to fines, closure, or permit revocation.",
+  "date": "2026-11-19",
+  "id": "335ac136ba77",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-20"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/friedlands-ivanhoe-electric-strikes-high-grade-copper-in-arizona/",
+  "title": "Friedland’s Ivanhoe Electric strikes high-grade copper in Arizona",
+  "desc": "Ivanhoe Electric's latest drilling reveals two mineralized zones at Gleeson, raising prospects for a new US mining district.",
+  "date": "2026-11-19",
+  "id": "c4aff0f59b48",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-20"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/vizsla-delays-first-silver-at-panuco-by-a-year/",
+  "title": "Vizsla delays first silver at Panuco by a year",
+  "desc": "Vizsla now targets first silver at Panuco in the second half of 2028.",
+  "date": "2026-11-19",
+  "id": "79dbece4cacd",
+  "metals": [
+   "银"
+  ],
+  "fetched": "2026-11-20"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/codelco-faces-dust-charges-at-chilean-mine/1003898058/",
+  "title": "Codelco faces dust charges at Chilean mine",
+  "desc": "Chile’s environmental regulator has accused state-owned copper producer Codelco of two serious dust-control violations at its Ministro Hales mine, exposing the operation to fines, closure...",
+  "date": "2026-11-19",
+  "id": "96b1bf2b918c",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-20"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-19/codelco-lowers-china-copper-premium-2027-bid-boost-sales-sources-say",
+  "title": "Codelco lowers China copper premium for 2027 in bid to boost sales, sources say",
+  "desc": "Codelco is offering refined copper to Chinese customers in 2027 at lower premiums than those charged this year, four people with knowledge of the matter said, as the Chilean giant looks to revive its sales in the world’s biggest metals market.Premiums set by Codelco for physical delivery of refined copper are paid on top of London Metal Exchange prices and are often referenced as a benchmark in gl",
+  "date": "2026-11-19",
+  "id": "c3dca9024199",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-20"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-19/gold-falls-below-3650-silver-tumbles-fed-rate-concerns-pressure-metals",
+  "title": "Gold falls below $3,650, silver tumbles as Fed rate concerns pressure metals - Kitco PM Report",
+  "desc": "(Kitco NewsWire) - Spot gold and silver prices were sharply lower in late U.S. trading Thursday, extending their recent selloff as expectations for further Federal Reserve interest rate increases, a firm U.S. dollar and another sharp decline in North American equity markets pressured precious metals. Gold dropped below $3,650.00 an ounce to fresh 14-month lows, while silver suffered heavier sellin",
+  "date": "2026-11-19",
+  "id": "f6d93ae80836",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-20"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-19/gold-top-commodity-pick-2027-even-broader-commodities-likely-underperform",
+  "title": "Gold the top commodity pick for 2027 even as broader commodities likely to underperform – Morgan Stanley",
+  "desc": "(Kitco News) – While the U.S. dollar could strengthen modestly next year, oil prices will likely moderate toward $75 per barrel by the fourth quarter, and gold remains the top commodity pick for 2027, according to Morgan Stanley Research.“The biggest change since our midyear outlook is how much more attractive risk has become,” said Serena Tang, Morgan Stanley’s Chief Cross-Asset Strategist in the",
+  "date": "2026-11-19",
+  "id": "ed5f79e2a635",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-20"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/speira-completes-eur36-million-aluminium-furnace-investment",
+  "title": "Speira completes €36 million aluminium furnace investment",
+  "desc": "Speira has opened the G3 melting furnace at its Holmestrand, Norway plant.",
+  "date": "2026-11-19",
+  "id": "1bdb692e039e",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-20"
  },
  {
   "site": "Mining Weekly",
