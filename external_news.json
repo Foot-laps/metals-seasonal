@@ -1,5 +1,17 @@
 [
  {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/two-chinese-copper-smelters-blend-concentrate-overseas-to-boost-supply-sources-say/",
+  "title": "Two Chinese copper smelters blend concentrate overseas to boost supply, sources say",
+  "desc": "The blending of copper concentrates has been allowed in bonded zones at domestic ports since 2020.",
+  "date": "2026-11-21",
+  "id": "e82d99f76368",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-21"
+ },
+ {
   "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/chinas-refined-copper-imports-set-to-jump-in-2027-2026-11-20",
   "title": "China's refined copper imports set to jump in 2027",
@@ -337,6 +349,106 @@
    "金"
   ],
   "fetched": "2026-11-20"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/bill-gates-visit-fuels-row-over-who-should-own-chiles-copper/",
+  "title": "Bill Gates visit fuels row over who should own Chile’s copper",
+  "desc": "A visit by Bill Gates to Chile’s most iconic mine has riled up politicians.",
+  "date": "2026-11-20",
+  "id": "9b4ca2693822",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-21"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/op-ed-funds-dump-copper-but-shanghai-has-run-out-of-metal/",
+  "title": "Op-Ed: -Funds dump copper but Shanghai has run out of metal",
+  "desc": "It's been an eventful week for Doctor Copper.",
+  "date": "2026-11-20",
+  "id": "6ecd635eaa31",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-21"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-20/gold-falls-toward-3500-silver-slides-stock-markets-enter-correction",
+  "title": "Gold falls toward $3,500, silver slides as stock markets enter correction territory - Kitco PM Report",
+  "desc": "(Kitco NewsWire) - Spot gold and silver prices were sharply lower in late U.S. trading Friday, extending their recent selloff as a historic technology-led equity market decline and expectations for additional Federal Reserve interest rate increases pressured precious metals. Gold approached the psychologically important $3,500 level, trading at its lowest prices since September 2025, while silver ",
+  "date": "2026-11-20",
+  "id": "5781112bb5fb",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-21"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-20/there-are-five-trillion-reasons-not-give-gold-just-yet",
+  "title": "There are five trillion reasons not to give up on gold just yet",
+  "desc": "(Kitco News) - There is no denying that this week’s price action delivered a gut punch to gold and silver investors. But while the precious metals may be down, they are certainly not out. And there could be 5 trillion new reasons why gold prices rally in the months ahead.While rising bond yields and expectations of further Federal Reserve rate hikes have created significant headwinds for gold, the",
+  "date": "2026-11-20",
+  "id": "6a17b2e715cd",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-21"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-20/wall-street-stays-bearish-after-golds-slide-3500-main-street-pessimism",
+  "title": "Wall Street stays bearish after gold’s slide to $3,500, Main Street pessimism deepens ahead of holiday week",
+  "desc": "(Kitco News) – Gold prices suffered another brutal weekly decline as increasingly hawkish Federal Reserve rate expectations, surging Treasury yields, and a stronger U.S. dollar overwhelmed safe-haven demand, while a deepening technology-led equity selloff triggered widespread liquidations and drove the precious metal to its lowest level in over a year.Spot gold kicked off the week trading at $3,86",
+  "date": "2026-11-20",
+  "id": "cf57f359ef3d",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-21"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-20/gold-and-silver-could-return-mid-2025-levels-inflation-hedge-bid-evaporates",
+  "title": "Gold and silver could return to mid-2025 levels as inflation-hedge bid evaporates – SIA’s Cieszynski",
+  "desc": "(Kitco News) – Gold’s role as an inflation hedge is beginning to work against it as energy prices fall and as a new Congress looks to curtail the administration’s trade tariffs, and the yellow metal is likely to return to the base that launched last year’s parabolic rally, according to Colin Cieszynski, chief market strategist at SIA Wealth Management.Cieszynski noted the massive drop in inflation",
+  "date": "2026-11-20",
+  "id": "73dfa9e623b5",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-21"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-20/gold-and-silver-suffer-brutal-losses-liquidity-crunch-deepens-analysts-see",
+  "title": "Gold and silver suffer brutal losses as liquidity crunch deepens, but analysts see signs of a bottom",
+  "desc": "(Kitco News) - Liquidity demands are once again punishing gold and silver, with both precious metals seeing their worst weekly declines since March as investors scramble to raise cash amid growing turmoil in global equity markets.Gold prices are down roughly 9.5% this week as they test critical support at $3,500 an ounce. At the same time, silver prices have fallen more than 15%, testing support a",
+  "date": "2026-11-20",
+  "id": "d2333d429438",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-21"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-20/gold-price-could-drop-300-if-3500oz-fails-and-buyers-might-hold-until-fed",
+  "title": "Gold price could drop $300 if $3,500/oz fails, and buyers might hold off until the Fed – Walsh Trading’s Lusk",
+  "desc": "(Kitco News) – Gold’s selloff is deepening on Friday, and if $3,500 – or $3,573 in futures – doesn’t hold, the yellow metal could quickly tumble $300 further, with buyers unlikely to reverse its course until early December, according to Sean Lusk, co-director of commercial hedging at Walsh Trading.Lusk told Kitco News on Friday that he’d been expecting gains from gold as recently as two weeks ago.",
+  "date": "2026-11-20",
+  "id": "d2b600dffc2a",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-21"
  },
  {
   "site": "AlCircle",
