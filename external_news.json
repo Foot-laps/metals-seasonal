@@ -1,5 +1,17 @@
 [
  {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/bhp-unveils-174bn-plan-to-double-south-australian-copper-output-by-2040-2026-11-23",
+  "title": "BHP unveils $17.4bn plan to double South Australian copper output by 2040",
+  "desc": "BHP, the world's top copper miner, said on Monday it plans to spend up to $17.4-billion to double its South Australian copper production by 2040, with a final investment decision due in the first half of next year. BHP said it had found an economic path to raise annual copper output to 650 000 tons from the region, which it says is the world's second-biggest source of copper.",
+  "date": "2026-11-23",
+  "id": "b52377f67d34",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
   "site": "Mining.com",
   "url": "https://www.mining.com/web/two-chinese-copper-smelters-blend-concentrate-overseas-to-boost-supply-sources-say/",
   "title": "Two Chinese copper smelters blend concentrate overseas to boost supply, sources say",
