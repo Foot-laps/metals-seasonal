@@ -13,6 +13,345 @@
  },
  {
   "site": "Mining.com",
+  "url": "https://www.mining.com/copper-rout-threatens-chiles-budget-recovery-hopes/",
+  "title": "Copper rout threatens Chile’s budget recovery hopes",
+  "desc": "Falling metal prices, rising fuel subsidies and weak growth put President Kast's fiscal targets and credit standing at risk.",
+  "date": "2026-11-23",
+  "id": "d401f8258660",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/canadian-copper-sees-expansion-opportunites-in-new-brunswick/",
+  "title": "Canadian Copper sees expansion opportunites in New Brunswick",
+  "desc": "Broad copper intervals found west of Murray Brook in New Brunswick may expand ore processing plans at Caribou mill.",
+  "date": "2026-11-23",
+  "id": "aea1a505989b",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/copper-price-roars-back-from-bear-market-as-nvidias-huang-u-turn-revives-ai-trade/",
+  "title": "Copper price roars back from bear market as Nvidia’s Huang U-turn revives AI trade",
+  "desc": "New York copper futures were still sliding minutes before the Nvidia announcement. Marex says the jury is out on whether the bottom is in.",
+  "date": "2026-11-23",
+  "id": "ac50543c7812",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/prospectiva-hits-rich-copper-zone-at-sao-francisco/",
+  "title": "Prospectiva hits rich copper zone at São Francisco",
+  "desc": "The new hole supports Prospectiva’s interpretation that the copper mineralization extends deeper towards the east.",
+  "date": "2026-11-23",
+  "id": "4eb019ae49ed",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/panama-first-quantum-begin-talks-on-giant-copper-mines-reopening/",
+  "title": "Panama, First Quantum begin talks on giant copper mine’s reopening",
+  "desc": "First Quantum accepted five conditions from the government for reopening negotiations, officials announced after Monday's meeting.",
+  "date": "2026-11-23",
+  "id": "b4d6e14172b6",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/ground-view-pakistan-beyond-reko-diq-today/",
+  "title": "Ground View Pakistan: Beyond Reko Diq, today",
+  "desc": "A reporting trip to Islamabad reveals mineral opportunities across Pakistan’s north, even as its flagship copper project slows.",
+  "date": "2026-11-23",
+  "id": "6383768764b1",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/bhp-bets-17-4b-on-doubling-south-australian-copper-output/",
+  "title": "BHP bets $17.4 billion on doubling South Australian copper output",
+  "desc": "Mining giant targets 650,000 tonnes annually by 2040, but high costs, water shortages and technical hurdles pose challenges.",
+  "date": "2026-11-23",
+  "id": "ea79040a8f1c",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/eldorado-moves-closer-to-production-at-greek-gold-mine/",
+  "title": "Eldorado moves closer to production at Greek gold mine",
+  "desc": "Four tailings filter presses are now operating at Skouries, with the company targeting year-end output.",
+  "date": "2026-11-23",
+  "id": "7d45843a5ed8",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/gold-price-rises-as-bargain-hunters-step-in-after-steep-weekly-drop/",
+  "title": "Gold price rises as bargain hunters step in after steep weekly drop",
+  "desc": "AI-linked stocks selloff prompted some investors to liquidate gold to raise cash, causing gold prices to fall over 9% last week.",
+  "date": "2026-11-23",
+  "id": "d9101cd033e8",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/namib-minerals-pours-first-gold-at-historic-redwing-gold-mine/",
+  "title": "Namib Minerals pours first gold at historic Redwing gold mine",
+  "desc": "The mine in eastern Zimbabwe has been going through a phased restart, getting ready to restart commercial production.",
+  "date": "2026-11-23",
+  "id": "d675a7f2c867",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/anglogold-to-pay-40-premium-for-sitka-gold-stake/",
+  "title": "AngloGold to pay 40% premium for Sitka Gold stake",
+  "desc": "The investment comes as Sitka awaits assays from 82 holes totalling about 27,000 metres across six targets.",
+  "date": "2026-11-23",
+  "id": "f86f22c952db",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/ontario-approves-springpole-gold-project-assessment/",
+  "title": "Ontario approves Springpole gold project assessment",
+  "desc": "Springpole could produce an average 281,000 oz. over a 9.4-year mine life, First Mining estimated in its 2025 prefeasibility study.",
+  "date": "2026-11-23",
+  "id": "043b8b9e70a9",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/lme-should-intervene-in-historic-aluminum-squeeze-trader-oddo-says/",
+  "title": "LME should intervene in historic aluminum squeeze, trader says",
+  "desc": "Chacun called on the exchange to identify dominant market positions and establish rules to limit backwardation.",
+  "date": "2026-11-23",
+  "id": "a68e359c13d2",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/net-bullish-copper-bets-fall-to-20-month-low/1003898161/",
+  "title": "Net bullish copper bets fall to 20-month low",
+  "desc": "Speculative investors reduced their net bullish positions in copper futures by nearly 39% in the latest reporting week, according to BMO Capital Markets, as selling...",
+  "date": "2026-11-23",
+  "id": "89760b7e71da",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/ontario-approves-springpole-gold-project-assessment/1003898127/",
+  "title": "Ontario approves Springpole gold project assessment",
+  "desc": "First Mining Gold (TSX: FF; US-OTC: FFMGF) has received Ontario’s environmental-assessment approval for the Springpole project in northwestern Ontario as it looks to finance a...",
+  "date": "2026-11-23",
+  "id": "128e2cd774da",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/canadian-copper-sees-expansion-opportunites-in-new-brunswick/1003898157/",
+  "title": "Canadian Copper sees expansion opportunites in New Brunswick",
+  "desc": "Canadian Copper (CSE: CCI) has reported broad copper-bearing drill intervals west of its Murray Brook deposit in New Brunswick, highlighting potential expansion opportunities as it...",
+  "date": "2026-11-23",
+  "id": "91173f6dab07",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/prospectiva-hits-rich-copper-zone-at-sao-francisco/1003898150/",
+  "title": "Prospectiva hits rich copper zone at São Francisco",
+  "desc": "New drilling by Prospectiva Resources (TSXV: PSVA) at the São Francisco project in northeastern Brazil has produced its most significant copper intersection yet ahead of...",
+  "date": "2026-11-23",
+  "id": "f506a7a34ed4",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "The Northern Miner",
+  "url": "https://www.northernminer.com/news/anglogold-to-pay-40-premium-for-sitka-gold-stake/1003898145/",
+  "title": "AngloGold to pay 40% premium for Sitka Gold stake",
+  "desc": "AngloGold Ashanti (NYSE: AU; JSE: ANG) has agreed to invest at least $72.8 million (US$50.8 million) for a 15% stake in Sitka Gold (TSXV: SIG;...",
+  "date": "2026-11-23",
+  "id": "80b9cb9a6540",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/leeuwin-metals-to-acquire-fellow-australian-gold-miner-wa-gold-2026-11-23",
+  "title": "Leeuwin Metals to acquire fellow Australian gold miner WA Gold",
+  "desc": "Australian miners WA Gold and Leeuwin Metals have signed a scheme implementation deed whereby Leeuwin will buy out WA Gold's shares and have it become a wholly-owned subsidiary of Leeuwin. The combined entity will have a mineral resource base of 896 000 oz of gold across two projects - Marda and Abercromby, both of which have granted mining leases in place.",
+  "date": "2026-11-23",
+  "id": "d8a1708ed196",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-23/gold-silver-prices-see-sharp-rebounds-ai-shares-rally-renewed-fed",
+  "title": "Gold, silver prices see sharp rebounds as AI shares rally, renewed Fed uncertainty - Kitco PM Report",
+  "desc": "(Kitco NewsWire) - Gold and silver prices rebounded strongly Monday after last week's steep selloff, supported by bargain hunting and improving risk sentiment as global equity markets recovered. However, persistent Federal Reserve tightening concerns, elevated Treasury yields and geopolitical uncertainty continue to challenge the sustainability of the precious metals recovery. In late-afternoon tr",
+  "date": "2026-11-23",
+  "id": "b9db9bd03cdb",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-23/golds-recovery-may-be-short-lived-natixis-warns-drop-3340",
+  "title": "Gold's recovery may be short-lived as Natixis warns of drop to $3,340",
+  "desc": "(Kitco News) - The gold market is seeing a healthy recovery from last week’s 9% drop, with prices pushing back above $3,600 an ounce. However, one precious metals analyst is warning investors that the market could still have further to fall as higher interest rates, a stronger U.S. dollar and weakening investment demand continue to weigh on the precious metal.In a report published Friday, Bernard ",
+  "date": "2026-11-23",
+  "id": "6ccd4c26180f",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-23/gold-prices-jump-3-bargain-hunting-overshadows-slowing-us-manufacturing-and",
+  "title": "Gold prices jump 3% as bargain hunting overshadows slowing U.S. manufacturing and services activity",
+  "desc": "(Kitco News) - Bargain-hunting momentum following last week’s major selloff remains the biggest driver for gold at the start of the week, with economic data providing little direction as activity in both the U.S. manufacturing and services sectors slows but remains fairly resilient.S&P Global reported Monday that its flash Composite Purchasing Managers Index (PMI) fell to 54.6 in November, down fr",
+  "date": "2026-11-23",
+  "id": "d52b31d7bab6",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-23/gold-price-rallies-above-3600-ai-selloff-reshapes-fed-outlook-kitco-am",
+  "title": "Gold price rallies above $3,600 as AI selloff reshapes Fed outlook - Kitco AM Report",
+  "desc": "(Kitco NewsWire) - Spot gold and silver prices are sharply higher in early U.S. trading Monday, supported by bargain hunting, short covering and reduced expectations of aggressive Federal Reserve tightening following last week's heavy selling across global financial markets. In overnight trading, spot gold climbed 2.4% to $3,616.51 an ounce, while spot silver advanced 5.0% to $43.20 an ounce.The r",
+  "date": "2026-11-23",
+  "id": "9168725dc718",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "BullionVault",
+  "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-crash-rally-112320261",
+  "title": "Gold, Silver Prices Rebound with US Stocks from Markets-Wide 'Washout' | Gold News",
+  "desc": "Gold and silver jumped in Asian and then US trading on Monday, reversing part of November's crash along with US stock markets >>",
+  "date": "2026-11-23",
+  "id": "429ea7f17b01",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "世界黄金协会",
+  "url": "https://www.gold.org/goldhub/gold-focus/2026/11/golds-role-ai-driven-economy-direct-and-indirect-effects",
+  "title": "Gold's Role in an AI-Driven Economy: Direct and Indirect Effects",
+  "desc": "In my recent conversations with investors, few topics have come up as frequently as AI. AI has become a major source of US growth, with a handful of companies driving much of the expansion in recent years. With a force this large reshaping the economy, it is no surprise that investors are asking what AI means for gold. Post by Joseph Cavatoni",
+  "date": "2026-11-23",
+  "id": "82a3ef4ea281",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "世界黄金协会",
+  "url": "https://www.gold.org/goldhub/gold-focus/2026/11/weekly-markets-monitor-ai-reckoning",
+  "title": "Weekly Markets Monitor: A(I) reckoning",
+  "desc": "Equity markets sold off last week on the back of AI concerns. Nvidia slumped despite strong earnings after fresh reports of an accounting probe by the SEC, while Anthropic’s record IPO gave back much of its debut gains. Post by Weekly Markets Monitor",
+  "date": "2026-11-23",
+  "id": "5d7a7d7b4acb",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/nalco-and-rusal-target-scandium-recovery",
+  "title": "NALCO and Rusal target scandium recovery",
+  "desc": "The National Aluminium Company (NALCO) has partnered with Rusal to recover the critical mineral scandium from red mud.",
+  "date": "2026-11-23",
+  "id": "af675349b49e",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/century-aluminum-reports-q3-boost-from-potline-restarts",
+  "title": "Century Aluminum reports Q3 boost from potline restarts",
+  "desc": "Century Aluminum’s third quarter net sales neared $1 billion as operations returned to full capacity for the first time in over a decade.",
+  "date": "2026-11-23",
+  "id": "c48b3f5820c6",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-23"
+ },
+ {
+  "site": "Mining.com",
   "url": "https://www.mining.com/web/two-chinese-copper-smelters-blend-concentrate-overseas-to-boost-supply-sources-say/",
   "title": "Two Chinese copper smelters blend concentrate overseas to boost supply, sources say",
   "desc": "The blending of copper concentrates has been allowed in bonded zones at domestic ports since 2020.",
