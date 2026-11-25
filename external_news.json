@@ -1,6 +1,42 @@
 [
  {
   "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/lme-tightens-rules-in-response-to-aluminium-squeeze-2026-11-25",
+  "title": "LME tightens rules in response to aluminium squeeze",
+  "desc": "The London Metal Exchange (LME) temporarily tightened its rules on Tuesday in response to a squeeze in the aluminium market that has forced consumers to pay the most for immediate supplies in almost four decades. The exchange, the world's oldest and largest market for industrial metals, said in a notice it was temporarily changing its rules for short-term trades to help defuse the situation.",
+  "date": "2026-11-25",
+  "id": "d688824430f0",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-25"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/strategic-minerals-secures-2m-uk-gov-grant-for-redmoor-feasibility-works-2026-11-25",
+  "title": "Strategic Minerals secures £2m UK gov grant for Redmoor feasibility works",
+  "desc": "Aim-listed Strategic Minerals' subsidiary Cornwall Resources has been awarded a £2-million grant from the UK government's Kernow Industrial Growth Fund to support development of the Redmoor tungsten/copper/tin project, in Cornwall. The funding will support a 22 500 m resource infill drilling on the project, as well as acceleration of prefeasibility and definitive feasibility studies.",
+  "date": "2026-11-25",
+  "id": "b5cd5f6e4687",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-25"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/canadian-palladium-producer-generation-mining-finalises-long-lead-item-orders-for-marathon-project-2026-11-25",
+  "title": "Canadian palladium producer Generation Mining finalises long-lead item orders for Marathon project",
+  "desc": "TSX-listed precious- and base metals miner Generation Mining has reported strong progress at its Marathon copper/palladium project, in Ontario, having finalised all long-lead item orders. The company confirms procurement commitments now exceed C$500-million and are at or below the costs estimated in the project's most recent feasibility study and construction budget.",
+  "date": "2026-11-25",
+  "id": "a406439bcf42",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-25"
+ },
+ {
+  "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/copper-smelters-face-worsening-squeeze-as-negotiations-stall-2026-11-24",
   "title": "Copper smelters face worsening squeeze as negotiations stall",
   "desc": "Copper smelters are bracing for a period of extreme financial pressure as closely-watched negotiations over supply contracts for next year go down to the wire. Talks between Chinese copper smelters and Antofagasta for annual supply of semi-processed copper ore, known as concentrates, typically set a benchmark for the entire industry. Yet after negotiations in Shanghai last week, the two sides are ",
@@ -472,6 +508,18 @@
    "铝"
   ],
   "fetched": "2026-11-24"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/tudor-sees-2-3b-value-in-treaty-creek-mine/",
+  "title": "Tudor sees $2.3B value in Treaty Creek mine",
+  "desc": "The Goldstorm mine, about 930 km northwest of Vancouver, could produce 4.68 million oz. of gold over 28 years with a 20% internal rate of return.",
+  "date": "2026-11-24",
+  "id": "4d10cdaf6932",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-25"
  },
  {
   "site": "Mining Weekly",
