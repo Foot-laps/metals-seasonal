@@ -1,6 +1,78 @@
 [
  {
   "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/barrick-international-ceo-meets-mali-pm-in-first-visit-since-standoff-2026-11-26",
+  "title": "Barrick International CEO meets Mali PM in first visit since standoff",
+  "desc": "The CEO of Barrick Mining's new international division met with Mali's Prime Minister on Wednesday, the government said, the first visit by a foreign executive of the company since it resolved a major dispute with Mali a year ago. The visit points to warmer relations between the military-led West African nation and Barrick, which owns the mammoth Loulo-Gounkoto gold mining complex in western Mali ",
+  "date": "2026-11-26",
+  "id": "b2946170ffb6",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-26"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/indonesian-rescuers-resume-search-for-13-people-trapped-inside-illegal-mine-after-13-confirmed-dead-2026-11-26",
+  "title": "Indonesian rescuers resume search for 13 people trapped inside illegal mine after 13 confirmed dead",
+  "desc": "Rescuers will resume the search on Thursday for 13 workers trapped underground in an illegal gold mine in Indonesia's West Java province, with 13 already confirmed dead, police and rescue authorities said. In the region of Bogor, south of the capital Jakarta, a total of 26 workers entered the mine on Monday when heavy rains inundated the shaft and left them trapped 100 m (328 ft) underground.",
+  "date": "2026-11-26",
+  "id": "6d506e6eb305",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-26"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/blue-gold-eyes-international-commodity-trading-diversification-to-connect-critical-minerals-globally-2026-11-26",
+  "title": "Blue Gold eyes international commodity trading diversification to connect critical minerals globally",
+  "desc": "Nasdaq-listed Blue Gold has announced its expansion into international commodity trading, having entered into a letter of intent to acquire 51% of a privately held international commodity trading business based in London, in exchange for a minority shareholding in Blue Gold. The proposed transaction is intended to advance Blue Gold's strategy to build a global commodity trading and consolidation p",
+  "date": "2026-11-26",
+  "id": "8229302694b6",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-26"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/norsk-hydro-expects-full-return-of-qatalum-aluminium-output-early-next-year-2026-11-26",
+  "title": "Norsk Hydro expects full return of Qatalum aluminium output early next year",
+  "desc": "Norsk Hydro's Qatalum aluminium joint venture is on track to fully restore production in the first quarter of next year and the Norwegian company has temporarily resumed marketing the Qatari metal, its CEO said on Wednesday. After months of supply disruption because of the US-Israeli war on Iran, aluminium traders have been closely following production ramp-ups by Middle East smelters, which accou",
+  "date": "2026-11-26",
+  "id": "557c7538b12f",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-26"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/lme-approves-listing-of-tsingshans-indonesian-aluminium-brand-2026-11-26",
+  "title": "LME approves listing of Tsingshan's Indonesian aluminium brand",
+  "desc": "The London Metal Exchange (LME) said on Wednesday it had approved the listing of an Indonesian aluminium brand produced by Chinese duo Tsingshan Holding Group and Huafon Group with immediate effect, providing supply relief to a market very low on inventory. The exchange previously only accepted deliveries from one aluminium producer in Indonesia, State-owned Inalum. But Chinese investors - driven ",
+  "date": "2026-11-26",
+  "id": "ceddb734f293",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-26"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/dynacor-urges-shareholders-to-practice-caution-with-unsolicited-bid-received-2026-11-26",
+  "title": "Dynacor urges shareholders to practice caution with unsolicited bid received",
+  "desc": "TSX-listed artisanal gold processor Dynacor Group has received an unsolicited offer by precious metals investor TG Offtakes Corporation to purchase a 10.2% shareholding, or 4.2-million shares, in Dynacor at a price of C$5.75 apiece. Dynacor has recommended that shareholders do not endorse the acceptance of this offer, explaining that Dynacor has no relationship with the bidder and the bidder's off",
+  "date": "2026-11-26",
+  "id": "04e156020ecb",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-26"
+ },
+ {
+  "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/lme-tightens-rules-in-response-to-aluminium-squeeze-2026-11-25",
   "title": "LME tightens rules in response to aluminium squeeze",
   "desc": "The London Metal Exchange (LME) temporarily tightened its rules on Tuesday in response to a squeeze in the aluminium market that has forced consumers to pay the most for immediate supplies in almost four decades. The exchange, the world's oldest and largest market for industrial metals, said in a notice it was temporarily changing its rules for short-term trades to help defuse the situation.",
@@ -436,6 +508,43 @@
    "铝"
   ],
   "fetched": "2026-11-25"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/valore-seeks-financing-for-135m-brazil-gold-deal/",
+  "title": "ValOre seeks financing for $135M Brazil gold deal",
+  "desc": "Água Azul would give ValOre a second Brazilian property, as well as a first operating asset.",
+  "date": "2026-11-25",
+  "id": "8e5649b02f69",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-26"
+ },
+ {
+  "site": "Mining.com",
+  "url": "https://www.mining.com/web/lme-approves-listing-of-tsingshans-indonesian-aluminum-brand/",
+  "title": "LME approves listing of Tsingshan’s Indonesian aluminum brand",
+  "desc": "The wave of new supply is set to leave the aluminum market in a surplus next year.",
+  "date": "2026-11-25",
+  "id": "cbebf7f1f72d",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-26"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-25/gold-silver-reverse-early-losses-wall-street-rebounds-ahead-thanksgiving",
+  "title": "Gold, silver reverse early losses as Wall Street rebounds ahead of Thanksgiving - Kitco PM Report",
+  "desc": "(Kitco NewsWire) - Spot gold and silver prices were higher in late U.S. trading Wednesday, staging a recovery from steep morning losses as falling Treasury yields and a broad rebound in North American equities helped stabilize precious metals despite stronger-than-expected U.S. economic growth and persistent inflation. Gold recovered above $3,570.00 an ounce after briefly falling below $3,450.00, ",
+  "date": "2026-11-25",
+  "id": "3554f89e5fa3",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-26"
  },
  {
   "site": "Mining Weekly",
