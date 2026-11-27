@@ -1,6 +1,78 @@
 [
  {
   "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/ero-copper-suspends-tucum-copper-mine-to-resolve-rainfall-induced-issues-2026-11-27",
+  "title": "Ero Copper suspends Tucumã copper mine to resolve rainfall-induced issues",
+  "desc": "TSX- and NYSE-listed Ero Copper has suspended all mining and processing activities at the Tucumã copper mine, in Brazil, over weather concerns. The company says it is complying with a notice from the Pará State Environment and Sustainability Secretariat (SEMAS), which followed heavy rainfall at Tucumã that led to two localised overflow events.",
+  "date": "2026-11-27",
+  "id": "6bac48d219e0",
+  "metals": [
+   "铜"
+  ],
+  "fetched": "2026-11-27"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/junior-canadian-gold-explorer-gfg-receives-c200-000-gov-grant-2026-11-27",
+  "title": "Junior Canadian gold explorer GFG receives C$200 000 gov grant",
+  "desc": "TSX-V-listed GFG Resources has been awarded C$200 000 in funding from the Ontario Junior Exploration Programme (OJEP), in support of its 2026 exploration activities on the Goldarm property in Timmins, Ontario. The funding is matched with that of GFG to offset eligible exploration expenditures such as drilling and base-of-till sampling.",
+  "date": "2026-11-27",
+  "id": "6f011a2fd788",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-27"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/south-railroad-gold-project-us-2026-11-27",
+  "title": "South Railroad gold project, US",
+  "desc": "The project entails developing an openpit heap-leach gold mine with an initial ten-year mine life.",
+  "date": "2026-11-27",
+  "id": "f0a26d4f359f",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-27"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/stibnite-gold-project-us-update-2026-11-27",
+  "title": "Stibnite gold project, US – update",
+  "desc": "Perpetua Resources Group announced a nonbinding memorandum of understanding on November 17, 2026, with an unnamed major US aerospace and defence company to evaluate tungsten funding and future supply arrangements for the proposed project.",
+  "date": "2026-11-27",
+  "id": "fd8d28b61e67",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-27"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/cte-divoire-project-key-to-gold-miners-500-000-oz-target-2026-11-27",
+  "title": "Côte d’Ivoire project key to gold miner’s 500 000-oz target",
+  "desc": "Côte d’Ivoire is central to gold producer Resolute Mining’s growth strategy, with its Doropo gold project progressing on schedule and on budget towards first gold in the first half of 2028, alongside the continued growth and derisking of the company’s ABC greenfield project, says Resolute Mining CEO Christopher Eger. “Côte d’Ivoire is a stable, well-established mining jurisdiction with strong geol",
+  "date": "2026-11-27",
+  "id": "ac9fb0fe8c83",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-27"
+ },
+ {
+  "site": "Mining Weekly",
+  "url": "https://www.miningweekly.com/article/cte-divoire-project-on-track-for-first-production-in-2029-2026-11-27",
+  "title": "Gold project on track for first production in 2029",
+  "desc": "Gold producer Endeavour Mining’s Assafou gold project, in Côte d’Ivoire, is set to become a cornerstone of the company’s organic growth strategy, with first production on track for 2029 following the publication of the project’s definitive feasibility study (DFS) in April, says Endeavour Mining CEO Ian Cockerill. The project is expected to produce an average of 320 000 oz/y of gold at an all-inclu",
+  "date": "2026-11-27",
+  "id": "9b255f3d3414",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-27"
+ },
+ {
+  "site": "Mining Weekly",
   "url": "https://www.miningweekly.com/article/barrick-international-ceo-meets-mali-pm-in-first-visit-since-standoff-2026-11-26",
   "title": "Barrick International CEO meets Mali PM in first visit since standoff",
   "desc": "The CEO of Barrick Mining's new international division met with Mali's Prime Minister on Wednesday, the government said, the first visit by a foreign executive of the company since it resolved a major dispute with Mali a year ago. The visit points to warmer relations between the military-led West African nation and Barrick, which owns the mammoth Loulo-Gounkoto gold mining complex in western Mali ",
@@ -373,6 +445,55 @@
    "银"
   ],
   "fetched": "2026-11-26"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-26/china-railway-resources-group-plans-600-million-investment-zimbabwe",
+  "title": "China Railway Resources Group plans $600 million investment in Zimbabwe gold mines",
+  "desc": "Zimbabwe-focused Duration Gold has signed an agreement with China Railway Resources Group to explore $600 million in investments to revive and expand four gold mines in the African country, it said on Thursday.CRRG CEO Shi Yuan and Duration Gold Managing Director Allan Dolan signed the agreement in Harare to advance discussions on jointly investing to develop four large-scale gold projects in Zimb",
+  "date": "2026-11-26",
+  "id": "af405b84f161",
+  "metals": [
+   "金"
+  ],
+  "fetched": "2026-11-27"
+ },
+ {
+  "site": "Kitco News",
+  "url": "https://www.kitco.com/news/article/2026-11-26/gold-slips-silver-gains-fed-rate-hike-expectations-persist-holiday-trading",
+  "title": "Gold slips, silver gains as Fed rate hike expectations persist in holiday trading - Kitco PM Report",
+  "desc": "(Kitco NewsWire) - Spot gold prices were modestly lower and silver prices were higher in late trading Thursday, as persistent expectations for additional Federal Reserve interest rate increases and a comparatively firm U.S. dollar weighed on bullion during a holiday-thinned session. Gold struggled to extend Wednesday's recovery despite continued geopolitical uncertainty in the Middle East, while s",
+  "date": "2026-11-26",
+  "id": "59e3b8783b0f",
+  "metals": [
+   "金",
+   "银"
+  ],
+  "fetched": "2026-11-27"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/ega-spectro-alloys-reaches-expansion-milestone",
+  "title": "EGA Spectro Alloys reaches expansion milestone",
+  "desc": "EGA Spectro Alloys has reached a milestone in the ongoing expansion at its headquarters in Rosemount, Minnesota, USA.",
+  "date": "2026-11-26",
+  "id": "0789301ace04",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-27"
+ },
+ {
+  "site": "Aluminium International Today",
+  "url": "https://aluminiumtoday.com/news/bbm-calls-for-action-to-strengthen-uk-metals-capability",
+  "title": "BBM calls for action to strengthen UK metals capability",
+  "desc": "Industry group Back British Metals (BBM) is urging the UK Government to turn its critical minerals strategy into investable projects, industrial…",
+  "date": "2026-11-26",
+  "id": "09847d1d4100",
+  "metals": [
+   "铝"
+  ],
+  "fetched": "2026-11-27"
  },
  {
   "site": "Mining Weekly",
